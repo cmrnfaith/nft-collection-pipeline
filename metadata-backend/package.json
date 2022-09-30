@@ -1,0 +1,26 @@
+{
+  "name": "metadata-backend",
+  "version": "1.0.0",
+  "description": "Backend framework for serving data for the nuthouse nft collection.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "build": "npm install",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmrnfaith/nft-collection-pipeline.git"
+  },
+  "author": "cydro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmrnfaith/nft-collection-pipeline/issues"
+  },
+  "homepage": "https://github.com/cmrnfaith/nft-collection-pipeline#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.20"
+  }
+}
