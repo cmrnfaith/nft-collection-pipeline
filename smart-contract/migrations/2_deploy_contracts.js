@@ -2,7 +2,7 @@ const Squirrel = artifacts.require("./Squirrel.sol");
 const SquirrelFactory = artifacts.require("./SquirrelFactory.sol");
 
 const DEPLOY_SQUIRRELS = true;
-const DEPLOY_SQUIRRELS_SALE = true;
+const DEPLOY_SQUIRRELS_SALE = false;
 
 module.exports = async (deployer, network, addresses) => {
   // OpenSea proxy registry addresses for goerli and mainnet.
