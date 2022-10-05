@@ -11,8 +11,9 @@ app.get("/api/token/:token_id", (req, res) => {
   var token_id = req.params.token_id;
   var response = {
     name: `Squirrel #${token_id}`,
-    description: "Lit Squirrel just trying to get it's nuts.",
-    external_url: "cameronfaith.me",
+    description:
+      "Lonely squirrel in a big tree world just trying to get its next nut.",
+    external_url: "https://cameronfaith.me",
     image: "ipfs://QmTVZZ8j5tjE6oqrkyJD92wdbaKikwTo2nu9RSvBeQ2QS8",
     attributes: [
       {
