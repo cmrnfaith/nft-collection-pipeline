@@ -1,0 +1,39 @@
+{
+  "name": "jadu_art_engine",
+  "version": "1.0",
+  "description": "Tool to generate a list of png files given by a list of json attribute files.",
+  "main": "index.js",
+  "bin": "index.js",
+  "pkg": {
+    "assets": [
+      "layers/**/*",
+      "node_modules/**/*",
+      "src/**/*"
+    ]
+  },
+  "scripts": {
+    "clean_build": "node dashes.js && node removeWeight.js && node weight.js && node index.js",
+    "build": "node index.js",
+    "clean": "node utils/dashes.js",
+    "clean_all": "node utils/hashes.js && node utils/dashes.js",
+    "generate": "node utils/json.js",
+    "add_weights": "node utils/weight.js",
+    "remove_weights": "node utils/removeWeight.js",
+    "rarity": "node utils/rarity.js",
+    "preview": "node utils/preview.js",
+    "pixelate": "node utils/pixelate.js",
+    "update_info": "node utils/update_info.js",
+    "preview_gif": "node utils/preview_gif.js",
+    "test": "jest",
+    "traits": "node utils/traits.js",
+    "generate_metadata": "node utils/generate_metadata.js",
+    "generate_json": "node utils/generate_json.js"
+  },
+  "author": "Cameron Faith (Jadu)",
+  "dependencies": {
+    "canvas": "^2.9.1",
+    "gif-encoder-2": "^1.0.5",
+    "jest": "^28.1.0",
+    "sha1": "^1.1.1"
+  }
+}
