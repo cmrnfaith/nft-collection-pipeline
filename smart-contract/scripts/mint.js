@@ -1,5 +1,7 @@
 const HDWalletProvider = require("truffle-hdwallet-provider");
 const web3 = require("web3");
+const dotenv = require("dotenv");
+dotenv.config();
 const MNEMONIC = process.env.MNEMONIC;
 const NODE_API_KEY = process.env.INFURA_KEY || process.env.ALCHEMY_KEY;
 const isInfura = !!process.env.INFURA_KEY;
@@ -7,8 +9,8 @@ const FACTORY_CONTRACT_ADDRESS = process.env.FACTORY_CONTRACT_ADDRESS;
 const NFT_CONTRACT_ADDRESS = process.env.NFT_CONTRACT_ADDRESS;
 const OWNER_ADDRESS = process.env.OWNER_ADDRESS;
 const NETWORK = process.env.NETWORK;
-const NUM_CREATURES = 12;
-const NUM_LOOTBOXES = 4;
+const NUM_SQUIRRELS = 100;
+const NUM_LOOTBOXES = 0;
 const DEFAULT_OPTION_ID = 0;
 const LOOTBOX_OPTION_ID = 2;
 
@@ -41,7 +43,7 @@ const FACTORY_ABI = [
     constant: false,
     inputs: [
       {
-        name: "_optionId",
+        name: "amount",
         type: "uint256",
       },
       {
@@ -59,7 +61,7 @@ const FACTORY_ABI = [
 
 async function main() {
   const network =
-    NETWORK === "mainnet" || NETWORK === "live" ? "mainnet" : "rinkeby";
+    NETWORK === "mainnet" || NETWORK === "live" ? "mainnet" : "goerli";
   const provider = new HDWalletProvider(
     MNEMONIC,
     isInfura
@@ -75,20 +77,12 @@ async function main() {
       { gasLimit: "1000000" }
     );
 
-    // Creatures issued directly to the owner.
-    for (var i = 0; i < NUM_CREATURES; i++) {
+    // Squirrels issued directly to the owner.
+    for (var i = 0; i < NUM_SQUIRRELS; i++) {
       const result = await factoryContract.methods
         .mint(DEFAULT_OPTION_ID, OWNER_ADDRESS)
         .send({ from: OWNER_ADDRESS });
-      console.log("Minted creature. Transaction: " + result.transactionHash);
-    }
-
-    // Lootboxes issued directly to the owner.
-    for (var i = 0; i < NUM_LOOTBOXES; i++) {
-      const result = await factoryContract.methods
-        .mint(LOOTBOX_OPTION_ID, OWNER_ADDRESS)
-        .send({ from: OWNER_ADDRESS });
-      console.log("Minted lootbox. Transaction: " + result.transactionHash);
+      console.log("Minted squirrel. Transaction: " + result.transactionHash);
     }
   } else if (NFT_CONTRACT_ADDRESS) {
     const nftContract = new web3Instance.eth.Contract(
@@ -97,12 +91,12 @@ async function main() {
       { gasLimit: "1000000" }
     );
 
-    // Creatures issued directly to the owner.
-    for (var i = 0; i < NUM_CREATURES; i++) {
+    // Squirrel issued directly to the owner.
+    for (var i = 0; i < NUM_SQUIRRELS; i++) {
       const result = await nftContract.methods
         .mintTo(OWNER_ADDRESS)
         .send({ from: OWNER_ADDRESS });
-      console.log("Minted creature. Transaction: " + result.transactionHash);
+      console.log("Minted squirrel. Transaction: " + result.transactionHash);
     }
   } else {
     console.error(

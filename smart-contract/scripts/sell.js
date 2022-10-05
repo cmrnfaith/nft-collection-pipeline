@@ -1,9 +1,9 @@
 const opensea = require("opensea-js");
-const { WyvernSchemaName } = require('opensea-js/lib/types');
+const { WyvernSchemaName } = require("opensea-js/lib/types");
 const OpenSeaPort = opensea.OpenSeaPort;
 const Network = opensea.Network;
-const MnemonicWalletSubprovider = require("@0x/subproviders")
-  .MnemonicWalletSubprovider;
+const MnemonicWalletSubprovider =
+  require("@0x/subproviders").MnemonicWalletSubprovider;
 const RPCSubprovider = require("web3-provider-engine/subproviders/rpc");
 const Web3ProviderEngine = require("web3-provider-engine");
 
@@ -35,7 +35,7 @@ const mnemonicWalletSubprovider = new MnemonicWalletSubprovider({
   baseDerivationPath: BASE_DERIVATION_PATH,
 });
 const network =
-  NETWORK === "mainnet" || NETWORK === "live" ? "mainnet" : "rinkeby";
+  NETWORK === "mainnet" || NETWORK === "live" ? "mainnet" : "goerli";
 const infuraRpcSubprovider = new RPCSubprovider({
   rpcUrl: isInfura
     ? "https://" + network + ".infura.io/v3/" + NODE_API_KEY
@@ -53,7 +53,7 @@ const seaport = new OpenSeaPort(
     networkName:
       NETWORK === "mainnet" || NETWORK === "live"
         ? Network.Main
-        : Network.Rinkeby,
+        : Network.Goerli,
     apiKey: API_KEY,
   },
   (arg) => console.log(arg)
@@ -66,7 +66,7 @@ async function main() {
     asset: {
       tokenId: "1",
       tokenAddress: NFT_CONTRACT_ADDRESS,
-      schemaName: WyvernSchemaName.ERC721
+      schemaName: WyvernSchemaName.ERC721,
     },
     startAmount: 0.05,
     expirationTime: 0,
@@ -83,7 +83,7 @@ async function main() {
     asset: {
       tokenId: "2",
       tokenAddress: NFT_CONTRACT_ADDRESS,
-      schemaName: WyvernSchemaName.ERC721
+      schemaName: WyvernSchemaName.ERC721,
     },
     startAmount: 0.05,
     endAmount: 0.01,
@@ -104,7 +104,7 @@ async function main() {
     asset: {
       tokenId: "3",
       tokenAddress: NFT_CONTRACT_ADDRESS,
-      schemaName: WyvernSchemaName.ERC721
+      schemaName: WyvernSchemaName.ERC721,
     },
     startAmount: 0.03,
     expirationTime: expirationTime,

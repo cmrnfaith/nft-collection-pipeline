@@ -1,4 +1,6 @@
 const HDWalletProvider = require("truffle-hdwallet-provider");
+const dotenv = require("dotenv");
+dotenv.config();
 
 const MNEMONIC = process.env.MNEMONIC;
 const NODE_API_KEY = process.env.INFURA_KEY || process.env.ALCHEMY_KEY;
@@ -6,7 +8,7 @@ const isInfura = !!process.env.INFURA_KEY;
 
 const needsNodeAPI =
   process.env.npm_config_argv &&
-  (process.env.npm_config_argv.includes("rinkeby") ||
+  (process.env.npm_config_argv.includes("goerli") ||
     process.env.npm_config_argv.includes("live"));
 
 if ((!MNEMONIC || !NODE_API_KEY) && needsNodeAPI) {
@@ -14,9 +16,9 @@ if ((!MNEMONIC || !NODE_API_KEY) && needsNodeAPI) {
   process.exit(0);
 }
 
-const rinkebyNodeUrl = isInfura
-  ? "https://rinkeby.infura.io/v3/" + NODE_API_KEY
-  : "https://eth-rinkeby.alchemyapi.io/v2/" + NODE_API_KEY;
+const goerliNodeUrl = isInfura
+  ? "https://goerli.infura.io/v3/" + NODE_API_KEY
+  : "https://eth-goerli.alchemyapi.io/v2/" + NODE_API_KEY;
 
 const mainnetNodeUrl = isInfura
   ? "https://mainnet.infura.io/v3/" + NODE_API_KEY
@@ -30,12 +32,12 @@ module.exports = {
       gas: 5000000,
       network_id: "*", // Match any network id
     },
-    rinkeby: {
+    goerli: {
       provider: function () {
-        return new HDWalletProvider(MNEMONIC, rinkebyNodeUrl);
+        return new HDWalletProvider(MNEMONIC, goerliNodeUrl);
       },
       gas: 5000000,
-      network_id: 4,
+      network_id: 5,
     },
     live: {
       network_id: 1,
@@ -59,15 +61,13 @@ module.exports = {
       settings: {
         optimizer: {
           enabled: true,
-          runs: 20   // Optimize for how many times you intend to run the code
+          runs: 20, // Optimize for how many times you intend to run the code
         },
       },
     },
   },
-  plugins: [
-    'truffle-plugin-verify'
-  ],
+  plugins: ["truffle-plugin-verify"],
   api_keys: {
-    etherscan: 'ETHERSCAN_API_KEY_FOR_VERIFICATION'
-  }
+    etherscan: process.env.ETHERSCAN_KEY,
+  },
 };

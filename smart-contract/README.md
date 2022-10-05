@@ -36,29 +36,29 @@ sudo npm explore npm -g -- npm install node-gyp@latest # Update node-gyp
 
 ## Deploying
 
-### Deploying to the Rinkeby network.
+### Deploying to the Goerli network.
 
-0. Add test fundings to your Rinkeby testnet node on https://faucet.rinkeby.io
-1. To access a Rinkeby testnet node, you'll need to sign up for [Alchemy](https://dashboard.alchemyapi.io/signup?referral=affiliate:e535c3c3-9bc4-428f-8e27-4b70aa2e8ca5) and get a free API key. Click "View Key" and then copy the part of the URL after `v2/`.
+0. Add test fundings to your Goerli testnet node on https://faucet.goerli.io
+1. To access a Goerli testnet node, you'll need to sign up for [Alchemy](https://dashboard.alchemyapi.io/signup?referral=affiliate:e535c3c3-9bc4-428f-8e27-4b70aa2e8ca5) and get a free API key. Click "View Key" and then copy the part of the URL after `v2/`.
    a. You can use [Infura](https://infura.io) if you want as well. Just change `ALCHEMY_KEY` below to `INFURA_KEY`.
 2. Using your API key and the mnemonic for your Metamask wallet (make sure you're using a Metamask seed phrase that you're comfortable using for testing purposes), run:
 
 ```
 export ALCHEMY_KEY="<your_alchemy_project_id>"
 export MNEMONIC="<metmask_mnemonic>"
-export DEPLOY_CREATURES_SALE=0 
-yarn truffle deploy --network rinkeby
+export DEPLOY_CREATURES_SALE=0
+yarn truffle deploy --network goerli
 ```
 
 ### Minting tokens.
 
-After deploying to the Rinkeby network, there will be a contract on Rinkeby that will be viewable on [Rinkeby Etherscan](https://rinkeby.etherscan.io). For example, here is a [recently deployed contract](https://rinkeby.etherscan.io/address/0xeba05c5521a3b81e23d15ae9b2d07524bc453561). You should set this contract address and the address of your Metamask account as environment variables when running the minting script. If a [CreatureFactory was deployed](https://github.com/ProjectOpenSea/opensea-creatures/blob/master/migrations/2_deploy_contracts.js#L38), which the sample deploy steps above do, you'll need to specify its address below as it will be the owner on the NFT contract, and only it will have mint permissions. In that case, you won't need NFT_CONTRACT_ADDRESS, as all we need is the contract with mint permissions here.
+After deploying to the Goerli network, there will be a contract on Goerli that will be viewable on [Goerli Etherscan](https://goerli.etherscan.io). For example, here is a [recently deployed contract](https://goerli.etherscan.io/address/0xeba05c5521a3b81e23d15ae9b2d07524bc453561). You should set this contract address and the address of your Metamask account as environment variables when running the minting script. If a [CreatureFactory was deployed](https://github.com/ProjectOpenSea/opensea-creatures/blob/master/migrations/2_deploy_contracts.js#L38), which the sample deploy steps above do, you'll need to specify its address below as it will be the owner on the NFT contract, and only it will have mint permissions. In that case, you won't need NFT_CONTRACT_ADDRESS, as all we need is the contract with mint permissions here.
 
 ```
 export OWNER_ADDRESS="<my_address>"
 export NFT_CONTRACT_ADDRESS="<deployed_contract_address>"
 export FACTORY_CONTRACT_ADDRESS="<deployed_factory_contract_address>"
-export NETWORK="rinkeby"
+export NETWORK="goerli"
 node scripts/mint.js
 ```
 
@@ -126,15 +126,15 @@ yarn
 
 ## Deploying
 
-### Deploying to the Rinkeby network.
+### Deploying to the Goerli network.
 
-1. Follow the steps above to get a Rinkeby node API key
+1. Follow the steps above to get a Goerli node API key
 2. Using your API key and the mnemonic for your MetaMask wallet (make sure you're using a MetaMask seed phrase that you're comfortable using for testing purposes), run:
 
 ```
 export ALCHEMY_KEY="<alchemy_project_id>" # or you can use INFURA_KEY
 export MNEMONIC="<metmask_mnemonic>"
-DEPLOY_ACCESSORIES_SALE=1 yarn truffle migrate --network rinkeby
+DEPLOY_ACCESSORIES_SALE=1 yarn truffle migrate --network goerli
 ```
 
 ### Deploying to the mainnet Ethereum network.
@@ -151,7 +151,7 @@ Look for your newly deployed contract address in the logs! 🥳
 
 OpenSea will automatically pick up transfers on your contract. You can visit an asset by going to `https://opensea.io/assets/CONTRACT_ADDRESS/TOKEN_ID`.
 
-To load all your metadata on your items at once, visit [https://opensea.io/get-listed](https://opensea.io/get-listed) and enter your address to load the metadata into OpenSea! You can even do this for the Rinkeby test network if you deployed there, by going to [https://rinkeby.opensea.io/get-listed](https://rinkeby.opensea.io/get-listed).
+To load all your metadata on your items at once, visit [https://opensea.io/get-listed](https://opensea.io/get-listed) and enter your address to load the metadata into OpenSea! You can even do this for the Goerli test network if you deployed there, by going to [https://goerli.opensea.io/get-listed](https://goerli.opensea.io/get-listed).
 
 ### Troubleshooting
 
