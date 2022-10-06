@@ -207,79 +207,6 @@ function generateDirectoryListJsonFile(layerDir) {
   fs.writeFileSync(`${jsonDir}/_percentage.json`, JSON.stringify(jsonFile));
 }
 
-function generateTraitListJsonFile(
-  layerDir,
-  layer_configuration,
-  collection_count
-) {
-  const layers = getDirectories(layerDir);
-  const jsonFile = {
-    collection_count: collection_count,
-    discrete_traits: [],
-    non_discrete_traits: [],
-    traits: [],
-    layer_configuration: layer_configuration,
-    dependency_list: [],
-  };
-  var index = 0;
-  layers.forEach((layer) => {
-    jsonFile.traits[index] = {};
-    jsonFile.traits[index].trait_name = layer;
-
-    jsonFile.discrete_traits[index] = {};
-    jsonFile.discrete_traits[index].trait_name = layer;
-    jsonFile.non_discrete_traits[index] = {};
-    jsonFile.non_discrete_traits[index].trait_name = layer;
-    jsonFile.dependency_list[index] = {};
-    jsonFile.dependency_list[index].trait_name = layer;
-
-    jsonFile.dependency_list[index].dependencies = [];
-    jsonFile.traits[index].items = [];
-    jsonFile.discrete_traits[index].items = [];
-    jsonFile.non_discrete_traits[index].items = [];
-
-    files = getFiles(layerDir + "/" + layer);
-    var fileList = [];
-    files.forEach((file) => {
-      var newFile = {
-        file_name: file,
-        discrete: false,
-        number: -1,
-      };
-      fileList.push(newFile);
-    });
-    jsonFile.traits[index].number = files.length;
-    jsonFile.traits[index].items = fileList;
-    index++;
-  });
-  //Ava traits next
-  avaTraits.forEach((layer) => {
-    jsonFile.traits[index] = {};
-    jsonFile.traits[index].trait_name = layer.trait_name;
-
-    jsonFile.discrete_traits[index] = {};
-    jsonFile.discrete_traits[index].trait_name = layer.trait_name;
-    jsonFile.non_discrete_traits[index] = {};
-    jsonFile.non_discrete_traits[index].trait_name = layer.trait_name;
-    jsonFile.dependency_list[index] = {};
-    jsonFile.dependency_list[index].trait_name = layer.trait_name;
-
-    jsonFile.dependency_list[index].dependencies = [];
-    jsonFile.traits[index].items = [];
-    jsonFile.discrete_traits[index].items = [];
-    jsonFile.non_discrete_traits[index].items = [];
-
-    jsonFile.traits[index].number = layer.items.length;
-    var temp_array = [];
-    layer.items.forEach((item) =>
-      temp_array.push({ discrete: false, number: -1, file_name: item })
-    );
-    jsonFile.traits[index].items = temp_array;
-    index++;
-  });
-  fs.writeFileSync(`${jsonDir}/_traits.json`, JSON.stringify(jsonFile));
-}
-
 module.exports = {
   addWeightsToFiles,
   removeWeightsFromFiles,
@@ -290,6 +217,5 @@ module.exports = {
   removeHashesFromFiles,
   getRandomNumberBetween,
   calculateRequiredFileNumbers,
-  generateTraitListJsonFile,
   generateDirectoryListJsonFile,
 };

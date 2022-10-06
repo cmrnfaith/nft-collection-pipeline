@@ -7,11 +7,67 @@ const baseUri = "";
 
 const layerConfigurations = [
   {
-    grow_edition_size_to: 250,
+    grow_edition_size_to: 15,
     layersOrder: [
       { name: "Backgrounds" },
+      { name: "BodyAndTails" },
+      { name: "Coats" },
       { name: "Eyes" },
+      { name: "Eyebrows" },
       { name: "Mouths" },
+    ],
+    grow_edition_size_to: 30,
+    layersOrder: [
+      { name: "Backgrounds" },
+      { name: "BodyAndTails" },
+      { name: "Coats" },
+      { name: "Eyes" },
+      { name: "Eyebrows" },
+      { name: "Mouths" },
+      { name: "Sunglasses" },
+    ],
+    grow_edition_size_to: 35,
+    layersOrder: [
+      { name: "Backgrounds" },
+      { name: "BodyAndTails" },
+      { name: "Coats" },
+      { name: "Eyes" },
+      { name: "Eyebrows" },
+      { name: "Mouths" },
+      { name: "Hats" },
+    ],
+    grow_edition_size_to: 45,
+    layersOrder: [
+      { name: "Backgrounds" },
+      { name: "BodyAndTails" },
+      { name: "Coats" },
+      { name: "Eyes" },
+      { name: "Eyebrows" },
+      { name: "Mouths" },
+      { name: "FaceCoverings" },
+    ],
+    grow_edition_size_to: 55,
+    layersOrder: [
+      { name: "Backgrounds" },
+      { name: "BodyAndTails" },
+      { name: "Coats" },
+      { name: "Eyes" },
+      { name: "Eyebrows" },
+      { name: "Mouths" },
+      { name: "FaceCoverings" },
+      { name: "Hats" },
+    ],
+    grow_edition_size_to: 69,
+    layersOrder: [
+      { name: "Backgrounds" },
+      { name: "BodyAndTails" },
+      { name: "Coats" },
+      { name: "Eyes" },
+      { name: "Eyebrows" },
+      { name: "Mouths" },
+      { name: "FaceCoverings" },
+      { name: "Hats" },
+      { name: "Sunglasses" },
     ],
   },
 ];
@@ -27,7 +83,7 @@ const format = {
 };
 
 const gif = {
-  export: true,
+  export: false,
   repeat: -1,
   quality: 100,
   delay: 400,
