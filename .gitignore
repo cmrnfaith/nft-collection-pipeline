@@ -127,3 +127,4 @@ dist
 .pnp.*
 image-and-trait-generation/build/*
 .DS_Store
+*/.DS_Store
