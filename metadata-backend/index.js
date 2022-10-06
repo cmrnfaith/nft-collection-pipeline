@@ -1,6 +1,7 @@
 const express = require("express");
 const app = express();
 const port = process.env.PORT || 4000;
+const metadata = require("./utils/_metadata.json");
 
 // contractURI() support
 
@@ -36,21 +37,17 @@ app.get("/", (req, res) => {
 // Returns the metadata of each token
 // Refer to: https://docs.opensea.io/docs/metadata-standards
 app.get("/api/token/:token_id", (req, res) => {
+  metadata.sort(function (a, b) {
+    return a.edition - b.edition;
+  });
   var token_id = req.params.token_id;
-  var response = {
-    name: `Squirrel #${token_id}`,
-    description:
-      "Lonely squirrel in a big tree world just trying to get its next nut.",
-    external_url: "https://cameronfaith.me",
-    image:
-      "https://cloudflare-ipfs.com/ipfs/QmTVZZ8j5tjE6oqrkyJD92wdbaKikwTo2nu9RSvBeQ2QS8",
-    attributes: [
-      {
-        trait_type: "Exists",
-        value: "Yes",
-      },
-    ],
-  };
+  let response = metadata[token_id - 1];
+  response["name"] = `Squirrel #${token_id}`;
+  response["edition"] = null;
+  response["token_id"] = token_id;
+  response["description"] =
+    "Lonely squirrel in a big tree world just trying to get its next nut.";
+  response["external_url"] = "https://cameronfaith.me";
   res.send(response);
 });
 
