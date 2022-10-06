@@ -129,7 +129,6 @@ const addMetadata = (_dna, _edition) => {
     name: `${namePrefix}_${_edition}`,
     image: `$images/${_edition}.png`,
     edition: _edition,
-    baseURI: baseUri,
     attributes: attributesList,
   };
 
