@@ -1,2968 +1,2488 @@
 [
   {
-    "name": "Squirrel_1",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/1.png",
-    "edition": 1,
+    "name": "Squirrel_66",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/66.png",
+    "edition": 66,
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "value": "Sunrise"
+        "file_name": "DesertWind"
       },
       {
         "trait_type": "BodyAndTails",
-        "value": "OakTailOne"
+        "file_name": "BurntOrangeTailTwo"
       },
       {
         "trait_type": "Coats",
-        "value": "GreenSweater"
+        "file_name": "GreenSweater"
       },
       {
         "trait_type": "Eyes",
-        "value": "Blue"
+        "file_name": "Blue"
       },
       {
         "trait_type": "Eyebrows",
-        "value": "Curious"
+        "file_name": "Unibrow"
       },
       {
         "trait_type": "Mouths",
-        "value": "Hello"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Stoned"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "BlackShades"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_2",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/2.png",
-    "edition": 2,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "Emerald"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "BurntOrangeTailThree"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "GreenSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Calm"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "Hello"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Covid19"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "NeonShades"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_3",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/3.png",
-    "edition": 3,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "BumbleBee"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "BurntOrangeTailThree"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "BlueSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Spruce"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Bushy"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "Meh"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Covid19"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "NeonShades"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_4",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/4.png",
-    "edition": 4,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "DeepSea"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "OakTailTwo"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "GreenSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Fire"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Unibrow"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "Golden"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Stoned"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "WhiteParty"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_5",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/5.png",
-    "edition": 5,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "Mint"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "OakTailTwo"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "GreenSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Inquisitive"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "FullSmile"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Covid19"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Twirly"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "Golden"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_6",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/6.png",
-    "edition": 6,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "Grass"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "OakTailTwo"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "AlvinSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Fire"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Shock"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "FullSmile"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Stoned"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Twirly"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "NeonShades"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_7",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/7.png",
-    "edition": 7,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "SkyBlue"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "OakTailThree"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "AlvinSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Hazel"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Shock"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "Shock"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Covid19"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Twirly"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "Golden"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_8",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/8.png",
-    "edition": 8,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "DesertWind"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "BurntOrangeTailTwo"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "AlvinSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Shock"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "FullSmile"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Covid19"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "BlackShades"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_9",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/9.png",
-    "edition": 9,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "BumbleBee"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "OakTailThree"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "AlvinSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Fire"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Bushy"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "Golden"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Covid19"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "NeonNoLense"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_10",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/10.png",
-    "edition": 10,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "Turtle"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "OakTailOne"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "BlueSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Fire"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Bushy"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "Meh"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Stoned"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "WhiteShades"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_11",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/11.png",
-    "edition": 11,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "SkyBlue"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "BurntOrangeTailOne"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "AlvinSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Fire"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Curious"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "Hello"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Stoned"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Twirly"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "Golden"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_12",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/12.png",
-    "edition": 12,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "Midnight"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "OakTailTwo"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "BlueSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Furious"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "Hello"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Covid19"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "NeonParty"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_13",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/13.png",
-    "edition": 13,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "Fog"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "BurntOrangeTailOne"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "BlueSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Bushy"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "Crying"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Covid19"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Twirly"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "HarryPotter"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_14",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/14.png",
-    "edition": 14,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "Fuchsia"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "OakTailThree"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "GreenSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Fire"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Furious"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "Crying"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Covid19"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "NeonNoLense"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_15",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/15.png",
-    "edition": 15,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "Sunrise"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "OakTailThree"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "BlueSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Spruce"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Furious"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "Shock"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Stoned"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Twirly"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "WhiteParty"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_16",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/16.png",
-    "edition": 16,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "Grass"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "OakTailThree"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "GreenSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Hazel"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Inquisitive"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "Beard"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Stoned"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Twirly"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "BlackShades"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_17",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/17.png",
-    "edition": 17,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "DeepSea"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "BurntOrangeTailTwo"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "BlueSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Fire"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Shock"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "Meh"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Stoned"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "WhiteShades"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_18",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/18.png",
-    "edition": 18,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "Fuchsia"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "OakTailThree"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "GreenSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Fire"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Furious"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "Golden"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Covid19"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Twirly"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "Golden"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_19",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/19.png",
-    "edition": 19,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "Midnight"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "OakTailOne"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "GreenSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Unibrow"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "Crying"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Covid19"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "Golden"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_20",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/20.png",
-    "edition": 20,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "Heart"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "OakTailThree"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "BlueSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Shock"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "Beard"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Covid19"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Twirly"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "NeonParty"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_21",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/21.png",
-    "edition": 21,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "Grass"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "BurntOrangeTailTwo"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "AlvinSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Curious"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "Crying"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Covid19"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "NeonShades"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_22",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/22.png",
-    "edition": 22,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "Heart"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "OakTailOne"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "GreenSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Spruce"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Curious"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "Hello"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Covid19"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Twirly"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "BlackShades"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_23",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/23.png",
-    "edition": 23,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "Turtle"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "OakTailTwo"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "BlueSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Spruce"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Furious"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "Hello"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Covid19"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "WhiteParty"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_24",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/24.png",
-    "edition": 24,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "Turtle"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "BurntOrangeTailOne"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "BlueSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Spruce"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Furious"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "FullSmile"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Covid19"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Twirly"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "WhiteShades"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_25",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/25.png",
-    "edition": 25,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "Emerald"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "BurntOrangeTailTwo"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "GreenSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Spruce"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Shock"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "Shock"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Covid19"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "BlackShades"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_26",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/26.png",
-    "edition": 26,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "BumbleBee"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "OakTailThree"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "GreenSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Hazel"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Inquisitive"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "Hello"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Covid19"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "WhiteShades"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_27",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/27.png",
-    "edition": 27,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "Emerald"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "BurntOrangeTailTwo"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "AlvinSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Spruce"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Shock"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "Hello"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Covid19"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Twirly"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "NeonShades"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_28",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/28.png",
-    "edition": 28,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "DesertWind"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "BurntOrangeTailTwo"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "GreenSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Hazel"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Curious"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "Meh"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Stoned"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "WhiteShades"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_29",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/29.png",
-    "edition": 29,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "Mint"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "BurntOrangeTailThree"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "GreenSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Hazel"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Shock"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "Hello"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Covid19"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "WhiteShades"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_30",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/30.png",
-    "edition": 30,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "Violet"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "OakTailOne"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "AlvinSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Spruce"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Unibrow"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "Meh"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Covid19"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "BlackShades"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_31",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/31.png",
-    "edition": 31,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "DesertWind"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "OakTailTwo"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "AlvinSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Hazel"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Inquisitive"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "Meh"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Stoned"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "NeonNoLense"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_32",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/32.png",
-    "edition": 32,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "Turtle"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "OakTailThree"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "AlvinSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Fire"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Bushy"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "Meh"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Covid19"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "Golden"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_33",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/33.png",
-    "edition": 33,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "BumbleBee"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "OakTailTwo"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "GreenSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Fire"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Furious"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "FullSmile"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Stoned"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "HarryPotter"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_34",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/34.png",
-    "edition": 34,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "Turtle"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "OakTailOne"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "GreenSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Hazel"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Furious"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "Beard"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Covid19"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "WhiteParty"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_35",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/35.png",
-    "edition": 35,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "BumbleBee"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "OakTailThree"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "BlueSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Inquisitive"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "Beard"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Covid19"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Twirly"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "HarryPotter"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_36",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/36.png",
-    "edition": 36,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "Fuchsia"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "OakTailOne"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "AlvinSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Fire"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Inquisitive"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "Meh"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Covid19"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "NeonShades"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_37",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/37.png",
-    "edition": 37,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "Grass"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "OakTailTwo"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "GreenSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Bushy"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "Shock"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Stoned"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "NeonParty"
+        "file_name": "Shock"
       }
     ]
   },
   {
     "name": "Squirrel_38",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/38.png",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/38.png",
     "edition": 38,
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "value": "Midnight"
+        "file_name": "Midnight"
       },
       {
         "trait_type": "BodyAndTails",
-        "value": "BurntOrangeTailOne"
+        "file_name": "BurntOrangeTailTwo"
       },
       {
         "trait_type": "Coats",
-        "value": "BlueSweater"
+        "file_name": "GreenSweater"
       },
       {
         "trait_type": "Eyes",
-        "value": "Blue"
+        "file_name": "Fire"
       },
       {
         "trait_type": "Eyebrows",
-        "value": "Calm"
+        "file_name": "Inquisitive"
       },
       {
         "trait_type": "Mouths",
-        "value": "Beard"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Covid19"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Twirly"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "NeonNoLense"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_39",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/39.png",
-    "edition": 39,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "Grass"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "BurntOrangeTailThree"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "GreenSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Fire"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Curious"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "Beard"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Stoned"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "BlackShades"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_40",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/40.png",
-    "edition": 40,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "Fuchsia"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "OakTailTwo"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "AlvinSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Spruce"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Inquisitive"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "Crying"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Covid19"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "NeonParty"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_41",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/41.png",
-    "edition": 41,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "Sunrise"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "BurntOrangeTailThree"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "BlueSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Curious"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "Golden"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Covid19"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Twirly"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "BlackShades"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_42",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/42.png",
-    "edition": 42,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "Fuchsia"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "OakTailTwo"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "AlvinSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Curious"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "Shock"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Covid19"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "HarryPotter"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_43",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/43.png",
-    "edition": 43,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "Mint"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "OakTailOne"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "BlueSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Spruce"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Bushy"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "Crying"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Covid19"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "NeonParty"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_44",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/44.png",
-    "edition": 44,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "Sunrise"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "BurntOrangeTailOne"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "BlueSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Spruce"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Unibrow"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "FullSmile"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Stoned"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "BlackShades"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_45",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/45.png",
-    "edition": 45,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "Grass"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "OakTailTwo"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "AlvinSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Calm"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "Beard"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Covid19"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "WhiteShades"
+        "file_name": "Crying"
       }
     ]
   },
   {
     "name": "Squirrel_46",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/46.png",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/46.png",
     "edition": 46,
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "value": "BumbleBee"
+        "file_name": "Fog"
       },
       {
         "trait_type": "BodyAndTails",
-        "value": "BurntOrangeTailThree"
+        "file_name": "BurntOrangeTailTwo"
       },
       {
         "trait_type": "Coats",
-        "value": "BlueSweater"
+        "file_name": "GreenSweater"
       },
       {
         "trait_type": "Eyes",
-        "value": "Hazel"
+        "file_name": "Spruce"
       },
       {
         "trait_type": "Eyebrows",
-        "value": "Inquisitive"
+        "file_name": "Furious"
       },
       {
         "trait_type": "Mouths",
-        "value": "Shock"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Stoned"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "WhiteParty"
+        "file_name": "Shock"
       }
     ]
   },
   {
-    "name": "Squirrel_47",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/47.png",
-    "edition": 47,
+    "name": "Squirrel_25",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/25.png",
+    "edition": 25,
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "value": "Midnight"
+        "file_name": "Violet"
       },
       {
         "trait_type": "BodyAndTails",
-        "value": "OakTailOne"
+        "file_name": "OakTailTwo"
       },
       {
         "trait_type": "Coats",
-        "value": "BlueSweater"
+        "file_name": "GreenSweater"
       },
       {
         "trait_type": "Eyes",
-        "value": "Blue"
+        "file_name": "Blue"
       },
       {
         "trait_type": "Eyebrows",
-        "value": "Calm"
+        "file_name": "Furious"
       },
       {
         "trait_type": "Mouths",
-        "value": "Meh"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Stoned"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "WhiteShades"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_48",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/48.png",
-    "edition": 48,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "Turtle"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "OakTailThree"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "BlueSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Fire"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Bushy"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "Beard"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Stoned"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Twirly"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "WhiteParty"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_49",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/49.png",
-    "edition": 49,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "Fuchsia"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "OakTailThree"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "GreenSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Spruce"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Curious"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "Beard"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Covid19"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "WhiteParty"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_50",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/50.png",
-    "edition": 50,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "Fog"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "OakTailOne"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "AlvinSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Calm"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "Crying"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Covid19"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "Golden"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_51",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/51.png",
-    "edition": 51,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "Fog"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "BurntOrangeTailOne"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "AlvinSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Hazel"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Furious"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "FullSmile"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Covid19"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "BlackShades"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_52",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/52.png",
-    "edition": 52,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "BumbleBee"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "OakTailOne"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "BlueSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Hazel"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Inquisitive"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "Beard"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Stoned"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "WhiteShades"
+        "file_name": "Golden"
       }
     ]
   },
   {
     "name": "Squirrel_53",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/53.png",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/53.png",
     "edition": 53,
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "value": "Mint"
+        "file_name": "SkyBlue"
       },
       {
         "trait_type": "BodyAndTails",
-        "value": "OakTailThree"
+        "file_name": "BurntOrangeTailThree"
       },
       {
         "trait_type": "Coats",
-        "value": "GreenSweater"
+        "file_name": "GreenSweater"
       },
       {
         "trait_type": "Eyes",
-        "value": "Fire"
+        "file_name": "Blue"
       },
       {
         "trait_type": "Eyebrows",
-        "value": "Bushy"
+        "file_name": "Furious"
       },
       {
         "trait_type": "Mouths",
-        "value": "Golden"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Stoned"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "NeonNoLense"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_54",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/54.png",
-    "edition": 54,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "BumbleBee"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "OakTailOne"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "GreenSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Shock"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "Beard"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Covid19"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "WhiteShades"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_55",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/55.png",
-    "edition": 55,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "Grass"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "OakTailThree"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "GreenSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Calm"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "Golden"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Stoned"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "WhiteParty"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_56",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/56.png",
-    "edition": 56,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "Mint"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "BurntOrangeTailOne"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "AlvinSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Fire"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Furious"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "FullSmile"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Covid19"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "WhiteShades"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_57",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/57.png",
-    "edition": 57,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "Sunrise"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "OakTailThree"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "AlvinSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Fire"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Inquisitive"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "Meh"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Stoned"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "NeonParty"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_58",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/58.png",
-    "edition": 58,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "Emerald"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "BurntOrangeTailOne"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "AlvinSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Unibrow"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "Crying"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Covid19"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "NeonShades"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_59",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/59.png",
-    "edition": 59,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "SkyBlue"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "BurntOrangeTailTwo"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "AlvinSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Hazel"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Unibrow"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "Golden"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Covid19"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "WhiteShades"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_60",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/60.png",
-    "edition": 60,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "Fog"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "BurntOrangeTailOne"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "BlueSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Fire"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Inquisitive"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "Beard"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Covid19"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "NeonParty"
+        "file_name": "FullSmile"
       }
     ]
   },
   {
     "name": "Squirrel_61",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/61.png",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/61.png",
     "edition": 61,
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "value": "Violet"
+        "file_name": "BumbleBee"
       },
       {
         "trait_type": "BodyAndTails",
-        "value": "OakTailThree"
+        "file_name": "OakTailThree"
       },
       {
         "trait_type": "Coats",
-        "value": "GreenSweater"
+        "file_name": "GreenSweater"
       },
       {
         "trait_type": "Eyes",
-        "value": "Spruce"
+        "file_name": "Blue"
       },
       {
         "trait_type": "Eyebrows",
-        "value": "Curious"
+        "file_name": "Bushy"
       },
       {
         "trait_type": "Mouths",
-        "value": "Crying"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Stoned"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Twirly"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "BlackShades"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_62",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/62.png",
-    "edition": 62,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "DesertWind"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "OakTailOne"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "BlueSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Unibrow"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "FullSmile"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Covid19"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Twirly"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "BlackShades"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_63",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/63.png",
-    "edition": 63,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "Grass"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "OakTailOne"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "AlvinSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Fire"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Calm"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "Meh"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Covid19"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Twirly"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "WhiteShades"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_64",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/64.png",
-    "edition": 64,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "Sunrise"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "OakTailOne"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "AlvinSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Hazel"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Inquisitive"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "Meh"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Covid19"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Twirly"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "NeonShades"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_65",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/65.png",
-    "edition": 65,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "BumbleBee"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "OakTailThree"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "BlueSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Fire"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Inquisitive"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "Hello"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Stoned"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "WhiteParty"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_66",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/66.png",
-    "edition": 66,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "Sunrise"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "OakTailTwo"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "BlueSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Fire"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Unibrow"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "FullSmile"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Covid19"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Twirly"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "BlackShades"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_67",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/67.png",
-    "edition": 67,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "Grass"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "BurntOrangeTailThree"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "BlueSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Hazel"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Bushy"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "Beard"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Stoned"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "NeonParty"
-      }
-    ]
-  },
-  {
-    "name": "Squirrel_68",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/68.png",
-    "edition": 68,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "Heart"
-      },
-      {
-        "trait_type": "BodyAndTails",
-        "value": "BurntOrangeTailTwo"
-      },
-      {
-        "trait_type": "Coats",
-        "value": "BlueSweater"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Hazel"
-      },
-      {
-        "trait_type": "Eyebrows",
-        "value": "Inquisitive"
-      },
-      {
-        "trait_type": "Mouths",
-        "value": "FullSmile"
-      },
-      {
-        "trait_type": "FaceCoverings",
-        "value": "Stoned"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "Twirly"
-      },
-      {
-        "trait_type": "Sunglasses",
-        "value": "Golden"
+        "file_name": "Crying"
       }
     ]
   },
   {
     "name": "Squirrel_69",
-    "image": "https://www.cloudflare-ipfs.com/ipfs/QmdJgMUqSAxuu8YihCox7kaf6Jf67JxuiNURj9UwVTnkrh/69.png",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/69.png",
     "edition": 69,
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "value": "BumbleBee"
+        "file_name": "Emerald"
       },
       {
         "trait_type": "BodyAndTails",
-        "value": "BurntOrangeTailTwo"
+        "file_name": "OakTailOne"
       },
       {
         "trait_type": "Coats",
-        "value": "GreenSweater"
+        "file_name": "BlueSweater"
       },
       {
         "trait_type": "Eyes",
-        "value": "Blue"
+        "file_name": "Hazel"
       },
       {
         "trait_type": "Eyebrows",
-        "value": "Furious"
+        "file_name": "Calm"
       },
       {
         "trait_type": "Mouths",
-        "value": "FullSmile"
+        "file_name": "Shock"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_34",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/34.png",
+    "edition": 34,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "BumbleBee"
       },
       {
-        "trait_type": "FaceCoverings",
-        "value": "Covid19"
+        "trait_type": "BodyAndTails",
+        "file_name": "BurntOrangeTailOne"
       },
       {
-        "trait_type": "Hats",
-        "value": "Twirly"
+        "trait_type": "Coats",
+        "file_name": "BlueSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Hazel"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Calm"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "Beard"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_3",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/3.png",
+    "edition": 3,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "Heart"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "BurntOrangeTailThree"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "GreenSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Hazel"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Unibrow"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "Golden"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_11",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/11.png",
+    "edition": 11,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "DeepSea"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "OakTailTwo"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "GreenSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Blue"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Shock"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "Crying"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_45",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/45.png",
+    "edition": 45,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "Emerald"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "OakTailTwo"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "GreenSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Hazel"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Furious"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "Meh"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_22",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/22.png",
+    "edition": 22,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "BumbleBee"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "OakTailTwo"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "BlueSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Blue"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Inquisitive"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "Shock"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_24",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/24.png",
+    "edition": 24,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "Violet"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "BurntOrangeTailOne"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "BlueSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Spruce"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Inquisitive"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "FullSmile"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_62",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/62.png",
+    "edition": 62,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "DeepSea"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "OakTailTwo"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "GreenSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Blue"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Bushy"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "Crying"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_39",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/39.png",
+    "edition": 39,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "DesertWind"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "BurntOrangeTailOne"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "BlueSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Spruce"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Calm"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "Hello"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_30",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/30.png",
+    "edition": 30,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "Grass"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "BurntOrangeTailThree"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "AlvinSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Spruce"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Curious"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "Beard"
       },
       {
         "trait_type": "Sunglasses",
-        "value": "Golden"
+        "file_name": "NeonParty"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_63",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/63.png",
+    "edition": 63,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "Emerald"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "OakTailThree"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "GreenSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Spruce"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Calm"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "Meh"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "file_name": "NeonParty"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_44",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/44.png",
+    "edition": 44,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "Sunrise"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "BurntOrangeTailThree"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "BlueSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Fire"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Curious"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "Golden"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "file_name": "Golden"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_31",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/31.png",
+    "edition": 31,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "SkyBlue"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "OakTailTwo"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "BlueSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Spruce"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Inquisitive"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "FullSmile"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "file_name": "Golden"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_7",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/7.png",
+    "edition": 7,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "BumbleBee"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "BurntOrangeTailTwo"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "GreenSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Hazel"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Shock"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "Shock"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "file_name": "HarryPotter"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_13",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/13.png",
+    "edition": 13,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "DeepSea"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "BurntOrangeTailOne"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "AlvinSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Fire"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Curious"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "Beard"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "file_name": "WhiteParty"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_40",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/40.png",
+    "edition": 40,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "DeepSea"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "BurntOrangeTailThree"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "AlvinSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Hazel"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Furious"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "Golden"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "file_name": "NeonNoLense"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_52",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/52.png",
+    "edition": 52,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "Midnight"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "OakTailThree"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "AlvinSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Fire"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Unibrow"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "Crying"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "file_name": "Golden"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_48",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/48.png",
+    "edition": 48,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "Heart"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "OakTailThree"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "GreenSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Hazel"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Shock"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "Golden"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "file_name": "WhiteParty"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_55",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/55.png",
+    "edition": 55,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "Grass"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "BurntOrangeTailOne"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "AlvinSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Fire"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Shock"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "Golden"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "file_name": "Golden"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_16",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/16.png",
+    "edition": 16,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "Sunrise"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "BurntOrangeTailThree"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "GreenSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Hazel"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Furious"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "Hello"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "file_name": "NeonParty"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_37",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/37.png",
+    "edition": 37,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "Heart"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "OakTailTwo"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "GreenSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Blue"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Shock"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "Hello"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "file_name": "NeonParty"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_41",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/41.png",
+    "edition": 41,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "Midnight"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "OakTailOne"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "BlueSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Fire"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Bushy"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "FullSmile"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "file_name": "NeonParty"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_42",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/42.png",
+    "edition": 42,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "Turtle"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "BurntOrangeTailOne"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "AlvinSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Hazel"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Shock"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "Shock"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "file_name": "Golden"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_64",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/64.png",
+    "edition": 64,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "SkyBlue"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "BurntOrangeTailThree"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "AlvinSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Spruce"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Shock"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "Hello"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "file_name": "WhiteParty"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_58",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/58.png",
+    "edition": 58,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "Mint"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "BurntOrangeTailThree"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "GreenSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Fire"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Shock"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "Golden"
+      },
+      {
+        "trait_type": "Hats",
+        "file_name": "Red"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_51",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/51.png",
+    "edition": 51,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "Fuchsia"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "BurntOrangeTailTwo"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "AlvinSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Hazel"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Unibrow"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "Meh"
+      },
+      {
+        "trait_type": "Hats",
+        "file_name": "Red"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_32",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/32.png",
+    "edition": 32,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "SkyBlue"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "BurntOrangeTailThree"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "BlueSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Spruce"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Furious"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "FullSmile"
+      },
+      {
+        "trait_type": "Hats",
+        "file_name": "Blue"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_4",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/4.png",
+    "edition": 4,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "Sunrise"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "BurntOrangeTailTwo"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "GreenSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Fire"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Shock"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "Golden"
+      },
+      {
+        "trait_type": "Hats",
+        "file_name": "Blue"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_49",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/49.png",
+    "edition": 49,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "Fog"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "BurntOrangeTailThree"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "GreenSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Hazel"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Calm"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "FullSmile"
+      },
+      {
+        "trait_type": "Hats",
+        "file_name": "Blue"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_2",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/2.png",
+    "edition": 2,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "Fog"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "BurntOrangeTailOne"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "GreenSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Hazel"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Furious"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "FullSmile"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "file_name": "BlackShades"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_33",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/33.png",
+    "edition": 33,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "BumbleBee"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "BurntOrangeTailTwo"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "BlueSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Fire"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Inquisitive"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "Golden"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "file_name": "WhiteShades"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_9",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/9.png",
+    "edition": 9,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "BumbleBee"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "OakTailThree"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "GreenSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Spruce"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Calm"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "Shock"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "file_name": "WhiteParty"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_50",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/50.png",
+    "edition": 50,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "Emerald"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "OakTailThree"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "BlueSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Fire"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Curious"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "Beard"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "file_name": "HarryPotter"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_65",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/65.png",
+    "edition": 65,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "SkyBlue"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "BurntOrangeTailTwo"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "BlueSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Fire"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Furious"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "Crying"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "file_name": "WhiteShades"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_29",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/29.png",
+    "edition": 29,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "Fog"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "OakTailTwo"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "AlvinSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Blue"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Inquisitive"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "Hello"
+      },
+      {
+        "trait_type": "Hats",
+        "file_name": "Red"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "file_name": "NeonNoLense"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_43",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/43.png",
+    "edition": 43,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "Fog"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "BurntOrangeTailThree"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "AlvinSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Fire"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Furious"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "FullSmile"
+      },
+      {
+        "trait_type": "Hats",
+        "file_name": "Blue"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "file_name": "BlackShades"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_27",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/27.png",
+    "edition": 27,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "DeepSea"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "OakTailThree"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "GreenSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Blue"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Furious"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "Beard"
+      },
+      {
+        "trait_type": "Hats",
+        "file_name": "Red"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "file_name": "NeonNoLense"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_23",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/23.png",
+    "edition": 23,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "Sunrise"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "BurntOrangeTailThree"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "BlueSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Spruce"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Bushy"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "Meh"
+      },
+      {
+        "trait_type": "Hats",
+        "file_name": "Twirly"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "file_name": "NeonNoLense"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_68",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/68.png",
+    "edition": 68,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "Sunrise"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "OakTailThree"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "BlueSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Fire"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Inquisitive"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "FullSmile"
+      },
+      {
+        "trait_type": "Hats",
+        "file_name": "Red"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "file_name": "Golden"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_56",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/56.png",
+    "edition": 56,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "Sunrise"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "OakTailThree"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "AlvinSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Hazel"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Inquisitive"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "FullSmile"
+      },
+      {
+        "trait_type": "Hats",
+        "file_name": "Blue"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "file_name": "BlackShades"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_67",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/67.png",
+    "edition": 67,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "Mint"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "OakTailOne"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "AlvinSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Fire"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Inquisitive"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "Beard"
+      },
+      {
+        "trait_type": "Hats",
+        "file_name": "Red"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "file_name": "HarryPotter"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_26",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/26.png",
+    "edition": 26,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "Mint"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "BurntOrangeTailTwo"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "BlueSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Blue"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Calm"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "FullSmile"
+      },
+      {
+        "trait_type": "Hats",
+        "file_name": "Red"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "file_name": "HarryPotter"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_59",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/59.png",
+    "edition": 59,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "Midnight"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "BurntOrangeTailTwo"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "GreenSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Blue"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Bushy"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "Hello"
+      },
+      {
+        "trait_type": "Hats",
+        "file_name": "Blue"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "file_name": "WhiteShades"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_60",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/60.png",
+    "edition": 60,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "Midnight"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "OakTailOne"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "BlueSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Spruce"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Inquisitive"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "Golden"
+      },
+      {
+        "trait_type": "Hats",
+        "file_name": "Blue"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "file_name": "HarryPotter"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_8",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/8.png",
+    "edition": 8,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "SkyBlue"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "BurntOrangeTailOne"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "GreenSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Spruce"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Shock"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "FullSmile"
+      },
+      {
+        "trait_type": "Hats",
+        "file_name": "Twirly"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "file_name": "NeonShades"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_28",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/28.png",
+    "edition": 28,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "Midnight"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "BurntOrangeTailTwo"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "GreenSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Spruce"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Furious"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "Shock"
+      },
+      {
+        "trait_type": "Hats",
+        "file_name": "Twirly"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "file_name": "NeonParty"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_6",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/6.png",
+    "edition": 6,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "Sunrise"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "OakTailTwo"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "GreenSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Hazel"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Furious"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "FullSmile"
+      },
+      {
+        "trait_type": "Hats",
+        "file_name": "Twirly"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "file_name": "WhiteParty"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_19",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/19.png",
+    "edition": 19,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "Violet"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "OakTailTwo"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "GreenSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Hazel"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Curious"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "Beard"
+      },
+      {
+        "trait_type": "Hats",
+        "file_name": "Twirly"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "file_name": "NeonShades"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_5",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/5.png",
+    "edition": 5,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "Fuchsia"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "BurntOrangeTailOne"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "BlueSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Blue"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Bushy"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "Meh"
+      },
+      {
+        "trait_type": "Hats",
+        "file_name": "Red"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "file_name": "HarryPotter"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_57",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/57.png",
+    "edition": 57,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "Violet"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "OakTailTwo"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "AlvinSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Blue"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Unibrow"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "Beard"
+      },
+      {
+        "trait_type": "FaceCoverings",
+        "file_name": "Stoned"
+      },
+      {
+        "trait_type": "Hats",
+        "file_name": "Red"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_10",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/10.png",
+    "edition": 10,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "DesertWind"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "BurntOrangeTailOne"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "GreenSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Blue"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Shock"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "Crying"
+      },
+      {
+        "trait_type": "FaceCoverings",
+        "file_name": "Stoned"
+      },
+      {
+        "trait_type": "Hats",
+        "file_name": "Red"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_36",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/36.png",
+    "edition": 36,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "Fog"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "OakTailTwo"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "BlueSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Hazel"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Unibrow"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "Crying"
+      },
+      {
+        "trait_type": "FaceCoverings",
+        "file_name": "Stoned"
+      },
+      {
+        "trait_type": "Hats",
+        "file_name": "Red"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_21",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/21.png",
+    "edition": 21,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "Mint"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "OakTailOne"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "GreenSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Fire"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Curious"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "Shock"
+      },
+      {
+        "trait_type": "FaceCoverings",
+        "file_name": "Stoned"
+      },
+      {
+        "trait_type": "Hats",
+        "file_name": "Twirly"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_12",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/12.png",
+    "edition": 12,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "DesertWind"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "BurntOrangeTailThree"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "BlueSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Spruce"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Curious"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "Beard"
+      },
+      {
+        "trait_type": "FaceCoverings",
+        "file_name": "Stoned"
+      },
+      {
+        "trait_type": "Hats",
+        "file_name": "Twirly"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_54",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/54.png",
+    "edition": 54,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "Heart"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "OakTailTwo"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "GreenSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Hazel"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Unibrow"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "FullSmile"
+      },
+      {
+        "trait_type": "FaceCoverings",
+        "file_name": "Stoned"
+      },
+      {
+        "trait_type": "Hats",
+        "file_name": "Blue"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_20",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/20.png",
+    "edition": 20,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "Grass"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "OakTailOne"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "GreenSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Spruce"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Calm"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "Golden"
+      },
+      {
+        "trait_type": "FaceCoverings",
+        "file_name": "Covid19"
+      },
+      {
+        "trait_type": "Hats",
+        "file_name": "Twirly"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_47",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/47.png",
+    "edition": 47,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "Emerald"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "OakTailTwo"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "BlueSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Blue"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Unibrow"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "Shock"
+      },
+      {
+        "trait_type": "FaceCoverings",
+        "file_name": "Stoned"
+      },
+      {
+        "trait_type": "Hats",
+        "file_name": "Twirly"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_17",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/17.png",
+    "edition": 17,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "Midnight"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "OakTailThree"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "BlueSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Blue"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Curious"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "Meh"
+      },
+      {
+        "trait_type": "FaceCoverings",
+        "file_name": "Covid19"
+      },
+      {
+        "trait_type": "Hats",
+        "file_name": "Blue"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_15",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/15.png",
+    "edition": 15,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "Heart"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "BurntOrangeTailThree"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "GreenSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Blue"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Shock"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "Hello"
+      },
+      {
+        "trait_type": "FaceCoverings",
+        "file_name": "Covid19"
+      },
+      {
+        "trait_type": "Hats",
+        "file_name": "Red"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_35",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/35.png",
+    "edition": 35,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "Heart"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "BurntOrangeTailTwo"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "BlueSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Blue"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Calm"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "Crying"
+      },
+      {
+        "trait_type": "FaceCoverings",
+        "file_name": "Stoned"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "file_name": "WhiteParty"
+      },
+      {
+        "trait_type": "Hats",
+        "file_name": "Red"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_14",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/14.png",
+    "edition": 14,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "Mint"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "BurntOrangeTailThree"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "AlvinSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Spruce"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Calm"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "Shock"
+      },
+      {
+        "trait_type": "FaceCoverings",
+        "file_name": "Stoned"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "file_name": "BlackShades"
+      },
+      {
+        "trait_type": "Hats",
+        "file_name": "Twirly"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_1",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/1.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "BumbleBee"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "OakTailThree"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "GreenSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Blue"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Furious"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "FullSmile"
+      },
+      {
+        "trait_type": "FaceCoverings",
+        "file_name": "Covid19"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "file_name": "NeonNoLense"
+      },
+      {
+        "trait_type": "Hats",
+        "file_name": "Blue"
+      }
+    ]
+  },
+  {
+    "name": "Squirrel_18",
+    "image": "https://www.cloudflare-ipfs.com/ipfs/QmcoCXdbQDHGuMnWdw4usyZjY159UcPgCapjQjmGDFmPfJ/18.png",
+    "edition": 18,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "file_name": "Turtle"
+      },
+      {
+        "trait_type": "BodyAndTails",
+        "file_name": "BurntOrangeTailThree"
+      },
+      {
+        "trait_type": "Coats",
+        "file_name": "BlueSweater"
+      },
+      {
+        "trait_type": "Eyes",
+        "file_name": "Blue"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "file_name": "Curious"
+      },
+      {
+        "trait_type": "Mouths",
+        "file_name": "FullSmile"
+      },
+      {
+        "trait_type": "FaceCoverings",
+        "file_name": "Stoned"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "file_name": "NeonParty"
+      },
+      {
+        "trait_type": "Hats",
+        "file_name": "Twirly"
       }
     ]
   }
