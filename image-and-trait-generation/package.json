@@ -29,7 +29,7 @@
     "generate_metadata": "node utils/generate_metadata.js",
     "generate_json": "node utils/generate_json.js"
   },
-  "author": "Cameron Faith (Jadu)",
+  "author": "Cameron Faith (cydro)",
   "dependencies": {
     "canvas": "^2.9.1",
     "gif-encoder-2": "^1.0.5",
