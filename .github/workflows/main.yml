@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - fix-ci
 
 jobs:
   build:
@@ -14,5 +15,5 @@ jobs:
         with:
           heroku_api_key: ${{secrets.HEROKU_API_KEY}}
           heroku_app_name: "nuthouse" #Must be unique in Heroku
-          heroku_email: "spicybananaman@gmail.com"
+          heroku_email: ${{secrets.EMAIL}}
           appdir: metadata-backend
