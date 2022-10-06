@@ -30,7 +30,7 @@ const CONTRACT_URI_METADATA = {
 const CONTRACT_URI_METADATA_AVAILABLE = Object.keys(CONTRACT_URI_METADATA);
 
 app.get("/", (req, res) => {
-  res.send("Hello World!");
+  res.send("Hello World with CI!");
 });
 
 // Returns the metadata of each token
