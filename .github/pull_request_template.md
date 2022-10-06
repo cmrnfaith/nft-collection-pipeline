@@ -19,7 +19,3 @@
 ## Technical risk
 
 [Overall product level assessment of risk of change. Need technical risk & halo effect]
-
-## Comments to reviewers
-
-[Info per person for what to focus on, or historical info to understand who have previously reviewed and coverage. Help them get context.]
