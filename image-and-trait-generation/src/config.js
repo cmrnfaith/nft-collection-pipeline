@@ -16,6 +16,8 @@ const layerConfigurations = [
       { name: "Eyebrows" },
       { name: "Mouths" },
     ],
+  },
+  {
     grow_edition_size_to: 30,
     layersOrder: [
       { name: "Backgrounds" },
@@ -26,6 +28,8 @@ const layerConfigurations = [
       { name: "Mouths" },
       { name: "Sunglasses" },
     ],
+  },
+  {
     grow_edition_size_to: 35,
     layersOrder: [
       { name: "Backgrounds" },
@@ -36,7 +40,9 @@ const layerConfigurations = [
       { name: "Mouths" },
       { name: "Hats" },
     ],
-    grow_edition_size_to: 45,
+  },
+  {
+    grow_edition_size_to: 40,
     layersOrder: [
       { name: "Backgrounds" },
       { name: "BodyAndTails" },
@@ -44,9 +50,24 @@ const layerConfigurations = [
       { name: "Eyes" },
       { name: "Eyebrows" },
       { name: "Mouths" },
-      { name: "FaceCoverings" },
+      { name: "Sunglasses" },
     ],
+  },
+  {
     grow_edition_size_to: 55,
+    layersOrder: [
+      { name: "Backgrounds" },
+      { name: "BodyAndTails" },
+      { name: "Coats" },
+      { name: "Eyes" },
+      { name: "Eyebrows" },
+      { name: "Mouths" },
+      { name: "Hats" },
+      { name: "Sunglasses" },
+    ],
+  },
+  {
+    grow_edition_size_to: 65,
     layersOrder: [
       { name: "Backgrounds" },
       { name: "BodyAndTails" },
@@ -57,6 +78,8 @@ const layerConfigurations = [
       { name: "FaceCoverings" },
       { name: "Hats" },
     ],
+  },
+  {
     grow_edition_size_to: 69,
     layersOrder: [
       { name: "Backgrounds" },
@@ -66,13 +89,13 @@ const layerConfigurations = [
       { name: "Eyebrows" },
       { name: "Mouths" },
       { name: "FaceCoverings" },
-      { name: "Hats" },
       { name: "Sunglasses" },
+      { name: "Hats" },
     ],
   },
 ];
 
-const shuffleLayerConfigurations = false;
+const shuffleLayerConfigurations = true;
 
 const debugLogs = false;
 
