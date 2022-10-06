@@ -25,7 +25,7 @@ const CONTRACT_URI_METADATA = {
     external_link: "https://cameronfaith.me",
   },
 };
-const CONTRACT_URI_METADATA_AVAILABLE = CONTRACT_URI_METADATA.keys();
+const CONTRACT_URI_METADATA_AVAILABLE = Object.keys(CONTRACT_URI_METADATA);
 
 app.get("/", (req, res) => {
   res.send("Hello World!");

@@ -70,7 +70,20 @@ async function main() {
   );
   const web3Instance = new web3(provider);
 
-  if (false) {
+  if (FACTORY_CONTRACT_ADDRESS) {
+    const factoryContract = new web3Instance.eth.Contract(
+      FACTORY_ABI,
+      FACTORY_CONTRACT_ADDRESS,
+      { gasLimit: "1000000" }
+    );
+
+    // Squirrels issued directly to the owner.
+    for (var i = 0; i < NUM_SQUIRRELS; i++) {
+      const result = await factoryContract.methods
+        .mint(DEFAULT_OPTION_ID, OWNER_ADDRESS)
+        .send({ from: OWNER_ADDRESS });
+      console.log("Minted squirrel. Transaction: " + result.transactionHash);
+    }
   } else if (NFT_CONTRACT_ADDRESS) {
     const nftContract = new web3Instance.eth.Contract(
       NFT_ABI,
