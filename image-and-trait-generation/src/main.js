@@ -129,7 +129,6 @@ const addMetadata = (_dna, _edition) => {
     name: `${namePrefix}_${_edition}`,
     image: `$images/${_edition}.png`,
     edition: _edition,
-    baseURI: baseUri,
     attributes: attributesList,
   };
 
@@ -141,7 +140,7 @@ const addAttributes = (_element) => {
   let selectedElement = _element.layer.selectedElement;
   attributesList.push({
     trait_type: _element.layer.name,
-    file_name: selectedElement.name,
+    value: selectedElement.name,
   });
 };
 
