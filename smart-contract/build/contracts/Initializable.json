@@ -15,15 +15,15 @@
     "absolutePath": "/Users/cameronfaith/Documents/GitHub/nft-collection-pipeline/smart-contract/contracts/common/meta-transactions/Initializable.sol",
     "exportedSymbols": {
       "Initializable": [
-        899
+        881
       ]
     },
-    "id": 900,
+    "id": 882,
     "license": "MIT",
     "nodeType": "SourceUnit",
     "nodes": [
       {
-        "id": 881,
+        "id": 863,
         "literals": [
           "solidity",
           "^",
@@ -40,9 +40,9 @@
         "contractDependencies": [],
         "contractKind": "contract",
         "fullyImplemented": true,
-        "id": 899,
+        "id": 881,
         "linearizedBaseContracts": [
-          899
+          881
         ],
         "name": "Initializable",
         "nameLocation": "67:13:7",
@@ -50,12 +50,12 @@
         "nodes": [
           {
             "constant": false,
-            "id": 884,
+            "id": 866,
             "mutability": "mutable",
             "name": "inited",
             "nameLocation": "92:6:7",
             "nodeType": "VariableDeclaration",
-            "scope": 899,
+            "scope": 881,
             "src": "87:19:7",
             "stateVariable": true,
             "storageLocation": "default",
@@ -64,7 +64,7 @@
               "typeString": "bool"
             },
             "typeName": {
-              "id": 882,
+              "id": 864,
               "name": "bool",
               "nodeType": "ElementaryTypeName",
               "src": "87:4:7",
@@ -75,7 +75,7 @@
             },
             "value": {
               "hexValue": "66616c7365",
-              "id": 883,
+              "id": 865,
               "isConstant": false,
               "isLValue": false,
               "isPure": true,
@@ -93,7 +93,7 @@
           },
           {
             "body": {
-              "id": 897,
+              "id": 879,
               "nodeType": "Block",
               "src": "136:85:7",
               "statements": [
@@ -101,7 +101,7 @@
                   "expression": {
                     "arguments": [
                       {
-                        "id": 888,
+                        "id": 870,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": false,
@@ -111,11 +111,11 @@
                         "prefix": true,
                         "src": "154:7:7",
                         "subExpression": {
-                          "id": 887,
+                          "id": 869,
                           "name": "inited",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 884,
+                          "referencedDeclaration": 866,
                           "src": "155:6:7",
                           "typeDescriptions": {
                             "typeIdentifier": "t_bool",
@@ -129,7 +129,7 @@
                       },
                       {
                         "hexValue": "616c726561647920696e69746564",
-                        "id": 889,
+                        "id": 871,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": true,
@@ -155,7 +155,7 @@
                           "typeString": "literal_string \"already inited\""
                         }
                       ],
-                      "id": 886,
+                      "id": 868,
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
@@ -169,7 +169,7 @@
                         "typeString": "function (bool,string memory) pure"
                       }
                     },
-                    "id": 890,
+                    "id": 872,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -185,28 +185,28 @@
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 891,
+                  "id": 873,
                   "nodeType": "ExpressionStatement",
                   "src": "146:34:7"
                 },
                 {
-                  "id": 892,
+                  "id": 874,
                   "nodeType": "PlaceholderStatement",
                   "src": "190:1:7"
                 },
                 {
                   "expression": {
-                    "id": 895,
+                    "id": 877,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
                     "lValueRequested": false,
                     "leftHandSide": {
-                      "id": 893,
+                      "id": 875,
                       "name": "inited",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 884,
+                      "referencedDeclaration": 866,
                       "src": "201:6:7",
                       "typeDescriptions": {
                         "typeIdentifier": "t_bool",
@@ -217,7 +217,7 @@
                     "operator": "=",
                     "rightHandSide": {
                       "hexValue": "74727565",
-                      "id": 894,
+                      "id": 876,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": true,
@@ -237,18 +237,18 @@
                       "typeString": "bool"
                     }
                   },
-                  "id": 896,
+                  "id": 878,
                   "nodeType": "ExpressionStatement",
                   "src": "201:13:7"
                 }
               ]
             },
-            "id": 898,
+            "id": 880,
             "name": "initializer",
             "nameLocation": "122:11:7",
             "nodeType": "ModifierDefinition",
             "parameters": {
-              "id": 885,
+              "id": 867,
               "nodeType": "ParameterList",
               "parameters": [],
               "src": "133:2:7"
@@ -258,7 +258,7 @@
             "visibility": "internal"
           }
         ],
-        "scope": 900,
+        "scope": 882,
         "src": "58:165:7",
         "usedErrors": []
       }
@@ -269,15 +269,15 @@
     "absolutePath": "/Users/cameronfaith/Documents/GitHub/nft-collection-pipeline/smart-contract/contracts/common/meta-transactions/Initializable.sol",
     "exportedSymbols": {
       "Initializable": [
-        899
+        881
       ]
     },
-    "id": 900,
+    "id": 882,
     "license": "MIT",
     "nodeType": "SourceUnit",
     "nodes": [
       {
-        "id": 881,
+        "id": 863,
         "literals": [
           "solidity",
           "^",
@@ -294,9 +294,9 @@
         "contractDependencies": [],
         "contractKind": "contract",
         "fullyImplemented": true,
-        "id": 899,
+        "id": 881,
         "linearizedBaseContracts": [
-          899
+          881
         ],
         "name": "Initializable",
         "nameLocation": "67:13:7",
@@ -304,12 +304,12 @@
         "nodes": [
           {
             "constant": false,
-            "id": 884,
+            "id": 866,
             "mutability": "mutable",
             "name": "inited",
             "nameLocation": "92:6:7",
             "nodeType": "VariableDeclaration",
-            "scope": 899,
+            "scope": 881,
             "src": "87:19:7",
             "stateVariable": true,
             "storageLocation": "default",
@@ -318,7 +318,7 @@
               "typeString": "bool"
             },
             "typeName": {
-              "id": 882,
+              "id": 864,
               "name": "bool",
               "nodeType": "ElementaryTypeName",
               "src": "87:4:7",
@@ -329,7 +329,7 @@
             },
             "value": {
               "hexValue": "66616c7365",
-              "id": 883,
+              "id": 865,
               "isConstant": false,
               "isLValue": false,
               "isPure": true,
@@ -347,7 +347,7 @@
           },
           {
             "body": {
-              "id": 897,
+              "id": 879,
               "nodeType": "Block",
               "src": "136:85:7",
               "statements": [
@@ -355,7 +355,7 @@
                   "expression": {
                     "arguments": [
                       {
-                        "id": 888,
+                        "id": 870,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": false,
@@ -365,11 +365,11 @@
                         "prefix": true,
                         "src": "154:7:7",
                         "subExpression": {
-                          "id": 887,
+                          "id": 869,
                           "name": "inited",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 884,
+                          "referencedDeclaration": 866,
                           "src": "155:6:7",
                           "typeDescriptions": {
                             "typeIdentifier": "t_bool",
@@ -383,7 +383,7 @@
                       },
                       {
                         "hexValue": "616c726561647920696e69746564",
-                        "id": 889,
+                        "id": 871,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": true,
@@ -409,7 +409,7 @@
                           "typeString": "literal_string \"already inited\""
                         }
                       ],
-                      "id": 886,
+                      "id": 868,
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
@@ -423,7 +423,7 @@
                         "typeString": "function (bool,string memory) pure"
                       }
                     },
-                    "id": 890,
+                    "id": 872,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -439,28 +439,28 @@
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 891,
+                  "id": 873,
                   "nodeType": "ExpressionStatement",
                   "src": "146:34:7"
                 },
                 {
-                  "id": 892,
+                  "id": 874,
                   "nodeType": "PlaceholderStatement",
                   "src": "190:1:7"
                 },
                 {
                   "expression": {
-                    "id": 895,
+                    "id": 877,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
                     "lValueRequested": false,
                     "leftHandSide": {
-                      "id": 893,
+                      "id": 875,
                       "name": "inited",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 884,
+                      "referencedDeclaration": 866,
                       "src": "201:6:7",
                       "typeDescriptions": {
                         "typeIdentifier": "t_bool",
@@ -471,7 +471,7 @@
                     "operator": "=",
                     "rightHandSide": {
                       "hexValue": "74727565",
-                      "id": 894,
+                      "id": 876,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": true,
@@ -491,18 +491,18 @@
                       "typeString": "bool"
                     }
                   },
-                  "id": 896,
+                  "id": 878,
                   "nodeType": "ExpressionStatement",
                   "src": "201:13:7"
                 }
               ]
             },
-            "id": 898,
+            "id": 880,
             "name": "initializer",
             "nameLocation": "122:11:7",
             "nodeType": "ModifierDefinition",
             "parameters": {
-              "id": 885,
+              "id": 867,
               "nodeType": "ParameterList",
               "parameters": [],
               "src": "133:2:7"
@@ -512,7 +512,7 @@
             "visibility": "internal"
           }
         ],
-        "scope": 900,
+        "scope": 882,
         "src": "58:165:7",
         "usedErrors": []
       }
@@ -525,7 +525,7 @@
   },
   "networks": {},
   "schemaVersion": "3.3.4",
-  "updatedAt": "2022-10-05T22:19:51.330Z",
+  "updatedAt": "2022-10-07T15:15:46.850Z",
   "devdoc": {
     "kind": "dev",
     "methods": {},

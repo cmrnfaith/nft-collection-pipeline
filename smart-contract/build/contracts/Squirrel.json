@@ -15946,46 +15946,46 @@
     "absolutePath": "/Users/cameronfaith/Documents/GitHub/nft-collection-pipeline/smart-contract/contracts/Squirrel.sol",
     "exportedSymbols": {
       "Address": [
-        2523
+        2505
       ],
       "Context": [
-        2545
+        2527
       ],
       "ContextMixin": [
-        763
+        745
       ],
       "Counters": [
-        2619
+        2601
       ],
       "EIP712Base": [
-        879
+        861
       ],
       "ERC165": [
-        2846
+        2828
       ],
       "ERC721": [
-        2065
+        2047
       ],
       "ERC721Tradable": [
         181
       ],
       "IERC165": [
-        2858
+        2840
       ],
       "IERC721": [
-        2181
+        2163
       ],
       "IERC721Metadata": [
-        2226
+        2208
       ],
       "IERC721Receiver": [
-        2199
+        2181
       ],
       "NativeMetaTransaction": [
-        1098
+        1080
       ],
       "Ownable": [
-        1234
+        1216
       ],
       "OwnableDelegateProxy": [
         9
@@ -15994,13 +15994,13 @@
         16
       ],
       "SafeMath": [
-        3170
+        3152
       ],
       "Squirrel": [
         326
       ],
       "Strings": [
-        2822
+        2804
       ]
     },
     "id": 327,
@@ -16063,17 +16063,17 @@
         "linearizedBaseContracts": [
           326,
           181,
-          1234,
-          1098,
-          879,
-          899,
-          763,
-          2065,
-          2226,
-          2181,
-          2846,
-          2858,
-          2545
+          1216,
+          1080,
+          861,
+          881,
+          745,
+          2047,
+          2208,
+          2163,
+          2828,
+          2840,
+          2527
         ],
         "name": "Squirrel",
         "nameLocation": "177:8:3",
@@ -16392,46 +16392,46 @@
     "absolutePath": "/Users/cameronfaith/Documents/GitHub/nft-collection-pipeline/smart-contract/contracts/Squirrel.sol",
     "exportedSymbols": {
       "Address": [
-        2523
+        2505
       ],
       "Context": [
-        2545
+        2527
       ],
       "ContextMixin": [
-        763
+        745
       ],
       "Counters": [
-        2619
+        2601
       ],
       "EIP712Base": [
-        879
+        861
       ],
       "ERC165": [
-        2846
+        2828
       ],
       "ERC721": [
-        2065
+        2047
       ],
       "ERC721Tradable": [
         181
       ],
       "IERC165": [
-        2858
+        2840
       ],
       "IERC721": [
-        2181
+        2163
       ],
       "IERC721Metadata": [
-        2226
+        2208
       ],
       "IERC721Receiver": [
-        2199
+        2181
       ],
       "NativeMetaTransaction": [
-        1098
+        1080
       ],
       "Ownable": [
-        1234
+        1216
       ],
       "OwnableDelegateProxy": [
         9
@@ -16440,13 +16440,13 @@
         16
       ],
       "SafeMath": [
-        3170
+        3152
       ],
       "Squirrel": [
         326
       ],
       "Strings": [
-        2822
+        2804
       ]
     },
     "id": 327,
@@ -16509,17 +16509,17 @@
         "linearizedBaseContracts": [
           326,
           181,
-          1234,
-          1098,
-          879,
-          899,
-          763,
-          2065,
-          2226,
-          2181,
-          2846,
-          2858,
-          2545
+          1216,
+          1080,
+          861,
+          881,
+          745,
+          2047,
+          2208,
+          2163,
+          2828,
+          2840,
+          2527
         ],
         "name": "Squirrel",
         "nameLocation": "177:8:3",
@@ -16840,134 +16840,14 @@
   },
   "networks": {
     "5": {
-      "events": {
-        "0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925": {
-          "anonymous": false,
-          "inputs": [
-            {
-              "indexed": true,
-              "internalType": "address",
-              "name": "owner",
-              "type": "address"
-            },
-            {
-              "indexed": true,
-              "internalType": "address",
-              "name": "approved",
-              "type": "address"
-            },
-            {
-              "indexed": true,
-              "internalType": "uint256",
-              "name": "tokenId",
-              "type": "uint256"
-            }
-          ],
-          "name": "Approval",
-          "type": "event"
-        },
-        "0x17307eab39ab6107e8899845ad3d59bd9653f200f220920489ca2b5937696c31": {
-          "anonymous": false,
-          "inputs": [
-            {
-              "indexed": true,
-              "internalType": "address",
-              "name": "owner",
-              "type": "address"
-            },
-            {
-              "indexed": true,
-              "internalType": "address",
-              "name": "operator",
-              "type": "address"
-            },
-            {
-              "indexed": false,
-              "internalType": "bool",
-              "name": "approved",
-              "type": "bool"
-            }
-          ],
-          "name": "ApprovalForAll",
-          "type": "event"
-        },
-        "0x5845892132946850460bff5a0083f71031bc5bf9aadcd40f1de79423eac9b10b": {
-          "anonymous": false,
-          "inputs": [
-            {
-              "indexed": false,
-              "internalType": "address",
-              "name": "userAddress",
-              "type": "address"
-            },
-            {
-              "indexed": false,
-              "internalType": "address payable",
-              "name": "relayerAddress",
-              "type": "address"
-            },
-            {
-              "indexed": false,
-              "internalType": "bytes",
-              "name": "functionSignature",
-              "type": "bytes"
-            }
-          ],
-          "name": "MetaTransactionExecuted",
-          "type": "event"
-        },
-        "0x8be0079c531659141344cd1fd0a4f28419497f9722a3daafe3b4186f6b6457e0": {
-          "anonymous": false,
-          "inputs": [
-            {
-              "indexed": true,
-              "internalType": "address",
-              "name": "previousOwner",
-              "type": "address"
-            },
-            {
-              "indexed": true,
-              "internalType": "address",
-              "name": "newOwner",
-              "type": "address"
-            }
-          ],
-          "name": "OwnershipTransferred",
-          "type": "event"
-        },
-        "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef": {
-          "anonymous": false,
-          "inputs": [
-            {
-              "indexed": true,
-              "internalType": "address",
-              "name": "from",
-              "type": "address"
-            },
-            {
-              "indexed": true,
-              "internalType": "address",
-              "name": "to",
-              "type": "address"
-            },
-            {
-              "indexed": true,
-              "internalType": "uint256",
-              "name": "tokenId",
-              "type": "uint256"
-            }
-          ],
-          "name": "Transfer",
-          "type": "event"
-        }
-      },
+      "events": {},
       "links": {},
-      "address": "0xe1D9698C7b3dC5DD4aED6ed158894f294235F866",
-      "transactionHash": "0x5b2a3437dc63c537fafdad72d5524af5e4867b940c403a3d6dfabb61cd0ff7ff"
+      "address": "0x188dc02dAb966a1F6c5d4C9660B8CdCe9c08BCf6",
+      "transactionHash": "0xc94821c43ad0a3b0584d1396f434c7f37d8a6adb5ffd0c5e26937203546bb03a"
     }
   },
   "schemaVersion": "3.3.4",
-  "updatedAt": "2022-10-05T22:23:26.228Z",
+  "updatedAt": "2022-10-07T15:17:39.111Z",
   "networkType": "ethereum",
   "devdoc": {
     "kind": "dev",

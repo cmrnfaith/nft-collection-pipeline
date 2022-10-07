@@ -1179,21 +1179,21 @@
     "absolutePath": "/Users/cameronfaith/Documents/GitHub/nft-collection-pipeline/smart-contract/contracts/test/MockProxyRegistry.sol",
     "exportedSymbols": {
       "Context": [
-        2545
+        2527
       ],
       "MockProxyRegistry": [
-        1129
+        1111
       ],
       "Ownable": [
-        1234
+        1216
       ]
     },
-    "id": 1130,
+    "id": 1112,
     "license": "MIT",
     "nodeType": "SourceUnit",
     "nodes": [
       {
-        "id": 1103,
+        "id": 1085,
         "literals": [
           "solidity",
           "^",
@@ -1206,11 +1206,11 @@
       {
         "absolutePath": "@openzeppelin/contracts/access/Ownable.sol",
         "file": "@openzeppelin/contracts/access/Ownable.sol",
-        "id": 1104,
+        "id": 1086,
         "nameLocation": "-1:-1:-1",
         "nodeType": "ImportDirective",
-        "scope": 1130,
-        "sourceUnit": 1235,
+        "scope": 1112,
+        "sourceUnit": 1217,
         "src": "59:52:10",
         "symbolAliases": [],
         "unitAlias": ""
@@ -1220,16 +1220,16 @@
         "baseContracts": [
           {
             "baseName": {
-              "id": 1106,
+              "id": 1088,
               "name": "Ownable",
               "nameLocations": [
                 "233:7:10"
               ],
               "nodeType": "IdentifierPath",
-              "referencedDeclaration": 1234,
+              "referencedDeclaration": 1216,
               "src": "233:7:10"
             },
-            "id": 1107,
+            "id": 1089,
             "nodeType": "InheritanceSpecifier",
             "src": "233:7:10"
           }
@@ -1238,17 +1238,17 @@
         "contractDependencies": [],
         "contractKind": "contract",
         "documentation": {
-          "id": 1105,
+          "id": 1087,
           "nodeType": "StructuredDocumentation",
           "src": "114:88:10",
           "text": " @dev A simple mock ProxyRegistry for use in local tests with minimal security"
         },
         "fullyImplemented": true,
-        "id": 1129,
+        "id": 1111,
         "linearizedBaseContracts": [
-          1129,
-          1234,
-          2545
+          1111,
+          1216,
+          2527
         ],
         "name": "MockProxyRegistry",
         "nameLocation": "212:17:10",
@@ -1257,12 +1257,12 @@
           {
             "constant": false,
             "functionSelector": "c4552791",
-            "id": 1111,
+            "id": 1093,
             "mutability": "mutable",
             "name": "proxies",
             "nameLocation": "280:7:10",
             "nodeType": "VariableDeclaration",
-            "scope": 1129,
+            "scope": 1111,
             "src": "245:42:10",
             "stateVariable": true,
             "storageLocation": "default",
@@ -1271,9 +1271,9 @@
               "typeString": "mapping(address => address)"
             },
             "typeName": {
-              "id": 1110,
+              "id": 1092,
               "keyType": {
-                "id": 1108,
+                "id": 1090,
                 "name": "address",
                 "nodeType": "ElementaryTypeName",
                 "src": "253:7:10",
@@ -1289,7 +1289,7 @@
                 "typeString": "mapping(address => address)"
               },
               "valueType": {
-                "id": 1109,
+                "id": 1091,
                 "name": "address",
                 "nodeType": "ElementaryTypeName",
                 "src": "264:7:10",
@@ -1304,37 +1304,37 @@
           },
           {
             "body": {
-              "id": 1127,
+              "id": 1109,
               "nodeType": "Block",
               "src": "738:49:10",
               "statements": [
                 {
                   "expression": {
-                    "id": 1125,
+                    "id": 1107,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
                     "lValueRequested": false,
                     "leftHandSide": {
                       "baseExpression": {
-                        "id": 1121,
+                        "id": 1103,
                         "name": "proxies",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 1111,
+                        "referencedDeclaration": 1093,
                         "src": "746:7:10",
                         "typeDescriptions": {
                           "typeIdentifier": "t_mapping$_t_address_$_t_address_$",
                           "typeString": "mapping(address => address)"
                         }
                       },
-                      "id": 1123,
+                      "id": 1105,
                       "indexExpression": {
-                        "id": 1122,
+                        "id": 1104,
                         "name": "_address",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 1114,
+                        "referencedDeclaration": 1096,
                         "src": "754:8:10",
                         "typeDescriptions": {
                           "typeIdentifier": "t_address",
@@ -1355,11 +1355,11 @@
                     "nodeType": "Assignment",
                     "operator": "=",
                     "rightHandSide": {
-                      "id": 1124,
+                      "id": 1106,
                       "name": "_proxyForAddress",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 1116,
+                      "referencedDeclaration": 1098,
                       "src": "766:16:10",
                       "typeDescriptions": {
                         "typeIdentifier": "t_address",
@@ -1372,35 +1372,35 @@
                       "typeString": "address"
                     }
                   },
-                  "id": 1126,
+                  "id": 1108,
                   "nodeType": "ExpressionStatement",
                   "src": "746:36:10"
                 }
               ]
             },
             "documentation": {
-              "id": 1112,
+              "id": 1094,
               "nodeType": "StructuredDocumentation",
               "src": "414:224:10",
               "text": " @notice Allow the owner to set a proxy for testing\n @param _address           The address that the proxy will act on behalf of\n @param _proxyForAddress  The proxy that will act on behalf of the address"
             },
             "functionSelector": "a9d4630c",
-            "id": 1128,
+            "id": 1110,
             "implemented": true,
             "kind": "function",
             "modifiers": [
               {
                 "arguments": [],
-                "id": 1119,
+                "id": 1101,
                 "kind": "modifierInvocation",
                 "modifierName": {
-                  "id": 1118,
+                  "id": 1100,
                   "name": "onlyOwner",
                   "nameLocations": [
                     "724:9:10"
                   ],
                   "nodeType": "IdentifierPath",
-                  "referencedDeclaration": 1176,
+                  "referencedDeclaration": 1158,
                   "src": "724:9:10"
                 },
                 "nodeType": "ModifierInvocation",
@@ -1411,17 +1411,17 @@
             "nameLocation": "650:8:10",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 1117,
+              "id": 1099,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 1114,
+                  "id": 1096,
                   "mutability": "mutable",
                   "name": "_address",
                   "nameLocation": "667:8:10",
                   "nodeType": "VariableDeclaration",
-                  "scope": 1128,
+                  "scope": 1110,
                   "src": "659:16:10",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -1430,7 +1430,7 @@
                     "typeString": "address"
                   },
                   "typeName": {
-                    "id": 1113,
+                    "id": 1095,
                     "name": "address",
                     "nodeType": "ElementaryTypeName",
                     "src": "659:7:10",
@@ -1444,12 +1444,12 @@
                 },
                 {
                   "constant": false,
-                  "id": 1116,
+                  "id": 1098,
                   "mutability": "mutable",
                   "name": "_proxyForAddress",
                   "nameLocation": "685:16:10",
                   "nodeType": "VariableDeclaration",
-                  "scope": 1128,
+                  "scope": 1110,
                   "src": "677:24:10",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -1458,7 +1458,7 @@
                     "typeString": "address"
                   },
                   "typeName": {
-                    "id": 1115,
+                    "id": 1097,
                     "name": "address",
                     "nodeType": "ElementaryTypeName",
                     "src": "677:7:10",
@@ -1474,19 +1474,19 @@
               "src": "658:44:10"
             },
             "returnParameters": {
-              "id": 1120,
+              "id": 1102,
               "nodeType": "ParameterList",
               "parameters": [],
               "src": "738:0:10"
             },
-            "scope": 1129,
+            "scope": 1111,
             "src": "641:146:10",
             "stateMutability": "nonpayable",
             "virtual": false,
             "visibility": "external"
           }
         ],
-        "scope": 1130,
+        "scope": 1112,
         "src": "203:586:10",
         "usedErrors": []
       }
@@ -1497,21 +1497,21 @@
     "absolutePath": "/Users/cameronfaith/Documents/GitHub/nft-collection-pipeline/smart-contract/contracts/test/MockProxyRegistry.sol",
     "exportedSymbols": {
       "Context": [
-        2545
+        2527
       ],
       "MockProxyRegistry": [
-        1129
+        1111
       ],
       "Ownable": [
-        1234
+        1216
       ]
     },
-    "id": 1130,
+    "id": 1112,
     "license": "MIT",
     "nodeType": "SourceUnit",
     "nodes": [
       {
-        "id": 1103,
+        "id": 1085,
         "literals": [
           "solidity",
           "^",
@@ -1524,11 +1524,11 @@
       {
         "absolutePath": "@openzeppelin/contracts/access/Ownable.sol",
         "file": "@openzeppelin/contracts/access/Ownable.sol",
-        "id": 1104,
+        "id": 1086,
         "nameLocation": "-1:-1:-1",
         "nodeType": "ImportDirective",
-        "scope": 1130,
-        "sourceUnit": 1235,
+        "scope": 1112,
+        "sourceUnit": 1217,
         "src": "59:52:10",
         "symbolAliases": [],
         "unitAlias": ""
@@ -1538,16 +1538,16 @@
         "baseContracts": [
           {
             "baseName": {
-              "id": 1106,
+              "id": 1088,
               "name": "Ownable",
               "nameLocations": [
                 "233:7:10"
               ],
               "nodeType": "IdentifierPath",
-              "referencedDeclaration": 1234,
+              "referencedDeclaration": 1216,
               "src": "233:7:10"
             },
-            "id": 1107,
+            "id": 1089,
             "nodeType": "InheritanceSpecifier",
             "src": "233:7:10"
           }
@@ -1556,17 +1556,17 @@
         "contractDependencies": [],
         "contractKind": "contract",
         "documentation": {
-          "id": 1105,
+          "id": 1087,
           "nodeType": "StructuredDocumentation",
           "src": "114:88:10",
           "text": " @dev A simple mock ProxyRegistry for use in local tests with minimal security"
         },
         "fullyImplemented": true,
-        "id": 1129,
+        "id": 1111,
         "linearizedBaseContracts": [
-          1129,
-          1234,
-          2545
+          1111,
+          1216,
+          2527
         ],
         "name": "MockProxyRegistry",
         "nameLocation": "212:17:10",
@@ -1575,12 +1575,12 @@
           {
             "constant": false,
             "functionSelector": "c4552791",
-            "id": 1111,
+            "id": 1093,
             "mutability": "mutable",
             "name": "proxies",
             "nameLocation": "280:7:10",
             "nodeType": "VariableDeclaration",
-            "scope": 1129,
+            "scope": 1111,
             "src": "245:42:10",
             "stateVariable": true,
             "storageLocation": "default",
@@ -1589,9 +1589,9 @@
               "typeString": "mapping(address => address)"
             },
             "typeName": {
-              "id": 1110,
+              "id": 1092,
               "keyType": {
-                "id": 1108,
+                "id": 1090,
                 "name": "address",
                 "nodeType": "ElementaryTypeName",
                 "src": "253:7:10",
@@ -1607,7 +1607,7 @@
                 "typeString": "mapping(address => address)"
               },
               "valueType": {
-                "id": 1109,
+                "id": 1091,
                 "name": "address",
                 "nodeType": "ElementaryTypeName",
                 "src": "264:7:10",
@@ -1622,37 +1622,37 @@
           },
           {
             "body": {
-              "id": 1127,
+              "id": 1109,
               "nodeType": "Block",
               "src": "738:49:10",
               "statements": [
                 {
                   "expression": {
-                    "id": 1125,
+                    "id": 1107,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
                     "lValueRequested": false,
                     "leftHandSide": {
                       "baseExpression": {
-                        "id": 1121,
+                        "id": 1103,
                         "name": "proxies",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 1111,
+                        "referencedDeclaration": 1093,
                         "src": "746:7:10",
                         "typeDescriptions": {
                           "typeIdentifier": "t_mapping$_t_address_$_t_address_$",
                           "typeString": "mapping(address => address)"
                         }
                       },
-                      "id": 1123,
+                      "id": 1105,
                       "indexExpression": {
-                        "id": 1122,
+                        "id": 1104,
                         "name": "_address",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 1114,
+                        "referencedDeclaration": 1096,
                         "src": "754:8:10",
                         "typeDescriptions": {
                           "typeIdentifier": "t_address",
@@ -1673,11 +1673,11 @@
                     "nodeType": "Assignment",
                     "operator": "=",
                     "rightHandSide": {
-                      "id": 1124,
+                      "id": 1106,
                       "name": "_proxyForAddress",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 1116,
+                      "referencedDeclaration": 1098,
                       "src": "766:16:10",
                       "typeDescriptions": {
                         "typeIdentifier": "t_address",
@@ -1690,35 +1690,35 @@
                       "typeString": "address"
                     }
                   },
-                  "id": 1126,
+                  "id": 1108,
                   "nodeType": "ExpressionStatement",
                   "src": "746:36:10"
                 }
               ]
             },
             "documentation": {
-              "id": 1112,
+              "id": 1094,
               "nodeType": "StructuredDocumentation",
               "src": "414:224:10",
               "text": " @notice Allow the owner to set a proxy for testing\n @param _address           The address that the proxy will act on behalf of\n @param _proxyForAddress  The proxy that will act on behalf of the address"
             },
             "functionSelector": "a9d4630c",
-            "id": 1128,
+            "id": 1110,
             "implemented": true,
             "kind": "function",
             "modifiers": [
               {
                 "arguments": [],
-                "id": 1119,
+                "id": 1101,
                 "kind": "modifierInvocation",
                 "modifierName": {
-                  "id": 1118,
+                  "id": 1100,
                   "name": "onlyOwner",
                   "nameLocations": [
                     "724:9:10"
                   ],
                   "nodeType": "IdentifierPath",
-                  "referencedDeclaration": 1176,
+                  "referencedDeclaration": 1158,
                   "src": "724:9:10"
                 },
                 "nodeType": "ModifierInvocation",
@@ -1729,17 +1729,17 @@
             "nameLocation": "650:8:10",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 1117,
+              "id": 1099,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 1114,
+                  "id": 1096,
                   "mutability": "mutable",
                   "name": "_address",
                   "nameLocation": "667:8:10",
                   "nodeType": "VariableDeclaration",
-                  "scope": 1128,
+                  "scope": 1110,
                   "src": "659:16:10",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -1748,7 +1748,7 @@
                     "typeString": "address"
                   },
                   "typeName": {
-                    "id": 1113,
+                    "id": 1095,
                     "name": "address",
                     "nodeType": "ElementaryTypeName",
                     "src": "659:7:10",
@@ -1762,12 +1762,12 @@
                 },
                 {
                   "constant": false,
-                  "id": 1116,
+                  "id": 1098,
                   "mutability": "mutable",
                   "name": "_proxyForAddress",
                   "nameLocation": "685:16:10",
                   "nodeType": "VariableDeclaration",
-                  "scope": 1128,
+                  "scope": 1110,
                   "src": "677:24:10",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -1776,7 +1776,7 @@
                     "typeString": "address"
                   },
                   "typeName": {
-                    "id": 1115,
+                    "id": 1097,
                     "name": "address",
                     "nodeType": "ElementaryTypeName",
                     "src": "677:7:10",
@@ -1792,19 +1792,19 @@
               "src": "658:44:10"
             },
             "returnParameters": {
-              "id": 1120,
+              "id": 1102,
               "nodeType": "ParameterList",
               "parameters": [],
               "src": "738:0:10"
             },
-            "scope": 1129,
+            "scope": 1111,
             "src": "641:146:10",
             "stateMutability": "nonpayable",
             "virtual": false,
             "visibility": "external"
           }
         ],
-        "scope": 1130,
+        "scope": 1112,
         "src": "203:586:10",
         "usedErrors": []
       }
@@ -1817,7 +1817,7 @@
   },
   "networks": {},
   "schemaVersion": "3.3.4",
-  "updatedAt": "2022-10-05T22:19:51.333Z",
+  "updatedAt": "2022-10-07T15:15:46.853Z",
   "devdoc": {
     "details": "A simple mock ProxyRegistry for use in local tests with minimal security",
     "kind": "dev",

@@ -5076,21 +5076,21 @@
     "absolutePath": "/Users/cameronfaith/Documents/GitHub/nft-collection-pipeline/smart-contract/contracts/common/meta-transactions/NativeMetaTransaction.sol",
     "exportedSymbols": {
       "EIP712Base": [
-        879
+        861
       ],
       "NativeMetaTransaction": [
-        1098
+        1080
       ],
       "SafeMath": [
-        3170
+        3152
       ]
     },
-    "id": 1099,
+    "id": 1081,
     "license": "MIT",
     "nodeType": "SourceUnit",
     "nodes": [
       {
-        "id": 901,
+        "id": 883,
         "literals": [
           "solidity",
           "^",
@@ -5103,20 +5103,20 @@
       {
         "absolutePath": "@openzeppelin/contracts/utils/math/SafeMath.sol",
         "file": "@openzeppelin/contracts/utils/math/SafeMath.sol",
-        "id": 903,
+        "id": 885,
         "nameLocation": "-1:-1:-1",
         "nodeType": "ImportDirective",
-        "scope": 1099,
-        "sourceUnit": 3171,
+        "scope": 1081,
+        "sourceUnit": 3153,
         "src": "58:74:8",
         "symbolAliases": [
           {
             "foreign": {
-              "id": 902,
+              "id": 884,
               "name": "SafeMath",
               "nodeType": "Identifier",
               "overloadedDeclarations": [],
-              "referencedDeclaration": 3170,
+              "referencedDeclaration": 3152,
               "src": "66:8:8",
               "typeDescriptions": {}
             },
@@ -5128,20 +5128,20 @@
       {
         "absolutePath": "/Users/cameronfaith/Documents/GitHub/nft-collection-pipeline/smart-contract/contracts/common/meta-transactions/EIP712Base.sol",
         "file": "./EIP712Base.sol",
-        "id": 905,
+        "id": 887,
         "nameLocation": "-1:-1:-1",
         "nodeType": "ImportDirective",
-        "scope": 1099,
-        "sourceUnit": 880,
+        "scope": 1081,
+        "sourceUnit": 862,
         "src": "133:44:8",
         "symbolAliases": [
           {
             "foreign": {
-              "id": 904,
+              "id": 886,
               "name": "EIP712Base",
               "nodeType": "Identifier",
               "overloadedDeclarations": [],
-              "referencedDeclaration": 879,
+              "referencedDeclaration": 861,
               "src": "141:10:8",
               "typeDescriptions": {}
             },
@@ -5155,16 +5155,16 @@
         "baseContracts": [
           {
             "baseName": {
-              "id": 906,
+              "id": 888,
               "name": "EIP712Base",
               "nameLocations": [
                 "213:10:8"
               ],
               "nodeType": "IdentifierPath",
-              "referencedDeclaration": 879,
+              "referencedDeclaration": 861,
               "src": "213:10:8"
             },
-            "id": 907,
+            "id": 889,
             "nodeType": "InheritanceSpecifier",
             "src": "213:10:8"
           }
@@ -5173,11 +5173,11 @@
         "contractDependencies": [],
         "contractKind": "contract",
         "fullyImplemented": true,
-        "id": 1098,
+        "id": 1080,
         "linearizedBaseContracts": [
-          1098,
-          879,
-          899
+          1080,
+          861,
+          881
         ],
         "name": "NativeMetaTransaction",
         "nameLocation": "188:21:8",
@@ -5185,21 +5185,21 @@
         "nodes": [
           {
             "global": false,
-            "id": 910,
+            "id": 892,
             "libraryName": {
-              "id": 908,
+              "id": 890,
               "name": "SafeMath",
               "nameLocations": [
                 "236:8:8"
               ],
               "nodeType": "IdentifierPath",
-              "referencedDeclaration": 3170,
+              "referencedDeclaration": 3152,
               "src": "236:8:8"
             },
             "nodeType": "UsingForDirective",
             "src": "230:27:8",
             "typeName": {
-              "id": 909,
+              "id": 891,
               "name": "uint256",
               "nodeType": "ElementaryTypeName",
               "src": "249:7:8",
@@ -5211,12 +5211,12 @@
           },
           {
             "constant": true,
-            "id": 918,
+            "id": 900,
             "mutability": "constant",
             "name": "META_TRANSACTION_TYPEHASH",
             "nameLocation": "287:25:8",
             "nodeType": "VariableDeclaration",
-            "scope": 1098,
+            "scope": 1080,
             "src": "262:176:8",
             "stateVariable": true,
             "storageLocation": "default",
@@ -5225,7 +5225,7 @@
               "typeString": "bytes32"
             },
             "typeName": {
-              "id": 911,
+              "id": 893,
               "name": "bytes32",
               "nodeType": "ElementaryTypeName",
               "src": "262:7:8",
@@ -5240,7 +5240,7 @@
                   "arguments": [
                     {
                       "hexValue": "4d6574615472616e73616374696f6e2875696e74323536206e6f6e63652c616464726573732066726f6d2c62797465732066756e6374696f6e5369676e617475726529",
-                      "id": 915,
+                      "id": 897,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": true,
@@ -5262,7 +5262,7 @@
                         "typeString": "literal_string \"MetaTransaction(uint256 nonce,address from,bytes functionSignature)\""
                       }
                     ],
-                    "id": 914,
+                    "id": 896,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": true,
@@ -5274,14 +5274,14 @@
                       "typeString": "type(bytes storage pointer)"
                     },
                     "typeName": {
-                      "id": 913,
+                      "id": 895,
                       "name": "bytes",
                       "nodeType": "ElementaryTypeName",
                       "src": "334:5:8",
                       "typeDescriptions": {}
                     }
                   },
-                  "id": 916,
+                  "id": 898,
                   "isConstant": false,
                   "isLValue": false,
                   "isPure": true,
@@ -5305,7 +5305,7 @@
                     "typeString": "bytes memory"
                   }
                 ],
-                "id": 912,
+                "id": 894,
                 "name": "keccak256",
                 "nodeType": "Identifier",
                 "overloadedDeclarations": [],
@@ -5316,7 +5316,7 @@
                   "typeString": "function (bytes memory) pure returns (bytes32)"
                 }
               },
-              "id": 917,
+              "id": 899,
               "isConstant": false,
               "isLValue": false,
               "isPure": true,
@@ -5337,23 +5337,23 @@
           {
             "anonymous": false,
             "eventSelector": "5845892132946850460bff5a0083f71031bc5bf9aadcd40f1de79423eac9b10b",
-            "id": 926,
+            "id": 908,
             "name": "MetaTransactionExecuted",
             "nameLocation": "450:23:8",
             "nodeType": "EventDefinition",
             "parameters": {
-              "id": 925,
+              "id": 907,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 920,
+                  "id": 902,
                   "indexed": false,
                   "mutability": "mutable",
                   "name": "userAddress",
                   "nameLocation": "491:11:8",
                   "nodeType": "VariableDeclaration",
-                  "scope": 926,
+                  "scope": 908,
                   "src": "483:19:8",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -5362,7 +5362,7 @@
                     "typeString": "address"
                   },
                   "typeName": {
-                    "id": 919,
+                    "id": 901,
                     "name": "address",
                     "nodeType": "ElementaryTypeName",
                     "src": "483:7:8",
@@ -5376,13 +5376,13 @@
                 },
                 {
                   "constant": false,
-                  "id": 922,
+                  "id": 904,
                   "indexed": false,
                   "mutability": "mutable",
                   "name": "relayerAddress",
                   "nameLocation": "528:14:8",
                   "nodeType": "VariableDeclaration",
-                  "scope": 926,
+                  "scope": 908,
                   "src": "512:30:8",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -5391,7 +5391,7 @@
                     "typeString": "address payable"
                   },
                   "typeName": {
-                    "id": 921,
+                    "id": 903,
                     "name": "address",
                     "nodeType": "ElementaryTypeName",
                     "src": "512:15:8",
@@ -5405,13 +5405,13 @@
                 },
                 {
                   "constant": false,
-                  "id": 924,
+                  "id": 906,
                   "indexed": false,
                   "mutability": "mutable",
                   "name": "functionSignature",
                   "nameLocation": "558:17:8",
                   "nodeType": "VariableDeclaration",
-                  "scope": 926,
+                  "scope": 908,
                   "src": "552:23:8",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -5420,7 +5420,7 @@
                     "typeString": "bytes"
                   },
                   "typeName": {
-                    "id": 923,
+                    "id": 905,
                     "name": "bytes",
                     "nodeType": "ElementaryTypeName",
                     "src": "552:5:8",
@@ -5438,12 +5438,12 @@
           },
           {
             "constant": false,
-            "id": 930,
+            "id": 912,
             "mutability": "mutable",
             "name": "nonces",
             "nameLocation": "615:6:8",
             "nodeType": "VariableDeclaration",
-            "scope": 1098,
+            "scope": 1080,
             "src": "587:34:8",
             "stateVariable": true,
             "storageLocation": "default",
@@ -5452,9 +5452,9 @@
               "typeString": "mapping(address => uint256)"
             },
             "typeName": {
-              "id": 929,
+              "id": 911,
               "keyType": {
-                "id": 927,
+                "id": 909,
                 "name": "address",
                 "nodeType": "ElementaryTypeName",
                 "src": "595:7:8",
@@ -5470,7 +5470,7 @@
                 "typeString": "mapping(address => uint256)"
               },
               "valueType": {
-                "id": 928,
+                "id": 910,
                 "name": "uint256",
                 "nodeType": "ElementaryTypeName",
                 "src": "606:7:8",
@@ -5484,16 +5484,16 @@
           },
           {
             "canonicalName": "NativeMetaTransaction.MetaTransaction",
-            "id": 937,
+            "id": 919,
             "members": [
               {
                 "constant": false,
-                "id": 932,
+                "id": 914,
                 "mutability": "mutable",
                 "name": "nonce",
                 "nameLocation": "903:5:8",
                 "nodeType": "VariableDeclaration",
-                "scope": 937,
+                "scope": 919,
                 "src": "895:13:8",
                 "stateVariable": false,
                 "storageLocation": "default",
@@ -5502,7 +5502,7 @@
                   "typeString": "uint256"
                 },
                 "typeName": {
-                  "id": 931,
+                  "id": 913,
                   "name": "uint256",
                   "nodeType": "ElementaryTypeName",
                   "src": "895:7:8",
@@ -5515,12 +5515,12 @@
               },
               {
                 "constant": false,
-                "id": 934,
+                "id": 916,
                 "mutability": "mutable",
                 "name": "from",
                 "nameLocation": "926:4:8",
                 "nodeType": "VariableDeclaration",
-                "scope": 937,
+                "scope": 919,
                 "src": "918:12:8",
                 "stateVariable": false,
                 "storageLocation": "default",
@@ -5529,7 +5529,7 @@
                   "typeString": "address"
                 },
                 "typeName": {
-                  "id": 933,
+                  "id": 915,
                   "name": "address",
                   "nodeType": "ElementaryTypeName",
                   "src": "918:7:8",
@@ -5543,12 +5543,12 @@
               },
               {
                 "constant": false,
-                "id": 936,
+                "id": 918,
                 "mutability": "mutable",
                 "name": "functionSignature",
                 "nameLocation": "946:17:8",
                 "nodeType": "VariableDeclaration",
-                "scope": 937,
+                "scope": 919,
                 "src": "940:23:8",
                 "stateVariable": false,
                 "storageLocation": "default",
@@ -5557,7 +5557,7 @@
                   "typeString": "bytes"
                 },
                 "typeName": {
-                  "id": 935,
+                  "id": 917,
                   "name": "bytes",
                   "nodeType": "ElementaryTypeName",
                   "src": "940:5:8",
@@ -5572,82 +5572,82 @@
             "name": "MetaTransaction",
             "nameLocation": "869:15:8",
             "nodeType": "StructDefinition",
-            "scope": 1098,
+            "scope": 1080,
             "src": "862:108:8",
             "visibility": "public"
           },
           {
             "body": {
-              "id": 1018,
+              "id": 1000,
               "nodeType": "Block",
               "src": "1185:908:8",
               "statements": [
                 {
                   "assignments": [
-                    954
+                    936
                   ],
                   "declarations": [
                     {
                       "constant": false,
-                      "id": 954,
+                      "id": 936,
                       "mutability": "mutable",
                       "name": "metaTx",
                       "nameLocation": "1218:6:8",
                       "nodeType": "VariableDeclaration",
-                      "scope": 1018,
+                      "scope": 1000,
                       "src": "1195:29:8",
                       "stateVariable": false,
                       "storageLocation": "memory",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_struct$_MetaTransaction_$937_memory_ptr",
+                        "typeIdentifier": "t_struct$_MetaTransaction_$919_memory_ptr",
                         "typeString": "struct NativeMetaTransaction.MetaTransaction"
                       },
                       "typeName": {
-                        "id": 953,
+                        "id": 935,
                         "nodeType": "UserDefinedTypeName",
                         "pathNode": {
-                          "id": 952,
+                          "id": 934,
                           "name": "MetaTransaction",
                           "nameLocations": [
                             "1195:15:8"
                           ],
                           "nodeType": "IdentifierPath",
-                          "referencedDeclaration": 937,
+                          "referencedDeclaration": 919,
                           "src": "1195:15:8"
                         },
-                        "referencedDeclaration": 937,
+                        "referencedDeclaration": 919,
                         "src": "1195:15:8",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_struct$_MetaTransaction_$937_storage_ptr",
+                          "typeIdentifier": "t_struct$_MetaTransaction_$919_storage_ptr",
                           "typeString": "struct NativeMetaTransaction.MetaTransaction"
                         }
                       },
                       "visibility": "internal"
                     }
                   ],
-                  "id": 962,
+                  "id": 944,
                   "initialValue": {
                     "arguments": [
                       {
                         "baseExpression": {
-                          "id": 956,
+                          "id": 938,
                           "name": "nonces",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 930,
+                          "referencedDeclaration": 912,
                           "src": "1264:6:8",
                           "typeDescriptions": {
                             "typeIdentifier": "t_mapping$_t_address_$_t_uint256_$",
                             "typeString": "mapping(address => uint256)"
                           }
                         },
-                        "id": 958,
+                        "id": 940,
                         "indexExpression": {
-                          "id": 957,
+                          "id": 939,
                           "name": "userAddress",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 939,
+                          "referencedDeclaration": 921,
                           "src": "1271:11:8",
                           "typeDescriptions": {
                             "typeIdentifier": "t_address",
@@ -5666,11 +5666,11 @@
                         }
                       },
                       {
-                        "id": 959,
+                        "id": 941,
                         "name": "userAddress",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 939,
+                        "referencedDeclaration": 921,
                         "src": "1303:11:8",
                         "typeDescriptions": {
                           "typeIdentifier": "t_address",
@@ -5678,11 +5678,11 @@
                         }
                       },
                       {
-                        "id": 960,
+                        "id": 942,
                         "name": "functionSignature",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 941,
+                        "referencedDeclaration": 923,
                         "src": "1347:17:8",
                         "typeDescriptions": {
                           "typeIdentifier": "t_bytes_memory_ptr",
@@ -5705,18 +5705,18 @@
                           "typeString": "bytes memory"
                         }
                       ],
-                      "id": 955,
+                      "id": 937,
                       "name": "MetaTransaction",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 937,
+                      "referencedDeclaration": 919,
                       "src": "1227:15:8",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_type$_t_struct$_MetaTransaction_$937_storage_ptr_$",
+                        "typeIdentifier": "t_type$_t_struct$_MetaTransaction_$919_storage_ptr_$",
                         "typeString": "type(struct NativeMetaTransaction.MetaTransaction storage pointer)"
                       }
                     },
-                    "id": 961,
+                    "id": 943,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -5736,7 +5736,7 @@
                     "src": "1227:148:8",
                     "tryCall": false,
                     "typeDescriptions": {
-                      "typeIdentifier": "t_struct$_MetaTransaction_$937_memory_ptr",
+                      "typeIdentifier": "t_struct$_MetaTransaction_$919_memory_ptr",
                       "typeString": "struct NativeMetaTransaction.MetaTransaction memory"
                     }
                   },
@@ -5749,11 +5749,11 @@
                       {
                         "arguments": [
                           {
-                            "id": 965,
+                            "id": 947,
                             "name": "userAddress",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 939,
+                            "referencedDeclaration": 921,
                             "src": "1414:11:8",
                             "typeDescriptions": {
                               "typeIdentifier": "t_address",
@@ -5761,23 +5761,23 @@
                             }
                           },
                           {
-                            "id": 966,
+                            "id": 948,
                             "name": "metaTx",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 954,
+                            "referencedDeclaration": 936,
                             "src": "1427:6:8",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_struct$_MetaTransaction_$937_memory_ptr",
+                              "typeIdentifier": "t_struct$_MetaTransaction_$919_memory_ptr",
                               "typeString": "struct NativeMetaTransaction.MetaTransaction memory"
                             }
                           },
                           {
-                            "id": 967,
+                            "id": 949,
                             "name": "sigR",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 943,
+                            "referencedDeclaration": 925,
                             "src": "1435:4:8",
                             "typeDescriptions": {
                               "typeIdentifier": "t_bytes32",
@@ -5785,11 +5785,11 @@
                             }
                           },
                           {
-                            "id": 968,
+                            "id": 950,
                             "name": "sigS",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 945,
+                            "referencedDeclaration": 927,
                             "src": "1441:4:8",
                             "typeDescriptions": {
                               "typeIdentifier": "t_bytes32",
@@ -5797,11 +5797,11 @@
                             }
                           },
                           {
-                            "id": 969,
+                            "id": 951,
                             "name": "sigV",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 947,
+                            "referencedDeclaration": 929,
                             "src": "1447:4:8",
                             "typeDescriptions": {
                               "typeIdentifier": "t_uint8",
@@ -5816,7 +5816,7 @@
                               "typeString": "address"
                             },
                             {
-                              "typeIdentifier": "t_struct$_MetaTransaction_$937_memory_ptr",
+                              "typeIdentifier": "t_struct$_MetaTransaction_$919_memory_ptr",
                               "typeString": "struct NativeMetaTransaction.MetaTransaction memory"
                             },
                             {
@@ -5832,18 +5832,18 @@
                               "typeString": "uint8"
                             }
                           ],
-                          "id": 964,
+                          "id": 946,
                           "name": "verify",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 1097,
+                          "referencedDeclaration": 1079,
                           "src": "1407:6:8",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_function_internal_view$_t_address_$_t_struct$_MetaTransaction_$937_memory_ptr_$_t_bytes32_$_t_bytes32_$_t_uint8_$returns$_t_bool_$",
+                            "typeIdentifier": "t_function_internal_view$_t_address_$_t_struct$_MetaTransaction_$919_memory_ptr_$_t_bytes32_$_t_bytes32_$_t_uint8_$returns$_t_bool_$",
                             "typeString": "function (address,struct NativeMetaTransaction.MetaTransaction memory,bytes32,bytes32,uint8) view returns (bool)"
                           }
                         },
-                        "id": 970,
+                        "id": 952,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": false,
@@ -5861,7 +5861,7 @@
                       },
                       {
                         "hexValue": "5369676e657220616e64207369676e617475726520646f206e6f74206d61746368",
-                        "id": 971,
+                        "id": 953,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": true,
@@ -5887,7 +5887,7 @@
                           "typeString": "literal_string \"Signer and signature do not match\""
                         }
                       ],
-                      "id": 963,
+                      "id": 945,
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
@@ -5901,7 +5901,7 @@
                         "typeString": "function (bool,string memory) pure"
                       }
                     },
-                    "id": 972,
+                    "id": 954,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -5917,37 +5917,37 @@
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 973,
+                  "id": 955,
                   "nodeType": "ExpressionStatement",
                   "src": "1386:125:8"
                 },
                 {
                   "expression": {
-                    "id": 983,
+                    "id": 965,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
                     "lValueRequested": false,
                     "leftHandSide": {
                       "baseExpression": {
-                        "id": 974,
+                        "id": 956,
                         "name": "nonces",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 930,
+                        "referencedDeclaration": 912,
                         "src": "1575:6:8",
                         "typeDescriptions": {
                           "typeIdentifier": "t_mapping$_t_address_$_t_uint256_$",
                           "typeString": "mapping(address => uint256)"
                         }
                       },
-                      "id": 976,
+                      "id": 958,
                       "indexExpression": {
-                        "id": 975,
+                        "id": 957,
                         "name": "userAddress",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 939,
+                        "referencedDeclaration": 921,
                         "src": "1582:11:8",
                         "typeDescriptions": {
                           "typeIdentifier": "t_address",
@@ -5971,7 +5971,7 @@
                       "arguments": [
                         {
                           "hexValue": "31",
-                          "id": 981,
+                          "id": 963,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": true,
@@ -5995,24 +5995,24 @@
                         ],
                         "expression": {
                           "baseExpression": {
-                            "id": 977,
+                            "id": 959,
                             "name": "nonces",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 930,
+                            "referencedDeclaration": 912,
                             "src": "1597:6:8",
                             "typeDescriptions": {
                               "typeIdentifier": "t_mapping$_t_address_$_t_uint256_$",
                               "typeString": "mapping(address => uint256)"
                             }
                           },
-                          "id": 979,
+                          "id": 961,
                           "indexExpression": {
-                            "id": 978,
+                            "id": 960,
                             "name": "userAddress",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 939,
+                            "referencedDeclaration": 921,
                             "src": "1604:11:8",
                             "typeDescriptions": {
                               "typeIdentifier": "t_address",
@@ -6030,7 +6030,7 @@
                             "typeString": "uint256"
                           }
                         },
-                        "id": 980,
+                        "id": 962,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": false,
@@ -6038,14 +6038,14 @@
                         "memberLocation": "1617:3:8",
                         "memberName": "add",
                         "nodeType": "MemberAccess",
-                        "referencedDeclaration": 3034,
+                        "referencedDeclaration": 3016,
                         "src": "1597:23:8",
                         "typeDescriptions": {
                           "typeIdentifier": "t_function_internal_pure$_t_uint256_$_t_uint256_$returns$_t_uint256_$bound_to$_t_uint256_$",
                           "typeString": "function (uint256,uint256) pure returns (uint256)"
                         }
                       },
-                      "id": 982,
+                      "id": 964,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": false,
@@ -6067,7 +6067,7 @@
                       "typeString": "uint256"
                     }
                   },
-                  "id": 984,
+                  "id": 966,
                   "nodeType": "ExpressionStatement",
                   "src": "1575:48:8"
                 },
@@ -6075,11 +6075,11 @@
                   "eventCall": {
                     "arguments": [
                       {
-                        "id": 986,
+                        "id": 968,
                         "name": "userAddress",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 939,
+                        "referencedDeclaration": 921,
                         "src": "1676:11:8",
                         "typeDescriptions": {
                           "typeIdentifier": "t_address",
@@ -6090,7 +6090,7 @@
                         "arguments": [
                           {
                             "expression": {
-                              "id": 989,
+                              "id": 971,
                               "name": "msg",
                               "nodeType": "Identifier",
                               "overloadedDeclarations": [],
@@ -6101,7 +6101,7 @@
                                 "typeString": "msg"
                               }
                             },
-                            "id": 990,
+                            "id": 972,
                             "isConstant": false,
                             "isLValue": false,
                             "isPure": false,
@@ -6123,7 +6123,7 @@
                               "typeString": "address"
                             }
                           ],
-                          "id": 988,
+                          "id": 970,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": true,
@@ -6135,7 +6135,7 @@
                             "typeString": "type(address payable)"
                           },
                           "typeName": {
-                            "id": 987,
+                            "id": 969,
                             "name": "address",
                             "nodeType": "ElementaryTypeName",
                             "src": "1701:8:8",
@@ -6143,7 +6143,7 @@
                             "typeDescriptions": {}
                           }
                         },
-                        "id": 991,
+                        "id": 973,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": false,
@@ -6160,11 +6160,11 @@
                         }
                       },
                       {
-                        "id": 992,
+                        "id": 974,
                         "name": "functionSignature",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 941,
+                        "referencedDeclaration": 923,
                         "src": "1734:17:8",
                         "typeDescriptions": {
                           "typeIdentifier": "t_bytes_memory_ptr",
@@ -6187,18 +6187,18 @@
                           "typeString": "bytes memory"
                         }
                       ],
-                      "id": 985,
+                      "id": 967,
                       "name": "MetaTransactionExecuted",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 926,
+                      "referencedDeclaration": 908,
                       "src": "1639:23:8",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_event_nonpayable$_t_address_$_t_address_payable_$_t_bytes_memory_ptr_$returns$__$",
                         "typeString": "function (address,address payable,bytes memory)"
                       }
                     },
-                    "id": 993,
+                    "id": 975,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -6214,24 +6214,24 @@
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 994,
+                  "id": 976,
                   "nodeType": "EmitStatement",
                   "src": "1634:127:8"
                 },
                 {
                   "assignments": [
-                    996,
-                    998
+                    978,
+                    980
                   ],
                   "declarations": [
                     {
                       "constant": false,
-                      "id": 996,
+                      "id": 978,
                       "mutability": "mutable",
                       "name": "success",
                       "nameLocation": "1874:7:8",
                       "nodeType": "VariableDeclaration",
-                      "scope": 1018,
+                      "scope": 1000,
                       "src": "1869:12:8",
                       "stateVariable": false,
                       "storageLocation": "default",
@@ -6240,7 +6240,7 @@
                         "typeString": "bool"
                       },
                       "typeName": {
-                        "id": 995,
+                        "id": 977,
                         "name": "bool",
                         "nodeType": "ElementaryTypeName",
                         "src": "1869:4:8",
@@ -6253,12 +6253,12 @@
                     },
                     {
                       "constant": false,
-                      "id": 998,
+                      "id": 980,
                       "mutability": "mutable",
                       "name": "returnData",
                       "nameLocation": "1896:10:8",
                       "nodeType": "VariableDeclaration",
-                      "scope": 1018,
+                      "scope": 1000,
                       "src": "1883:23:8",
                       "stateVariable": false,
                       "storageLocation": "memory",
@@ -6267,7 +6267,7 @@
                         "typeString": "bytes"
                       },
                       "typeName": {
-                        "id": 997,
+                        "id": 979,
                         "name": "bytes",
                         "nodeType": "ElementaryTypeName",
                         "src": "1883:5:8",
@@ -6279,17 +6279,17 @@
                       "visibility": "internal"
                     }
                   ],
-                  "id": 1010,
+                  "id": 992,
                   "initialValue": {
                     "arguments": [
                       {
                         "arguments": [
                           {
-                            "id": 1006,
+                            "id": 988,
                             "name": "functionSignature",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 941,
+                            "referencedDeclaration": 923,
                             "src": "1959:17:8",
                             "typeDescriptions": {
                               "typeIdentifier": "t_bytes_memory_ptr",
@@ -6297,11 +6297,11 @@
                             }
                           },
                           {
-                            "id": 1007,
+                            "id": 989,
                             "name": "userAddress",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 939,
+                            "referencedDeclaration": 921,
                             "src": "1978:11:8",
                             "typeDescriptions": {
                               "typeIdentifier": "t_address",
@@ -6321,7 +6321,7 @@
                             }
                           ],
                           "expression": {
-                            "id": 1004,
+                            "id": 986,
                             "name": "abi",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
@@ -6332,7 +6332,7 @@
                               "typeString": "abi"
                             }
                           },
-                          "id": 1005,
+                          "id": 987,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": true,
@@ -6346,7 +6346,7 @@
                             "typeString": "function () pure returns (bytes memory)"
                           }
                         },
-                        "id": 1008,
+                        "id": 990,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": false,
@@ -6373,14 +6373,14 @@
                       "expression": {
                         "arguments": [
                           {
-                            "id": 1001,
+                            "id": 983,
                             "name": "this",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
                             "referencedDeclaration": 4294967268,
                             "src": "1918:4:8",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_contract$_NativeMetaTransaction_$1098",
+                              "typeIdentifier": "t_contract$_NativeMetaTransaction_$1080",
                               "typeString": "contract NativeMetaTransaction"
                             }
                           }
@@ -6388,11 +6388,11 @@
                         "expression": {
                           "argumentTypes": [
                             {
-                              "typeIdentifier": "t_contract$_NativeMetaTransaction_$1098",
+                              "typeIdentifier": "t_contract$_NativeMetaTransaction_$1080",
                               "typeString": "contract NativeMetaTransaction"
                             }
                           ],
-                          "id": 1000,
+                          "id": 982,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": true,
@@ -6404,14 +6404,14 @@
                             "typeString": "type(address)"
                           },
                           "typeName": {
-                            "id": 999,
+                            "id": 981,
                             "name": "address",
                             "nodeType": "ElementaryTypeName",
                             "src": "1910:7:8",
                             "typeDescriptions": {}
                           }
                         },
-                        "id": 1002,
+                        "id": 984,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": false,
@@ -6427,7 +6427,7 @@
                           "typeString": "address"
                         }
                       },
-                      "id": 1003,
+                      "id": 985,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": false,
@@ -6441,7 +6441,7 @@
                         "typeString": "function (bytes memory) payable returns (bool,bytes memory)"
                       }
                     },
-                    "id": 1009,
+                    "id": 991,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -6464,11 +6464,11 @@
                   "expression": {
                     "arguments": [
                       {
-                        "id": 1012,
+                        "id": 994,
                         "name": "success",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 996,
+                        "referencedDeclaration": 978,
                         "src": "2018:7:8",
                         "typeDescriptions": {
                           "typeIdentifier": "t_bool",
@@ -6477,7 +6477,7 @@
                       },
                       {
                         "hexValue": "46756e6374696f6e2063616c6c206e6f74207375636365737366756c",
-                        "id": 1013,
+                        "id": 995,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": true,
@@ -6503,7 +6503,7 @@
                           "typeString": "literal_string \"Function call not successful\""
                         }
                       ],
-                      "id": 1011,
+                      "id": 993,
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
@@ -6517,7 +6517,7 @@
                         "typeString": "function (bool,string memory) pure"
                       }
                     },
-                    "id": 1014,
+                    "id": 996,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -6533,32 +6533,32 @@
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 1015,
+                  "id": 997,
                   "nodeType": "ExpressionStatement",
                   "src": "2010:48:8"
                 },
                 {
                   "expression": {
-                    "id": 1016,
+                    "id": 998,
                     "name": "returnData",
                     "nodeType": "Identifier",
                     "overloadedDeclarations": [],
-                    "referencedDeclaration": 998,
+                    "referencedDeclaration": 980,
                     "src": "2076:10:8",
                     "typeDescriptions": {
                       "typeIdentifier": "t_bytes_memory_ptr",
                       "typeString": "bytes memory"
                     }
                   },
-                  "functionReturnParameters": 951,
-                  "id": 1017,
+                  "functionReturnParameters": 933,
+                  "id": 999,
                   "nodeType": "Return",
                   "src": "2069:17:8"
                 }
               ]
             },
             "functionSelector": "0c53c51c",
-            "id": 1019,
+            "id": 1001,
             "implemented": true,
             "kind": "function",
             "modifiers": [],
@@ -6566,17 +6566,17 @@
             "nameLocation": "985:22:8",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 948,
+              "id": 930,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 939,
+                  "id": 921,
                   "mutability": "mutable",
                   "name": "userAddress",
                   "nameLocation": "1025:11:8",
                   "nodeType": "VariableDeclaration",
-                  "scope": 1019,
+                  "scope": 1001,
                   "src": "1017:19:8",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -6585,7 +6585,7 @@
                     "typeString": "address"
                   },
                   "typeName": {
-                    "id": 938,
+                    "id": 920,
                     "name": "address",
                     "nodeType": "ElementaryTypeName",
                     "src": "1017:7:8",
@@ -6599,12 +6599,12 @@
                 },
                 {
                   "constant": false,
-                  "id": 941,
+                  "id": 923,
                   "mutability": "mutable",
                   "name": "functionSignature",
                   "nameLocation": "1059:17:8",
                   "nodeType": "VariableDeclaration",
-                  "scope": 1019,
+                  "scope": 1001,
                   "src": "1046:30:8",
                   "stateVariable": false,
                   "storageLocation": "memory",
@@ -6613,7 +6613,7 @@
                     "typeString": "bytes"
                   },
                   "typeName": {
-                    "id": 940,
+                    "id": 922,
                     "name": "bytes",
                     "nodeType": "ElementaryTypeName",
                     "src": "1046:5:8",
@@ -6626,12 +6626,12 @@
                 },
                 {
                   "constant": false,
-                  "id": 943,
+                  "id": 925,
                   "mutability": "mutable",
                   "name": "sigR",
                   "nameLocation": "1094:4:8",
                   "nodeType": "VariableDeclaration",
-                  "scope": 1019,
+                  "scope": 1001,
                   "src": "1086:12:8",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -6640,7 +6640,7 @@
                     "typeString": "bytes32"
                   },
                   "typeName": {
-                    "id": 942,
+                    "id": 924,
                     "name": "bytes32",
                     "nodeType": "ElementaryTypeName",
                     "src": "1086:7:8",
@@ -6653,12 +6653,12 @@
                 },
                 {
                   "constant": false,
-                  "id": 945,
+                  "id": 927,
                   "mutability": "mutable",
                   "name": "sigS",
                   "nameLocation": "1116:4:8",
                   "nodeType": "VariableDeclaration",
-                  "scope": 1019,
+                  "scope": 1001,
                   "src": "1108:12:8",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -6667,7 +6667,7 @@
                     "typeString": "bytes32"
                   },
                   "typeName": {
-                    "id": 944,
+                    "id": 926,
                     "name": "bytes32",
                     "nodeType": "ElementaryTypeName",
                     "src": "1108:7:8",
@@ -6680,12 +6680,12 @@
                 },
                 {
                   "constant": false,
-                  "id": 947,
+                  "id": 929,
                   "mutability": "mutable",
                   "name": "sigV",
                   "nameLocation": "1136:4:8",
                   "nodeType": "VariableDeclaration",
-                  "scope": 1019,
+                  "scope": 1001,
                   "src": "1130:10:8",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -6694,7 +6694,7 @@
                     "typeString": "uint8"
                   },
                   "typeName": {
-                    "id": 946,
+                    "id": 928,
                     "name": "uint8",
                     "nodeType": "ElementaryTypeName",
                     "src": "1130:5:8",
@@ -6709,17 +6709,17 @@
               "src": "1007:139:8"
             },
             "returnParameters": {
-              "id": 951,
+              "id": 933,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 950,
+                  "id": 932,
                   "mutability": "mutable",
                   "name": "",
                   "nameLocation": "-1:-1:-1",
                   "nodeType": "VariableDeclaration",
-                  "scope": 1019,
+                  "scope": 1001,
                   "src": "1171:12:8",
                   "stateVariable": false,
                   "storageLocation": "memory",
@@ -6728,7 +6728,7 @@
                     "typeString": "bytes"
                   },
                   "typeName": {
-                    "id": 949,
+                    "id": 931,
                     "name": "bytes",
                     "nodeType": "ElementaryTypeName",
                     "src": "1171:5:8",
@@ -6742,7 +6742,7 @@
               ],
               "src": "1170:14:8"
             },
-            "scope": 1098,
+            "scope": 1080,
             "src": "976:1117:8",
             "stateMutability": "payable",
             "virtual": false,
@@ -6750,7 +6750,7 @@
           },
           {
             "body": {
-              "id": 1042,
+              "id": 1024,
               "nodeType": "Block",
               "src": "2219:276:8",
               "statements": [
@@ -6760,11 +6760,11 @@
                       {
                         "arguments": [
                           {
-                            "id": 1030,
+                            "id": 1012,
                             "name": "META_TRANSACTION_TYPEHASH",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 918,
+                            "referencedDeclaration": 900,
                             "src": "2307:25:8",
                             "typeDescriptions": {
                               "typeIdentifier": "t_bytes32",
@@ -6773,18 +6773,18 @@
                           },
                           {
                             "expression": {
-                              "id": 1031,
+                              "id": 1013,
                               "name": "metaTx",
                               "nodeType": "Identifier",
                               "overloadedDeclarations": [],
-                              "referencedDeclaration": 1022,
+                              "referencedDeclaration": 1004,
                               "src": "2354:6:8",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_struct$_MetaTransaction_$937_memory_ptr",
+                                "typeIdentifier": "t_struct$_MetaTransaction_$919_memory_ptr",
                                 "typeString": "struct NativeMetaTransaction.MetaTransaction memory"
                               }
                             },
-                            "id": 1032,
+                            "id": 1014,
                             "isConstant": false,
                             "isLValue": true,
                             "isPure": false,
@@ -6792,7 +6792,7 @@
                             "memberLocation": "2361:5:8",
                             "memberName": "nonce",
                             "nodeType": "MemberAccess",
-                            "referencedDeclaration": 932,
+                            "referencedDeclaration": 914,
                             "src": "2354:12:8",
                             "typeDescriptions": {
                               "typeIdentifier": "t_uint256",
@@ -6801,18 +6801,18 @@
                           },
                           {
                             "expression": {
-                              "id": 1033,
+                              "id": 1015,
                               "name": "metaTx",
                               "nodeType": "Identifier",
                               "overloadedDeclarations": [],
-                              "referencedDeclaration": 1022,
+                              "referencedDeclaration": 1004,
                               "src": "2388:6:8",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_struct$_MetaTransaction_$937_memory_ptr",
+                                "typeIdentifier": "t_struct$_MetaTransaction_$919_memory_ptr",
                                 "typeString": "struct NativeMetaTransaction.MetaTransaction memory"
                               }
                             },
-                            "id": 1034,
+                            "id": 1016,
                             "isConstant": false,
                             "isLValue": true,
                             "isPure": false,
@@ -6820,7 +6820,7 @@
                             "memberLocation": "2395:4:8",
                             "memberName": "from",
                             "nodeType": "MemberAccess",
-                            "referencedDeclaration": 934,
+                            "referencedDeclaration": 916,
                             "src": "2388:11:8",
                             "typeDescriptions": {
                               "typeIdentifier": "t_address",
@@ -6831,18 +6831,18 @@
                             "arguments": [
                               {
                                 "expression": {
-                                  "id": 1036,
+                                  "id": 1018,
                                   "name": "metaTx",
                                   "nodeType": "Identifier",
                                   "overloadedDeclarations": [],
-                                  "referencedDeclaration": 1022,
+                                  "referencedDeclaration": 1004,
                                   "src": "2431:6:8",
                                   "typeDescriptions": {
-                                    "typeIdentifier": "t_struct$_MetaTransaction_$937_memory_ptr",
+                                    "typeIdentifier": "t_struct$_MetaTransaction_$919_memory_ptr",
                                     "typeString": "struct NativeMetaTransaction.MetaTransaction memory"
                                   }
                                 },
-                                "id": 1037,
+                                "id": 1019,
                                 "isConstant": false,
                                 "isLValue": true,
                                 "isPure": false,
@@ -6850,7 +6850,7 @@
                                 "memberLocation": "2438:17:8",
                                 "memberName": "functionSignature",
                                 "nodeType": "MemberAccess",
-                                "referencedDeclaration": 936,
+                                "referencedDeclaration": 918,
                                 "src": "2431:24:8",
                                 "typeDescriptions": {
                                   "typeIdentifier": "t_bytes_memory_ptr",
@@ -6865,7 +6865,7 @@
                                   "typeString": "bytes memory"
                                 }
                               ],
-                              "id": 1035,
+                              "id": 1017,
                               "name": "keccak256",
                               "nodeType": "Identifier",
                               "overloadedDeclarations": [],
@@ -6876,7 +6876,7 @@
                                 "typeString": "function (bytes memory) pure returns (bytes32)"
                               }
                             },
-                            "id": 1038,
+                            "id": 1020,
                             "isConstant": false,
                             "isLValue": false,
                             "isPure": false,
@@ -6913,7 +6913,7 @@
                             }
                           ],
                           "expression": {
-                            "id": 1028,
+                            "id": 1010,
                             "name": "abi",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
@@ -6924,7 +6924,7 @@
                               "typeString": "abi"
                             }
                           },
-                          "id": 1029,
+                          "id": 1011,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": true,
@@ -6938,7 +6938,7 @@
                             "typeString": "function () pure returns (bytes memory)"
                           }
                         },
-                        "id": 1039,
+                        "id": 1021,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": false,
@@ -6962,7 +6962,7 @@
                           "typeString": "bytes memory"
                         }
                       ],
-                      "id": 1027,
+                      "id": 1009,
                       "name": "keccak256",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
@@ -6973,7 +6973,7 @@
                         "typeString": "function (bytes memory) pure returns (bytes32)"
                       }
                     },
-                    "id": 1040,
+                    "id": 1022,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -6989,14 +6989,14 @@
                       "typeString": "bytes32"
                     }
                   },
-                  "functionReturnParameters": 1026,
-                  "id": 1041,
+                  "functionReturnParameters": 1008,
+                  "id": 1023,
                   "nodeType": "Return",
                   "src": "2229:259:8"
                 }
               ]
             },
-            "id": 1043,
+            "id": 1025,
             "implemented": true,
             "kind": "function",
             "modifiers": [],
@@ -7004,41 +7004,41 @@
             "nameLocation": "2108:19:8",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 1023,
+              "id": 1005,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 1022,
+                  "id": 1004,
                   "mutability": "mutable",
                   "name": "metaTx",
                   "nameLocation": "2151:6:8",
                   "nodeType": "VariableDeclaration",
-                  "scope": 1043,
+                  "scope": 1025,
                   "src": "2128:29:8",
                   "stateVariable": false,
                   "storageLocation": "memory",
                   "typeDescriptions": {
-                    "typeIdentifier": "t_struct$_MetaTransaction_$937_memory_ptr",
+                    "typeIdentifier": "t_struct$_MetaTransaction_$919_memory_ptr",
                     "typeString": "struct NativeMetaTransaction.MetaTransaction"
                   },
                   "typeName": {
-                    "id": 1021,
+                    "id": 1003,
                     "nodeType": "UserDefinedTypeName",
                     "pathNode": {
-                      "id": 1020,
+                      "id": 1002,
                       "name": "MetaTransaction",
                       "nameLocations": [
                         "2128:15:8"
                       ],
                       "nodeType": "IdentifierPath",
-                      "referencedDeclaration": 937,
+                      "referencedDeclaration": 919,
                       "src": "2128:15:8"
                     },
-                    "referencedDeclaration": 937,
+                    "referencedDeclaration": 919,
                     "src": "2128:15:8",
                     "typeDescriptions": {
-                      "typeIdentifier": "t_struct$_MetaTransaction_$937_storage_ptr",
+                      "typeIdentifier": "t_struct$_MetaTransaction_$919_storage_ptr",
                       "typeString": "struct NativeMetaTransaction.MetaTransaction"
                     }
                   },
@@ -7048,17 +7048,17 @@
               "src": "2127:31:8"
             },
             "returnParameters": {
-              "id": 1026,
+              "id": 1008,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 1025,
+                  "id": 1007,
                   "mutability": "mutable",
                   "name": "",
                   "nameLocation": "-1:-1:-1",
                   "nodeType": "VariableDeclaration",
-                  "scope": 1043,
+                  "scope": 1025,
                   "src": "2206:7:8",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -7067,7 +7067,7 @@
                     "typeString": "bytes32"
                   },
                   "typeName": {
-                    "id": 1024,
+                    "id": 1006,
                     "name": "bytes32",
                     "nodeType": "ElementaryTypeName",
                     "src": "2206:7:8",
@@ -7081,7 +7081,7 @@
               ],
               "src": "2205:9:8"
             },
-            "scope": 1098,
+            "scope": 1080,
             "src": "2099:396:8",
             "stateMutability": "pure",
             "virtual": false,
@@ -7089,23 +7089,23 @@
           },
           {
             "body": {
-              "id": 1056,
+              "id": 1038,
               "nodeType": "Block",
               "src": "2569:37:8",
               "statements": [
                 {
                   "expression": {
-                    "id": 1054,
+                    "id": 1036,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
                     "lValueRequested": false,
                     "leftHandSide": {
-                      "id": 1050,
+                      "id": 1032,
                       "name": "nonce",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 1048,
+                      "referencedDeclaration": 1030,
                       "src": "2579:5:8",
                       "typeDescriptions": {
                         "typeIdentifier": "t_uint256",
@@ -7116,24 +7116,24 @@
                     "operator": "=",
                     "rightHandSide": {
                       "baseExpression": {
-                        "id": 1051,
+                        "id": 1033,
                         "name": "nonces",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 930,
+                        "referencedDeclaration": 912,
                         "src": "2587:6:8",
                         "typeDescriptions": {
                           "typeIdentifier": "t_mapping$_t_address_$_t_uint256_$",
                           "typeString": "mapping(address => uint256)"
                         }
                       },
-                      "id": 1053,
+                      "id": 1035,
                       "indexExpression": {
-                        "id": 1052,
+                        "id": 1034,
                         "name": "user",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 1045,
+                        "referencedDeclaration": 1027,
                         "src": "2594:4:8",
                         "typeDescriptions": {
                           "typeIdentifier": "t_address",
@@ -7157,14 +7157,14 @@
                       "typeString": "uint256"
                     }
                   },
-                  "id": 1055,
+                  "id": 1037,
                   "nodeType": "ExpressionStatement",
                   "src": "2579:20:8"
                 }
               ]
             },
             "functionSelector": "2d0335ab",
-            "id": 1057,
+            "id": 1039,
             "implemented": true,
             "kind": "function",
             "modifiers": [],
@@ -7172,17 +7172,17 @@
             "nameLocation": "2510:8:8",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 1046,
+              "id": 1028,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 1045,
+                  "id": 1027,
                   "mutability": "mutable",
                   "name": "user",
                   "nameLocation": "2527:4:8",
                   "nodeType": "VariableDeclaration",
-                  "scope": 1057,
+                  "scope": 1039,
                   "src": "2519:12:8",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -7191,7 +7191,7 @@
                     "typeString": "address"
                   },
                   "typeName": {
-                    "id": 1044,
+                    "id": 1026,
                     "name": "address",
                     "nodeType": "ElementaryTypeName",
                     "src": "2519:7:8",
@@ -7207,17 +7207,17 @@
               "src": "2518:14:8"
             },
             "returnParameters": {
-              "id": 1049,
+              "id": 1031,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 1048,
+                  "id": 1030,
                   "mutability": "mutable",
                   "name": "nonce",
                   "nameLocation": "2562:5:8",
                   "nodeType": "VariableDeclaration",
-                  "scope": 1057,
+                  "scope": 1039,
                   "src": "2554:13:8",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -7226,7 +7226,7 @@
                     "typeString": "uint256"
                   },
                   "typeName": {
-                    "id": 1047,
+                    "id": 1029,
                     "name": "uint256",
                     "nodeType": "ElementaryTypeName",
                     "src": "2554:7:8",
@@ -7240,7 +7240,7 @@
               ],
               "src": "2553:15:8"
             },
-            "scope": 1098,
+            "scope": 1080,
             "src": "2501:105:8",
             "stateMutability": "view",
             "virtual": false,
@@ -7248,7 +7248,7 @@
           },
           {
             "body": {
-              "id": 1096,
+              "id": 1078,
               "nodeType": "Block",
               "src": "2790:292:8",
               "statements": [
@@ -7260,17 +7260,17 @@
                           "typeIdentifier": "t_address",
                           "typeString": "address"
                         },
-                        "id": 1079,
+                        "id": 1061,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": false,
                         "lValueRequested": false,
                         "leftExpression": {
-                          "id": 1074,
+                          "id": 1056,
                           "name": "signer",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 1059,
+                          "referencedDeclaration": 1041,
                           "src": "2808:6:8",
                           "typeDescriptions": {
                             "typeIdentifier": "t_address",
@@ -7283,7 +7283,7 @@
                           "arguments": [
                             {
                               "hexValue": "30",
-                              "id": 1077,
+                              "id": 1059,
                               "isConstant": false,
                               "isLValue": false,
                               "isPure": true,
@@ -7305,7 +7305,7 @@
                                 "typeString": "int_const 0"
                               }
                             ],
-                            "id": 1076,
+                            "id": 1058,
                             "isConstant": false,
                             "isLValue": false,
                             "isPure": true,
@@ -7317,14 +7317,14 @@
                               "typeString": "type(address)"
                             },
                             "typeName": {
-                              "id": 1075,
+                              "id": 1057,
                               "name": "address",
                               "nodeType": "ElementaryTypeName",
                               "src": "2818:7:8",
                               "typeDescriptions": {}
                             }
                           },
-                          "id": 1078,
+                          "id": 1060,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": true,
@@ -7348,7 +7348,7 @@
                       },
                       {
                         "hexValue": "4e61746976654d6574615472616e73616374696f6e3a20494e56414c49445f5349474e4552",
-                        "id": 1080,
+                        "id": 1062,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": true,
@@ -7374,7 +7374,7 @@
                           "typeString": "literal_string \"NativeMetaTransaction: INVALID_SIGNER\""
                         }
                       ],
-                      "id": 1073,
+                      "id": 1055,
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
@@ -7388,7 +7388,7 @@
                         "typeString": "function (bool,string memory) pure"
                       }
                     },
-                    "id": 1081,
+                    "id": 1063,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -7404,7 +7404,7 @@
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 1082,
+                  "id": 1064,
                   "nodeType": "ExpressionStatement",
                   "src": "2800:70:8"
                 },
@@ -7414,17 +7414,17 @@
                       "typeIdentifier": "t_address",
                       "typeString": "address"
                     },
-                    "id": 1094,
+                    "id": 1076,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
                     "lValueRequested": false,
                     "leftExpression": {
-                      "id": 1083,
+                      "id": 1065,
                       "name": "signer",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 1059,
+                      "referencedDeclaration": 1041,
                       "src": "2899:6:8",
                       "typeDescriptions": {
                         "typeIdentifier": "t_address",
@@ -7440,14 +7440,14 @@
                             {
                               "arguments": [
                                 {
-                                  "id": 1087,
+                                  "id": 1069,
                                   "name": "metaTx",
                                   "nodeType": "Identifier",
                                   "overloadedDeclarations": [],
-                                  "referencedDeclaration": 1062,
+                                  "referencedDeclaration": 1044,
                                   "src": "2987:6:8",
                                   "typeDescriptions": {
-                                    "typeIdentifier": "t_struct$_MetaTransaction_$937_memory_ptr",
+                                    "typeIdentifier": "t_struct$_MetaTransaction_$919_memory_ptr",
                                     "typeString": "struct NativeMetaTransaction.MetaTransaction memory"
                                   }
                                 }
@@ -7455,22 +7455,22 @@
                               "expression": {
                                 "argumentTypes": [
                                   {
-                                    "typeIdentifier": "t_struct$_MetaTransaction_$937_memory_ptr",
+                                    "typeIdentifier": "t_struct$_MetaTransaction_$919_memory_ptr",
                                     "typeString": "struct NativeMetaTransaction.MetaTransaction memory"
                                   }
                                 ],
-                                "id": 1086,
+                                "id": 1068,
                                 "name": "hashMetaTransaction",
                                 "nodeType": "Identifier",
                                 "overloadedDeclarations": [],
-                                "referencedDeclaration": 1043,
+                                "referencedDeclaration": 1025,
                                 "src": "2967:19:8",
                                 "typeDescriptions": {
-                                  "typeIdentifier": "t_function_internal_pure$_t_struct$_MetaTransaction_$937_memory_ptr_$returns$_t_bytes32_$",
+                                  "typeIdentifier": "t_function_internal_pure$_t_struct$_MetaTransaction_$919_memory_ptr_$returns$_t_bytes32_$",
                                   "typeString": "function (struct NativeMetaTransaction.MetaTransaction memory) pure returns (bytes32)"
                                 }
                               },
-                              "id": 1088,
+                              "id": 1070,
                               "isConstant": false,
                               "isLValue": false,
                               "isPure": false,
@@ -7494,18 +7494,18 @@
                                 "typeString": "bytes32"
                               }
                             ],
-                            "id": 1085,
+                            "id": 1067,
                             "name": "toTypedMessageHash",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 878,
+                            "referencedDeclaration": 860,
                             "src": "2948:18:8",
                             "typeDescriptions": {
                               "typeIdentifier": "t_function_internal_view$_t_bytes32_$returns$_t_bytes32_$",
                               "typeString": "function (bytes32) view returns (bytes32)"
                             }
                           },
-                          "id": 1089,
+                          "id": 1071,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": false,
@@ -7522,11 +7522,11 @@
                           }
                         },
                         {
-                          "id": 1090,
+                          "id": 1072,
                           "name": "sigV",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 1068,
+                          "referencedDeclaration": 1050,
                           "src": "3013:4:8",
                           "typeDescriptions": {
                             "typeIdentifier": "t_uint8",
@@ -7534,11 +7534,11 @@
                           }
                         },
                         {
-                          "id": 1091,
+                          "id": 1073,
                           "name": "sigR",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 1064,
+                          "referencedDeclaration": 1046,
                           "src": "3035:4:8",
                           "typeDescriptions": {
                             "typeIdentifier": "t_bytes32",
@@ -7546,11 +7546,11 @@
                           }
                         },
                         {
-                          "id": 1092,
+                          "id": 1074,
                           "name": "sigS",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 1066,
+                          "referencedDeclaration": 1048,
                           "src": "3057:4:8",
                           "typeDescriptions": {
                             "typeIdentifier": "t_bytes32",
@@ -7577,7 +7577,7 @@
                             "typeString": "bytes32"
                           }
                         ],
-                        "id": 1084,
+                        "id": 1066,
                         "name": "ecrecover",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
@@ -7588,7 +7588,7 @@
                           "typeString": "function (bytes32,uint8,bytes32,bytes32) pure returns (address)"
                         }
                       },
-                      "id": 1093,
+                      "id": 1075,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": false,
@@ -7610,14 +7610,14 @@
                       "typeString": "bool"
                     }
                   },
-                  "functionReturnParameters": 1072,
-                  "id": 1095,
+                  "functionReturnParameters": 1054,
+                  "id": 1077,
                   "nodeType": "Return",
                   "src": "2880:195:8"
                 }
               ]
             },
-            "id": 1097,
+            "id": 1079,
             "implemented": true,
             "kind": "function",
             "modifiers": [],
@@ -7625,17 +7625,17 @@
             "nameLocation": "2621:6:8",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 1069,
+              "id": 1051,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 1059,
+                  "id": 1041,
                   "mutability": "mutable",
                   "name": "signer",
                   "nameLocation": "2645:6:8",
                   "nodeType": "VariableDeclaration",
-                  "scope": 1097,
+                  "scope": 1079,
                   "src": "2637:14:8",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -7644,7 +7644,7 @@
                     "typeString": "address"
                   },
                   "typeName": {
-                    "id": 1058,
+                    "id": 1040,
                     "name": "address",
                     "nodeType": "ElementaryTypeName",
                     "src": "2637:7:8",
@@ -7658,36 +7658,36 @@
                 },
                 {
                   "constant": false,
-                  "id": 1062,
+                  "id": 1044,
                   "mutability": "mutable",
                   "name": "metaTx",
                   "nameLocation": "2684:6:8",
                   "nodeType": "VariableDeclaration",
-                  "scope": 1097,
+                  "scope": 1079,
                   "src": "2661:29:8",
                   "stateVariable": false,
                   "storageLocation": "memory",
                   "typeDescriptions": {
-                    "typeIdentifier": "t_struct$_MetaTransaction_$937_memory_ptr",
+                    "typeIdentifier": "t_struct$_MetaTransaction_$919_memory_ptr",
                     "typeString": "struct NativeMetaTransaction.MetaTransaction"
                   },
                   "typeName": {
-                    "id": 1061,
+                    "id": 1043,
                     "nodeType": "UserDefinedTypeName",
                     "pathNode": {
-                      "id": 1060,
+                      "id": 1042,
                       "name": "MetaTransaction",
                       "nameLocations": [
                         "2661:15:8"
                       ],
                       "nodeType": "IdentifierPath",
-                      "referencedDeclaration": 937,
+                      "referencedDeclaration": 919,
                       "src": "2661:15:8"
                     },
-                    "referencedDeclaration": 937,
+                    "referencedDeclaration": 919,
                     "src": "2661:15:8",
                     "typeDescriptions": {
-                      "typeIdentifier": "t_struct$_MetaTransaction_$937_storage_ptr",
+                      "typeIdentifier": "t_struct$_MetaTransaction_$919_storage_ptr",
                       "typeString": "struct NativeMetaTransaction.MetaTransaction"
                     }
                   },
@@ -7695,12 +7695,12 @@
                 },
                 {
                   "constant": false,
-                  "id": 1064,
+                  "id": 1046,
                   "mutability": "mutable",
                   "name": "sigR",
                   "nameLocation": "2708:4:8",
                   "nodeType": "VariableDeclaration",
-                  "scope": 1097,
+                  "scope": 1079,
                   "src": "2700:12:8",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -7709,7 +7709,7 @@
                     "typeString": "bytes32"
                   },
                   "typeName": {
-                    "id": 1063,
+                    "id": 1045,
                     "name": "bytes32",
                     "nodeType": "ElementaryTypeName",
                     "src": "2700:7:8",
@@ -7722,12 +7722,12 @@
                 },
                 {
                   "constant": false,
-                  "id": 1066,
+                  "id": 1048,
                   "mutability": "mutable",
                   "name": "sigS",
                   "nameLocation": "2730:4:8",
                   "nodeType": "VariableDeclaration",
-                  "scope": 1097,
+                  "scope": 1079,
                   "src": "2722:12:8",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -7736,7 +7736,7 @@
                     "typeString": "bytes32"
                   },
                   "typeName": {
-                    "id": 1065,
+                    "id": 1047,
                     "name": "bytes32",
                     "nodeType": "ElementaryTypeName",
                     "src": "2722:7:8",
@@ -7749,12 +7749,12 @@
                 },
                 {
                   "constant": false,
-                  "id": 1068,
+                  "id": 1050,
                   "mutability": "mutable",
                   "name": "sigV",
                   "nameLocation": "2750:4:8",
                   "nodeType": "VariableDeclaration",
-                  "scope": 1097,
+                  "scope": 1079,
                   "src": "2744:10:8",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -7763,7 +7763,7 @@
                     "typeString": "uint8"
                   },
                   "typeName": {
-                    "id": 1067,
+                    "id": 1049,
                     "name": "uint8",
                     "nodeType": "ElementaryTypeName",
                     "src": "2744:5:8",
@@ -7778,17 +7778,17 @@
               "src": "2627:133:8"
             },
             "returnParameters": {
-              "id": 1072,
+              "id": 1054,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 1071,
+                  "id": 1053,
                   "mutability": "mutable",
                   "name": "",
                   "nameLocation": "-1:-1:-1",
                   "nodeType": "VariableDeclaration",
-                  "scope": 1097,
+                  "scope": 1079,
                   "src": "2784:4:8",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -7797,7 +7797,7 @@
                     "typeString": "bool"
                   },
                   "typeName": {
-                    "id": 1070,
+                    "id": 1052,
                     "name": "bool",
                     "nodeType": "ElementaryTypeName",
                     "src": "2784:4:8",
@@ -7811,14 +7811,14 @@
               ],
               "src": "2783:6:8"
             },
-            "scope": 1098,
+            "scope": 1080,
             "src": "2612:470:8",
             "stateMutability": "view",
             "virtual": false,
             "visibility": "internal"
           }
         ],
-        "scope": 1099,
+        "scope": 1081,
         "src": "179:2905:8",
         "usedErrors": []
       }
@@ -7829,21 +7829,21 @@
     "absolutePath": "/Users/cameronfaith/Documents/GitHub/nft-collection-pipeline/smart-contract/contracts/common/meta-transactions/NativeMetaTransaction.sol",
     "exportedSymbols": {
       "EIP712Base": [
-        879
+        861
       ],
       "NativeMetaTransaction": [
-        1098
+        1080
       ],
       "SafeMath": [
-        3170
+        3152
       ]
     },
-    "id": 1099,
+    "id": 1081,
     "license": "MIT",
     "nodeType": "SourceUnit",
     "nodes": [
       {
-        "id": 901,
+        "id": 883,
         "literals": [
           "solidity",
           "^",
@@ -7856,20 +7856,20 @@
       {
         "absolutePath": "@openzeppelin/contracts/utils/math/SafeMath.sol",
         "file": "@openzeppelin/contracts/utils/math/SafeMath.sol",
-        "id": 903,
+        "id": 885,
         "nameLocation": "-1:-1:-1",
         "nodeType": "ImportDirective",
-        "scope": 1099,
-        "sourceUnit": 3171,
+        "scope": 1081,
+        "sourceUnit": 3153,
         "src": "58:74:8",
         "symbolAliases": [
           {
             "foreign": {
-              "id": 902,
+              "id": 884,
               "name": "SafeMath",
               "nodeType": "Identifier",
               "overloadedDeclarations": [],
-              "referencedDeclaration": 3170,
+              "referencedDeclaration": 3152,
               "src": "66:8:8",
               "typeDescriptions": {}
             },
@@ -7881,20 +7881,20 @@
       {
         "absolutePath": "/Users/cameronfaith/Documents/GitHub/nft-collection-pipeline/smart-contract/contracts/common/meta-transactions/EIP712Base.sol",
         "file": "./EIP712Base.sol",
-        "id": 905,
+        "id": 887,
         "nameLocation": "-1:-1:-1",
         "nodeType": "ImportDirective",
-        "scope": 1099,
-        "sourceUnit": 880,
+        "scope": 1081,
+        "sourceUnit": 862,
         "src": "133:44:8",
         "symbolAliases": [
           {
             "foreign": {
-              "id": 904,
+              "id": 886,
               "name": "EIP712Base",
               "nodeType": "Identifier",
               "overloadedDeclarations": [],
-              "referencedDeclaration": 879,
+              "referencedDeclaration": 861,
               "src": "141:10:8",
               "typeDescriptions": {}
             },
@@ -7908,16 +7908,16 @@
         "baseContracts": [
           {
             "baseName": {
-              "id": 906,
+              "id": 888,
               "name": "EIP712Base",
               "nameLocations": [
                 "213:10:8"
               ],
               "nodeType": "IdentifierPath",
-              "referencedDeclaration": 879,
+              "referencedDeclaration": 861,
               "src": "213:10:8"
             },
-            "id": 907,
+            "id": 889,
             "nodeType": "InheritanceSpecifier",
             "src": "213:10:8"
           }
@@ -7926,11 +7926,11 @@
         "contractDependencies": [],
         "contractKind": "contract",
         "fullyImplemented": true,
-        "id": 1098,
+        "id": 1080,
         "linearizedBaseContracts": [
-          1098,
-          879,
-          899
+          1080,
+          861,
+          881
         ],
         "name": "NativeMetaTransaction",
         "nameLocation": "188:21:8",
@@ -7938,21 +7938,21 @@
         "nodes": [
           {
             "global": false,
-            "id": 910,
+            "id": 892,
             "libraryName": {
-              "id": 908,
+              "id": 890,
               "name": "SafeMath",
               "nameLocations": [
                 "236:8:8"
               ],
               "nodeType": "IdentifierPath",
-              "referencedDeclaration": 3170,
+              "referencedDeclaration": 3152,
               "src": "236:8:8"
             },
             "nodeType": "UsingForDirective",
             "src": "230:27:8",
             "typeName": {
-              "id": 909,
+              "id": 891,
               "name": "uint256",
               "nodeType": "ElementaryTypeName",
               "src": "249:7:8",
@@ -7964,12 +7964,12 @@
           },
           {
             "constant": true,
-            "id": 918,
+            "id": 900,
             "mutability": "constant",
             "name": "META_TRANSACTION_TYPEHASH",
             "nameLocation": "287:25:8",
             "nodeType": "VariableDeclaration",
-            "scope": 1098,
+            "scope": 1080,
             "src": "262:176:8",
             "stateVariable": true,
             "storageLocation": "default",
@@ -7978,7 +7978,7 @@
               "typeString": "bytes32"
             },
             "typeName": {
-              "id": 911,
+              "id": 893,
               "name": "bytes32",
               "nodeType": "ElementaryTypeName",
               "src": "262:7:8",
@@ -7993,7 +7993,7 @@
                   "arguments": [
                     {
                       "hexValue": "4d6574615472616e73616374696f6e2875696e74323536206e6f6e63652c616464726573732066726f6d2c62797465732066756e6374696f6e5369676e617475726529",
-                      "id": 915,
+                      "id": 897,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": true,
@@ -8015,7 +8015,7 @@
                         "typeString": "literal_string \"MetaTransaction(uint256 nonce,address from,bytes functionSignature)\""
                       }
                     ],
-                    "id": 914,
+                    "id": 896,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": true,
@@ -8027,14 +8027,14 @@
                       "typeString": "type(bytes storage pointer)"
                     },
                     "typeName": {
-                      "id": 913,
+                      "id": 895,
                       "name": "bytes",
                       "nodeType": "ElementaryTypeName",
                       "src": "334:5:8",
                       "typeDescriptions": {}
                     }
                   },
-                  "id": 916,
+                  "id": 898,
                   "isConstant": false,
                   "isLValue": false,
                   "isPure": true,
@@ -8058,7 +8058,7 @@
                     "typeString": "bytes memory"
                   }
                 ],
-                "id": 912,
+                "id": 894,
                 "name": "keccak256",
                 "nodeType": "Identifier",
                 "overloadedDeclarations": [],
@@ -8069,7 +8069,7 @@
                   "typeString": "function (bytes memory) pure returns (bytes32)"
                 }
               },
-              "id": 917,
+              "id": 899,
               "isConstant": false,
               "isLValue": false,
               "isPure": true,
@@ -8090,23 +8090,23 @@
           {
             "anonymous": false,
             "eventSelector": "5845892132946850460bff5a0083f71031bc5bf9aadcd40f1de79423eac9b10b",
-            "id": 926,
+            "id": 908,
             "name": "MetaTransactionExecuted",
             "nameLocation": "450:23:8",
             "nodeType": "EventDefinition",
             "parameters": {
-              "id": 925,
+              "id": 907,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 920,
+                  "id": 902,
                   "indexed": false,
                   "mutability": "mutable",
                   "name": "userAddress",
                   "nameLocation": "491:11:8",
                   "nodeType": "VariableDeclaration",
-                  "scope": 926,
+                  "scope": 908,
                   "src": "483:19:8",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -8115,7 +8115,7 @@
                     "typeString": "address"
                   },
                   "typeName": {
-                    "id": 919,
+                    "id": 901,
                     "name": "address",
                     "nodeType": "ElementaryTypeName",
                     "src": "483:7:8",
@@ -8129,13 +8129,13 @@
                 },
                 {
                   "constant": false,
-                  "id": 922,
+                  "id": 904,
                   "indexed": false,
                   "mutability": "mutable",
                   "name": "relayerAddress",
                   "nameLocation": "528:14:8",
                   "nodeType": "VariableDeclaration",
-                  "scope": 926,
+                  "scope": 908,
                   "src": "512:30:8",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -8144,7 +8144,7 @@
                     "typeString": "address payable"
                   },
                   "typeName": {
-                    "id": 921,
+                    "id": 903,
                     "name": "address",
                     "nodeType": "ElementaryTypeName",
                     "src": "512:15:8",
@@ -8158,13 +8158,13 @@
                 },
                 {
                   "constant": false,
-                  "id": 924,
+                  "id": 906,
                   "indexed": false,
                   "mutability": "mutable",
                   "name": "functionSignature",
                   "nameLocation": "558:17:8",
                   "nodeType": "VariableDeclaration",
-                  "scope": 926,
+                  "scope": 908,
                   "src": "552:23:8",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -8173,7 +8173,7 @@
                     "typeString": "bytes"
                   },
                   "typeName": {
-                    "id": 923,
+                    "id": 905,
                     "name": "bytes",
                     "nodeType": "ElementaryTypeName",
                     "src": "552:5:8",
@@ -8191,12 +8191,12 @@
           },
           {
             "constant": false,
-            "id": 930,
+            "id": 912,
             "mutability": "mutable",
             "name": "nonces",
             "nameLocation": "615:6:8",
             "nodeType": "VariableDeclaration",
-            "scope": 1098,
+            "scope": 1080,
             "src": "587:34:8",
             "stateVariable": true,
             "storageLocation": "default",
@@ -8205,9 +8205,9 @@
               "typeString": "mapping(address => uint256)"
             },
             "typeName": {
-              "id": 929,
+              "id": 911,
               "keyType": {
-                "id": 927,
+                "id": 909,
                 "name": "address",
                 "nodeType": "ElementaryTypeName",
                 "src": "595:7:8",
@@ -8223,7 +8223,7 @@
                 "typeString": "mapping(address => uint256)"
               },
               "valueType": {
-                "id": 928,
+                "id": 910,
                 "name": "uint256",
                 "nodeType": "ElementaryTypeName",
                 "src": "606:7:8",
@@ -8237,16 +8237,16 @@
           },
           {
             "canonicalName": "NativeMetaTransaction.MetaTransaction",
-            "id": 937,
+            "id": 919,
             "members": [
               {
                 "constant": false,
-                "id": 932,
+                "id": 914,
                 "mutability": "mutable",
                 "name": "nonce",
                 "nameLocation": "903:5:8",
                 "nodeType": "VariableDeclaration",
-                "scope": 937,
+                "scope": 919,
                 "src": "895:13:8",
                 "stateVariable": false,
                 "storageLocation": "default",
@@ -8255,7 +8255,7 @@
                   "typeString": "uint256"
                 },
                 "typeName": {
-                  "id": 931,
+                  "id": 913,
                   "name": "uint256",
                   "nodeType": "ElementaryTypeName",
                   "src": "895:7:8",
@@ -8268,12 +8268,12 @@
               },
               {
                 "constant": false,
-                "id": 934,
+                "id": 916,
                 "mutability": "mutable",
                 "name": "from",
                 "nameLocation": "926:4:8",
                 "nodeType": "VariableDeclaration",
-                "scope": 937,
+                "scope": 919,
                 "src": "918:12:8",
                 "stateVariable": false,
                 "storageLocation": "default",
@@ -8282,7 +8282,7 @@
                   "typeString": "address"
                 },
                 "typeName": {
-                  "id": 933,
+                  "id": 915,
                   "name": "address",
                   "nodeType": "ElementaryTypeName",
                   "src": "918:7:8",
@@ -8296,12 +8296,12 @@
               },
               {
                 "constant": false,
-                "id": 936,
+                "id": 918,
                 "mutability": "mutable",
                 "name": "functionSignature",
                 "nameLocation": "946:17:8",
                 "nodeType": "VariableDeclaration",
-                "scope": 937,
+                "scope": 919,
                 "src": "940:23:8",
                 "stateVariable": false,
                 "storageLocation": "default",
@@ -8310,7 +8310,7 @@
                   "typeString": "bytes"
                 },
                 "typeName": {
-                  "id": 935,
+                  "id": 917,
                   "name": "bytes",
                   "nodeType": "ElementaryTypeName",
                   "src": "940:5:8",
@@ -8325,82 +8325,82 @@
             "name": "MetaTransaction",
             "nameLocation": "869:15:8",
             "nodeType": "StructDefinition",
-            "scope": 1098,
+            "scope": 1080,
             "src": "862:108:8",
             "visibility": "public"
           },
           {
             "body": {
-              "id": 1018,
+              "id": 1000,
               "nodeType": "Block",
               "src": "1185:908:8",
               "statements": [
                 {
                   "assignments": [
-                    954
+                    936
                   ],
                   "declarations": [
                     {
                       "constant": false,
-                      "id": 954,
+                      "id": 936,
                       "mutability": "mutable",
                       "name": "metaTx",
                       "nameLocation": "1218:6:8",
                       "nodeType": "VariableDeclaration",
-                      "scope": 1018,
+                      "scope": 1000,
                       "src": "1195:29:8",
                       "stateVariable": false,
                       "storageLocation": "memory",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_struct$_MetaTransaction_$937_memory_ptr",
+                        "typeIdentifier": "t_struct$_MetaTransaction_$919_memory_ptr",
                         "typeString": "struct NativeMetaTransaction.MetaTransaction"
                       },
                       "typeName": {
-                        "id": 953,
+                        "id": 935,
                         "nodeType": "UserDefinedTypeName",
                         "pathNode": {
-                          "id": 952,
+                          "id": 934,
                           "name": "MetaTransaction",
                           "nameLocations": [
                             "1195:15:8"
                           ],
                           "nodeType": "IdentifierPath",
-                          "referencedDeclaration": 937,
+                          "referencedDeclaration": 919,
                           "src": "1195:15:8"
                         },
-                        "referencedDeclaration": 937,
+                        "referencedDeclaration": 919,
                         "src": "1195:15:8",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_struct$_MetaTransaction_$937_storage_ptr",
+                          "typeIdentifier": "t_struct$_MetaTransaction_$919_storage_ptr",
                           "typeString": "struct NativeMetaTransaction.MetaTransaction"
                         }
                       },
                       "visibility": "internal"
                     }
                   ],
-                  "id": 962,
+                  "id": 944,
                   "initialValue": {
                     "arguments": [
                       {
                         "baseExpression": {
-                          "id": 956,
+                          "id": 938,
                           "name": "nonces",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 930,
+                          "referencedDeclaration": 912,
                           "src": "1264:6:8",
                           "typeDescriptions": {
                             "typeIdentifier": "t_mapping$_t_address_$_t_uint256_$",
                             "typeString": "mapping(address => uint256)"
                           }
                         },
-                        "id": 958,
+                        "id": 940,
                         "indexExpression": {
-                          "id": 957,
+                          "id": 939,
                           "name": "userAddress",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 939,
+                          "referencedDeclaration": 921,
                           "src": "1271:11:8",
                           "typeDescriptions": {
                             "typeIdentifier": "t_address",
@@ -8419,11 +8419,11 @@
                         }
                       },
                       {
-                        "id": 959,
+                        "id": 941,
                         "name": "userAddress",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 939,
+                        "referencedDeclaration": 921,
                         "src": "1303:11:8",
                         "typeDescriptions": {
                           "typeIdentifier": "t_address",
@@ -8431,11 +8431,11 @@
                         }
                       },
                       {
-                        "id": 960,
+                        "id": 942,
                         "name": "functionSignature",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 941,
+                        "referencedDeclaration": 923,
                         "src": "1347:17:8",
                         "typeDescriptions": {
                           "typeIdentifier": "t_bytes_memory_ptr",
@@ -8458,18 +8458,18 @@
                           "typeString": "bytes memory"
                         }
                       ],
-                      "id": 955,
+                      "id": 937,
                       "name": "MetaTransaction",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 937,
+                      "referencedDeclaration": 919,
                       "src": "1227:15:8",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_type$_t_struct$_MetaTransaction_$937_storage_ptr_$",
+                        "typeIdentifier": "t_type$_t_struct$_MetaTransaction_$919_storage_ptr_$",
                         "typeString": "type(struct NativeMetaTransaction.MetaTransaction storage pointer)"
                       }
                     },
-                    "id": 961,
+                    "id": 943,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -8489,7 +8489,7 @@
                     "src": "1227:148:8",
                     "tryCall": false,
                     "typeDescriptions": {
-                      "typeIdentifier": "t_struct$_MetaTransaction_$937_memory_ptr",
+                      "typeIdentifier": "t_struct$_MetaTransaction_$919_memory_ptr",
                       "typeString": "struct NativeMetaTransaction.MetaTransaction memory"
                     }
                   },
@@ -8502,11 +8502,11 @@
                       {
                         "arguments": [
                           {
-                            "id": 965,
+                            "id": 947,
                             "name": "userAddress",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 939,
+                            "referencedDeclaration": 921,
                             "src": "1414:11:8",
                             "typeDescriptions": {
                               "typeIdentifier": "t_address",
@@ -8514,23 +8514,23 @@
                             }
                           },
                           {
-                            "id": 966,
+                            "id": 948,
                             "name": "metaTx",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 954,
+                            "referencedDeclaration": 936,
                             "src": "1427:6:8",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_struct$_MetaTransaction_$937_memory_ptr",
+                              "typeIdentifier": "t_struct$_MetaTransaction_$919_memory_ptr",
                               "typeString": "struct NativeMetaTransaction.MetaTransaction memory"
                             }
                           },
                           {
-                            "id": 967,
+                            "id": 949,
                             "name": "sigR",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 943,
+                            "referencedDeclaration": 925,
                             "src": "1435:4:8",
                             "typeDescriptions": {
                               "typeIdentifier": "t_bytes32",
@@ -8538,11 +8538,11 @@
                             }
                           },
                           {
-                            "id": 968,
+                            "id": 950,
                             "name": "sigS",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 945,
+                            "referencedDeclaration": 927,
                             "src": "1441:4:8",
                             "typeDescriptions": {
                               "typeIdentifier": "t_bytes32",
@@ -8550,11 +8550,11 @@
                             }
                           },
                           {
-                            "id": 969,
+                            "id": 951,
                             "name": "sigV",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 947,
+                            "referencedDeclaration": 929,
                             "src": "1447:4:8",
                             "typeDescriptions": {
                               "typeIdentifier": "t_uint8",
@@ -8569,7 +8569,7 @@
                               "typeString": "address"
                             },
                             {
-                              "typeIdentifier": "t_struct$_MetaTransaction_$937_memory_ptr",
+                              "typeIdentifier": "t_struct$_MetaTransaction_$919_memory_ptr",
                               "typeString": "struct NativeMetaTransaction.MetaTransaction memory"
                             },
                             {
@@ -8585,18 +8585,18 @@
                               "typeString": "uint8"
                             }
                           ],
-                          "id": 964,
+                          "id": 946,
                           "name": "verify",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 1097,
+                          "referencedDeclaration": 1079,
                           "src": "1407:6:8",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_function_internal_view$_t_address_$_t_struct$_MetaTransaction_$937_memory_ptr_$_t_bytes32_$_t_bytes32_$_t_uint8_$returns$_t_bool_$",
+                            "typeIdentifier": "t_function_internal_view$_t_address_$_t_struct$_MetaTransaction_$919_memory_ptr_$_t_bytes32_$_t_bytes32_$_t_uint8_$returns$_t_bool_$",
                             "typeString": "function (address,struct NativeMetaTransaction.MetaTransaction memory,bytes32,bytes32,uint8) view returns (bool)"
                           }
                         },
-                        "id": 970,
+                        "id": 952,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": false,
@@ -8614,7 +8614,7 @@
                       },
                       {
                         "hexValue": "5369676e657220616e64207369676e617475726520646f206e6f74206d61746368",
-                        "id": 971,
+                        "id": 953,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": true,
@@ -8640,7 +8640,7 @@
                           "typeString": "literal_string \"Signer and signature do not match\""
                         }
                       ],
-                      "id": 963,
+                      "id": 945,
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
@@ -8654,7 +8654,7 @@
                         "typeString": "function (bool,string memory) pure"
                       }
                     },
-                    "id": 972,
+                    "id": 954,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -8670,37 +8670,37 @@
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 973,
+                  "id": 955,
                   "nodeType": "ExpressionStatement",
                   "src": "1386:125:8"
                 },
                 {
                   "expression": {
-                    "id": 983,
+                    "id": 965,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
                     "lValueRequested": false,
                     "leftHandSide": {
                       "baseExpression": {
-                        "id": 974,
+                        "id": 956,
                         "name": "nonces",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 930,
+                        "referencedDeclaration": 912,
                         "src": "1575:6:8",
                         "typeDescriptions": {
                           "typeIdentifier": "t_mapping$_t_address_$_t_uint256_$",
                           "typeString": "mapping(address => uint256)"
                         }
                       },
-                      "id": 976,
+                      "id": 958,
                       "indexExpression": {
-                        "id": 975,
+                        "id": 957,
                         "name": "userAddress",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 939,
+                        "referencedDeclaration": 921,
                         "src": "1582:11:8",
                         "typeDescriptions": {
                           "typeIdentifier": "t_address",
@@ -8724,7 +8724,7 @@
                       "arguments": [
                         {
                           "hexValue": "31",
-                          "id": 981,
+                          "id": 963,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": true,
@@ -8748,24 +8748,24 @@
                         ],
                         "expression": {
                           "baseExpression": {
-                            "id": 977,
+                            "id": 959,
                             "name": "nonces",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 930,
+                            "referencedDeclaration": 912,
                             "src": "1597:6:8",
                             "typeDescriptions": {
                               "typeIdentifier": "t_mapping$_t_address_$_t_uint256_$",
                               "typeString": "mapping(address => uint256)"
                             }
                           },
-                          "id": 979,
+                          "id": 961,
                           "indexExpression": {
-                            "id": 978,
+                            "id": 960,
                             "name": "userAddress",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 939,
+                            "referencedDeclaration": 921,
                             "src": "1604:11:8",
                             "typeDescriptions": {
                               "typeIdentifier": "t_address",
@@ -8783,7 +8783,7 @@
                             "typeString": "uint256"
                           }
                         },
-                        "id": 980,
+                        "id": 962,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": false,
@@ -8791,14 +8791,14 @@
                         "memberLocation": "1617:3:8",
                         "memberName": "add",
                         "nodeType": "MemberAccess",
-                        "referencedDeclaration": 3034,
+                        "referencedDeclaration": 3016,
                         "src": "1597:23:8",
                         "typeDescriptions": {
                           "typeIdentifier": "t_function_internal_pure$_t_uint256_$_t_uint256_$returns$_t_uint256_$bound_to$_t_uint256_$",
                           "typeString": "function (uint256,uint256) pure returns (uint256)"
                         }
                       },
-                      "id": 982,
+                      "id": 964,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": false,
@@ -8820,7 +8820,7 @@
                       "typeString": "uint256"
                     }
                   },
-                  "id": 984,
+                  "id": 966,
                   "nodeType": "ExpressionStatement",
                   "src": "1575:48:8"
                 },
@@ -8828,11 +8828,11 @@
                   "eventCall": {
                     "arguments": [
                       {
-                        "id": 986,
+                        "id": 968,
                         "name": "userAddress",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 939,
+                        "referencedDeclaration": 921,
                         "src": "1676:11:8",
                         "typeDescriptions": {
                           "typeIdentifier": "t_address",
@@ -8843,7 +8843,7 @@
                         "arguments": [
                           {
                             "expression": {
-                              "id": 989,
+                              "id": 971,
                               "name": "msg",
                               "nodeType": "Identifier",
                               "overloadedDeclarations": [],
@@ -8854,7 +8854,7 @@
                                 "typeString": "msg"
                               }
                             },
-                            "id": 990,
+                            "id": 972,
                             "isConstant": false,
                             "isLValue": false,
                             "isPure": false,
@@ -8876,7 +8876,7 @@
                               "typeString": "address"
                             }
                           ],
-                          "id": 988,
+                          "id": 970,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": true,
@@ -8888,7 +8888,7 @@
                             "typeString": "type(address payable)"
                           },
                           "typeName": {
-                            "id": 987,
+                            "id": 969,
                             "name": "address",
                             "nodeType": "ElementaryTypeName",
                             "src": "1701:8:8",
@@ -8896,7 +8896,7 @@
                             "typeDescriptions": {}
                           }
                         },
-                        "id": 991,
+                        "id": 973,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": false,
@@ -8913,11 +8913,11 @@
                         }
                       },
                       {
-                        "id": 992,
+                        "id": 974,
                         "name": "functionSignature",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 941,
+                        "referencedDeclaration": 923,
                         "src": "1734:17:8",
                         "typeDescriptions": {
                           "typeIdentifier": "t_bytes_memory_ptr",
@@ -8940,18 +8940,18 @@
                           "typeString": "bytes memory"
                         }
                       ],
-                      "id": 985,
+                      "id": 967,
                       "name": "MetaTransactionExecuted",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 926,
+                      "referencedDeclaration": 908,
                       "src": "1639:23:8",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_event_nonpayable$_t_address_$_t_address_payable_$_t_bytes_memory_ptr_$returns$__$",
                         "typeString": "function (address,address payable,bytes memory)"
                       }
                     },
-                    "id": 993,
+                    "id": 975,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -8967,24 +8967,24 @@
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 994,
+                  "id": 976,
                   "nodeType": "EmitStatement",
                   "src": "1634:127:8"
                 },
                 {
                   "assignments": [
-                    996,
-                    998
+                    978,
+                    980
                   ],
                   "declarations": [
                     {
                       "constant": false,
-                      "id": 996,
+                      "id": 978,
                       "mutability": "mutable",
                       "name": "success",
                       "nameLocation": "1874:7:8",
                       "nodeType": "VariableDeclaration",
-                      "scope": 1018,
+                      "scope": 1000,
                       "src": "1869:12:8",
                       "stateVariable": false,
                       "storageLocation": "default",
@@ -8993,7 +8993,7 @@
                         "typeString": "bool"
                       },
                       "typeName": {
-                        "id": 995,
+                        "id": 977,
                         "name": "bool",
                         "nodeType": "ElementaryTypeName",
                         "src": "1869:4:8",
@@ -9006,12 +9006,12 @@
                     },
                     {
                       "constant": false,
-                      "id": 998,
+                      "id": 980,
                       "mutability": "mutable",
                       "name": "returnData",
                       "nameLocation": "1896:10:8",
                       "nodeType": "VariableDeclaration",
-                      "scope": 1018,
+                      "scope": 1000,
                       "src": "1883:23:8",
                       "stateVariable": false,
                       "storageLocation": "memory",
@@ -9020,7 +9020,7 @@
                         "typeString": "bytes"
                       },
                       "typeName": {
-                        "id": 997,
+                        "id": 979,
                         "name": "bytes",
                         "nodeType": "ElementaryTypeName",
                         "src": "1883:5:8",
@@ -9032,17 +9032,17 @@
                       "visibility": "internal"
                     }
                   ],
-                  "id": 1010,
+                  "id": 992,
                   "initialValue": {
                     "arguments": [
                       {
                         "arguments": [
                           {
-                            "id": 1006,
+                            "id": 988,
                             "name": "functionSignature",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 941,
+                            "referencedDeclaration": 923,
                             "src": "1959:17:8",
                             "typeDescriptions": {
                               "typeIdentifier": "t_bytes_memory_ptr",
@@ -9050,11 +9050,11 @@
                             }
                           },
                           {
-                            "id": 1007,
+                            "id": 989,
                             "name": "userAddress",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 939,
+                            "referencedDeclaration": 921,
                             "src": "1978:11:8",
                             "typeDescriptions": {
                               "typeIdentifier": "t_address",
@@ -9074,7 +9074,7 @@
                             }
                           ],
                           "expression": {
-                            "id": 1004,
+                            "id": 986,
                             "name": "abi",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
@@ -9085,7 +9085,7 @@
                               "typeString": "abi"
                             }
                           },
-                          "id": 1005,
+                          "id": 987,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": true,
@@ -9099,7 +9099,7 @@
                             "typeString": "function () pure returns (bytes memory)"
                           }
                         },
-                        "id": 1008,
+                        "id": 990,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": false,
@@ -9126,14 +9126,14 @@
                       "expression": {
                         "arguments": [
                           {
-                            "id": 1001,
+                            "id": 983,
                             "name": "this",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
                             "referencedDeclaration": 4294967268,
                             "src": "1918:4:8",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_contract$_NativeMetaTransaction_$1098",
+                              "typeIdentifier": "t_contract$_NativeMetaTransaction_$1080",
                               "typeString": "contract NativeMetaTransaction"
                             }
                           }
@@ -9141,11 +9141,11 @@
                         "expression": {
                           "argumentTypes": [
                             {
-                              "typeIdentifier": "t_contract$_NativeMetaTransaction_$1098",
+                              "typeIdentifier": "t_contract$_NativeMetaTransaction_$1080",
                               "typeString": "contract NativeMetaTransaction"
                             }
                           ],
-                          "id": 1000,
+                          "id": 982,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": true,
@@ -9157,14 +9157,14 @@
                             "typeString": "type(address)"
                           },
                           "typeName": {
-                            "id": 999,
+                            "id": 981,
                             "name": "address",
                             "nodeType": "ElementaryTypeName",
                             "src": "1910:7:8",
                             "typeDescriptions": {}
                           }
                         },
-                        "id": 1002,
+                        "id": 984,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": false,
@@ -9180,7 +9180,7 @@
                           "typeString": "address"
                         }
                       },
-                      "id": 1003,
+                      "id": 985,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": false,
@@ -9194,7 +9194,7 @@
                         "typeString": "function (bytes memory) payable returns (bool,bytes memory)"
                       }
                     },
-                    "id": 1009,
+                    "id": 991,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -9217,11 +9217,11 @@
                   "expression": {
                     "arguments": [
                       {
-                        "id": 1012,
+                        "id": 994,
                         "name": "success",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 996,
+                        "referencedDeclaration": 978,
                         "src": "2018:7:8",
                         "typeDescriptions": {
                           "typeIdentifier": "t_bool",
@@ -9230,7 +9230,7 @@
                       },
                       {
                         "hexValue": "46756e6374696f6e2063616c6c206e6f74207375636365737366756c",
-                        "id": 1013,
+                        "id": 995,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": true,
@@ -9256,7 +9256,7 @@
                           "typeString": "literal_string \"Function call not successful\""
                         }
                       ],
-                      "id": 1011,
+                      "id": 993,
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
@@ -9270,7 +9270,7 @@
                         "typeString": "function (bool,string memory) pure"
                       }
                     },
-                    "id": 1014,
+                    "id": 996,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -9286,32 +9286,32 @@
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 1015,
+                  "id": 997,
                   "nodeType": "ExpressionStatement",
                   "src": "2010:48:8"
                 },
                 {
                   "expression": {
-                    "id": 1016,
+                    "id": 998,
                     "name": "returnData",
                     "nodeType": "Identifier",
                     "overloadedDeclarations": [],
-                    "referencedDeclaration": 998,
+                    "referencedDeclaration": 980,
                     "src": "2076:10:8",
                     "typeDescriptions": {
                       "typeIdentifier": "t_bytes_memory_ptr",
                       "typeString": "bytes memory"
                     }
                   },
-                  "functionReturnParameters": 951,
-                  "id": 1017,
+                  "functionReturnParameters": 933,
+                  "id": 999,
                   "nodeType": "Return",
                   "src": "2069:17:8"
                 }
               ]
             },
             "functionSelector": "0c53c51c",
-            "id": 1019,
+            "id": 1001,
             "implemented": true,
             "kind": "function",
             "modifiers": [],
@@ -9319,17 +9319,17 @@
             "nameLocation": "985:22:8",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 948,
+              "id": 930,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 939,
+                  "id": 921,
                   "mutability": "mutable",
                   "name": "userAddress",
                   "nameLocation": "1025:11:8",
                   "nodeType": "VariableDeclaration",
-                  "scope": 1019,
+                  "scope": 1001,
                   "src": "1017:19:8",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -9338,7 +9338,7 @@
                     "typeString": "address"
                   },
                   "typeName": {
-                    "id": 938,
+                    "id": 920,
                     "name": "address",
                     "nodeType": "ElementaryTypeName",
                     "src": "1017:7:8",
@@ -9352,12 +9352,12 @@
                 },
                 {
                   "constant": false,
-                  "id": 941,
+                  "id": 923,
                   "mutability": "mutable",
                   "name": "functionSignature",
                   "nameLocation": "1059:17:8",
                   "nodeType": "VariableDeclaration",
-                  "scope": 1019,
+                  "scope": 1001,
                   "src": "1046:30:8",
                   "stateVariable": false,
                   "storageLocation": "memory",
@@ -9366,7 +9366,7 @@
                     "typeString": "bytes"
                   },
                   "typeName": {
-                    "id": 940,
+                    "id": 922,
                     "name": "bytes",
                     "nodeType": "ElementaryTypeName",
                     "src": "1046:5:8",
@@ -9379,12 +9379,12 @@
                 },
                 {
                   "constant": false,
-                  "id": 943,
+                  "id": 925,
                   "mutability": "mutable",
                   "name": "sigR",
                   "nameLocation": "1094:4:8",
                   "nodeType": "VariableDeclaration",
-                  "scope": 1019,
+                  "scope": 1001,
                   "src": "1086:12:8",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -9393,7 +9393,7 @@
                     "typeString": "bytes32"
                   },
                   "typeName": {
-                    "id": 942,
+                    "id": 924,
                     "name": "bytes32",
                     "nodeType": "ElementaryTypeName",
                     "src": "1086:7:8",
@@ -9406,12 +9406,12 @@
                 },
                 {
                   "constant": false,
-                  "id": 945,
+                  "id": 927,
                   "mutability": "mutable",
                   "name": "sigS",
                   "nameLocation": "1116:4:8",
                   "nodeType": "VariableDeclaration",
-                  "scope": 1019,
+                  "scope": 1001,
                   "src": "1108:12:8",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -9420,7 +9420,7 @@
                     "typeString": "bytes32"
                   },
                   "typeName": {
-                    "id": 944,
+                    "id": 926,
                     "name": "bytes32",
                     "nodeType": "ElementaryTypeName",
                     "src": "1108:7:8",
@@ -9433,12 +9433,12 @@
                 },
                 {
                   "constant": false,
-                  "id": 947,
+                  "id": 929,
                   "mutability": "mutable",
                   "name": "sigV",
                   "nameLocation": "1136:4:8",
                   "nodeType": "VariableDeclaration",
-                  "scope": 1019,
+                  "scope": 1001,
                   "src": "1130:10:8",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -9447,7 +9447,7 @@
                     "typeString": "uint8"
                   },
                   "typeName": {
-                    "id": 946,
+                    "id": 928,
                     "name": "uint8",
                     "nodeType": "ElementaryTypeName",
                     "src": "1130:5:8",
@@ -9462,17 +9462,17 @@
               "src": "1007:139:8"
             },
             "returnParameters": {
-              "id": 951,
+              "id": 933,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 950,
+                  "id": 932,
                   "mutability": "mutable",
                   "name": "",
                   "nameLocation": "-1:-1:-1",
                   "nodeType": "VariableDeclaration",
-                  "scope": 1019,
+                  "scope": 1001,
                   "src": "1171:12:8",
                   "stateVariable": false,
                   "storageLocation": "memory",
@@ -9481,7 +9481,7 @@
                     "typeString": "bytes"
                   },
                   "typeName": {
-                    "id": 949,
+                    "id": 931,
                     "name": "bytes",
                     "nodeType": "ElementaryTypeName",
                     "src": "1171:5:8",
@@ -9495,7 +9495,7 @@
               ],
               "src": "1170:14:8"
             },
-            "scope": 1098,
+            "scope": 1080,
             "src": "976:1117:8",
             "stateMutability": "payable",
             "virtual": false,
@@ -9503,7 +9503,7 @@
           },
           {
             "body": {
-              "id": 1042,
+              "id": 1024,
               "nodeType": "Block",
               "src": "2219:276:8",
               "statements": [
@@ -9513,11 +9513,11 @@
                       {
                         "arguments": [
                           {
-                            "id": 1030,
+                            "id": 1012,
                             "name": "META_TRANSACTION_TYPEHASH",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 918,
+                            "referencedDeclaration": 900,
                             "src": "2307:25:8",
                             "typeDescriptions": {
                               "typeIdentifier": "t_bytes32",
@@ -9526,18 +9526,18 @@
                           },
                           {
                             "expression": {
-                              "id": 1031,
+                              "id": 1013,
                               "name": "metaTx",
                               "nodeType": "Identifier",
                               "overloadedDeclarations": [],
-                              "referencedDeclaration": 1022,
+                              "referencedDeclaration": 1004,
                               "src": "2354:6:8",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_struct$_MetaTransaction_$937_memory_ptr",
+                                "typeIdentifier": "t_struct$_MetaTransaction_$919_memory_ptr",
                                 "typeString": "struct NativeMetaTransaction.MetaTransaction memory"
                               }
                             },
-                            "id": 1032,
+                            "id": 1014,
                             "isConstant": false,
                             "isLValue": true,
                             "isPure": false,
@@ -9545,7 +9545,7 @@
                             "memberLocation": "2361:5:8",
                             "memberName": "nonce",
                             "nodeType": "MemberAccess",
-                            "referencedDeclaration": 932,
+                            "referencedDeclaration": 914,
                             "src": "2354:12:8",
                             "typeDescriptions": {
                               "typeIdentifier": "t_uint256",
@@ -9554,18 +9554,18 @@
                           },
                           {
                             "expression": {
-                              "id": 1033,
+                              "id": 1015,
                               "name": "metaTx",
                               "nodeType": "Identifier",
                               "overloadedDeclarations": [],
-                              "referencedDeclaration": 1022,
+                              "referencedDeclaration": 1004,
                               "src": "2388:6:8",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_struct$_MetaTransaction_$937_memory_ptr",
+                                "typeIdentifier": "t_struct$_MetaTransaction_$919_memory_ptr",
                                 "typeString": "struct NativeMetaTransaction.MetaTransaction memory"
                               }
                             },
-                            "id": 1034,
+                            "id": 1016,
                             "isConstant": false,
                             "isLValue": true,
                             "isPure": false,
@@ -9573,7 +9573,7 @@
                             "memberLocation": "2395:4:8",
                             "memberName": "from",
                             "nodeType": "MemberAccess",
-                            "referencedDeclaration": 934,
+                            "referencedDeclaration": 916,
                             "src": "2388:11:8",
                             "typeDescriptions": {
                               "typeIdentifier": "t_address",
@@ -9584,18 +9584,18 @@
                             "arguments": [
                               {
                                 "expression": {
-                                  "id": 1036,
+                                  "id": 1018,
                                   "name": "metaTx",
                                   "nodeType": "Identifier",
                                   "overloadedDeclarations": [],
-                                  "referencedDeclaration": 1022,
+                                  "referencedDeclaration": 1004,
                                   "src": "2431:6:8",
                                   "typeDescriptions": {
-                                    "typeIdentifier": "t_struct$_MetaTransaction_$937_memory_ptr",
+                                    "typeIdentifier": "t_struct$_MetaTransaction_$919_memory_ptr",
                                     "typeString": "struct NativeMetaTransaction.MetaTransaction memory"
                                   }
                                 },
-                                "id": 1037,
+                                "id": 1019,
                                 "isConstant": false,
                                 "isLValue": true,
                                 "isPure": false,
@@ -9603,7 +9603,7 @@
                                 "memberLocation": "2438:17:8",
                                 "memberName": "functionSignature",
                                 "nodeType": "MemberAccess",
-                                "referencedDeclaration": 936,
+                                "referencedDeclaration": 918,
                                 "src": "2431:24:8",
                                 "typeDescriptions": {
                                   "typeIdentifier": "t_bytes_memory_ptr",
@@ -9618,7 +9618,7 @@
                                   "typeString": "bytes memory"
                                 }
                               ],
-                              "id": 1035,
+                              "id": 1017,
                               "name": "keccak256",
                               "nodeType": "Identifier",
                               "overloadedDeclarations": [],
@@ -9629,7 +9629,7 @@
                                 "typeString": "function (bytes memory) pure returns (bytes32)"
                               }
                             },
-                            "id": 1038,
+                            "id": 1020,
                             "isConstant": false,
                             "isLValue": false,
                             "isPure": false,
@@ -9666,7 +9666,7 @@
                             }
                           ],
                           "expression": {
-                            "id": 1028,
+                            "id": 1010,
                             "name": "abi",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
@@ -9677,7 +9677,7 @@
                               "typeString": "abi"
                             }
                           },
-                          "id": 1029,
+                          "id": 1011,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": true,
@@ -9691,7 +9691,7 @@
                             "typeString": "function () pure returns (bytes memory)"
                           }
                         },
-                        "id": 1039,
+                        "id": 1021,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": false,
@@ -9715,7 +9715,7 @@
                           "typeString": "bytes memory"
                         }
                       ],
-                      "id": 1027,
+                      "id": 1009,
                       "name": "keccak256",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
@@ -9726,7 +9726,7 @@
                         "typeString": "function (bytes memory) pure returns (bytes32)"
                       }
                     },
-                    "id": 1040,
+                    "id": 1022,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -9742,14 +9742,14 @@
                       "typeString": "bytes32"
                     }
                   },
-                  "functionReturnParameters": 1026,
-                  "id": 1041,
+                  "functionReturnParameters": 1008,
+                  "id": 1023,
                   "nodeType": "Return",
                   "src": "2229:259:8"
                 }
               ]
             },
-            "id": 1043,
+            "id": 1025,
             "implemented": true,
             "kind": "function",
             "modifiers": [],
@@ -9757,41 +9757,41 @@
             "nameLocation": "2108:19:8",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 1023,
+              "id": 1005,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 1022,
+                  "id": 1004,
                   "mutability": "mutable",
                   "name": "metaTx",
                   "nameLocation": "2151:6:8",
                   "nodeType": "VariableDeclaration",
-                  "scope": 1043,
+                  "scope": 1025,
                   "src": "2128:29:8",
                   "stateVariable": false,
                   "storageLocation": "memory",
                   "typeDescriptions": {
-                    "typeIdentifier": "t_struct$_MetaTransaction_$937_memory_ptr",
+                    "typeIdentifier": "t_struct$_MetaTransaction_$919_memory_ptr",
                     "typeString": "struct NativeMetaTransaction.MetaTransaction"
                   },
                   "typeName": {
-                    "id": 1021,
+                    "id": 1003,
                     "nodeType": "UserDefinedTypeName",
                     "pathNode": {
-                      "id": 1020,
+                      "id": 1002,
                       "name": "MetaTransaction",
                       "nameLocations": [
                         "2128:15:8"
                       ],
                       "nodeType": "IdentifierPath",
-                      "referencedDeclaration": 937,
+                      "referencedDeclaration": 919,
                       "src": "2128:15:8"
                     },
-                    "referencedDeclaration": 937,
+                    "referencedDeclaration": 919,
                     "src": "2128:15:8",
                     "typeDescriptions": {
-                      "typeIdentifier": "t_struct$_MetaTransaction_$937_storage_ptr",
+                      "typeIdentifier": "t_struct$_MetaTransaction_$919_storage_ptr",
                       "typeString": "struct NativeMetaTransaction.MetaTransaction"
                     }
                   },
@@ -9801,17 +9801,17 @@
               "src": "2127:31:8"
             },
             "returnParameters": {
-              "id": 1026,
+              "id": 1008,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 1025,
+                  "id": 1007,
                   "mutability": "mutable",
                   "name": "",
                   "nameLocation": "-1:-1:-1",
                   "nodeType": "VariableDeclaration",
-                  "scope": 1043,
+                  "scope": 1025,
                   "src": "2206:7:8",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -9820,7 +9820,7 @@
                     "typeString": "bytes32"
                   },
                   "typeName": {
-                    "id": 1024,
+                    "id": 1006,
                     "name": "bytes32",
                     "nodeType": "ElementaryTypeName",
                     "src": "2206:7:8",
@@ -9834,7 +9834,7 @@
               ],
               "src": "2205:9:8"
             },
-            "scope": 1098,
+            "scope": 1080,
             "src": "2099:396:8",
             "stateMutability": "pure",
             "virtual": false,
@@ -9842,23 +9842,23 @@
           },
           {
             "body": {
-              "id": 1056,
+              "id": 1038,
               "nodeType": "Block",
               "src": "2569:37:8",
               "statements": [
                 {
                   "expression": {
-                    "id": 1054,
+                    "id": 1036,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
                     "lValueRequested": false,
                     "leftHandSide": {
-                      "id": 1050,
+                      "id": 1032,
                       "name": "nonce",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 1048,
+                      "referencedDeclaration": 1030,
                       "src": "2579:5:8",
                       "typeDescriptions": {
                         "typeIdentifier": "t_uint256",
@@ -9869,24 +9869,24 @@
                     "operator": "=",
                     "rightHandSide": {
                       "baseExpression": {
-                        "id": 1051,
+                        "id": 1033,
                         "name": "nonces",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 930,
+                        "referencedDeclaration": 912,
                         "src": "2587:6:8",
                         "typeDescriptions": {
                           "typeIdentifier": "t_mapping$_t_address_$_t_uint256_$",
                           "typeString": "mapping(address => uint256)"
                         }
                       },
-                      "id": 1053,
+                      "id": 1035,
                       "indexExpression": {
-                        "id": 1052,
+                        "id": 1034,
                         "name": "user",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 1045,
+                        "referencedDeclaration": 1027,
                         "src": "2594:4:8",
                         "typeDescriptions": {
                           "typeIdentifier": "t_address",
@@ -9910,14 +9910,14 @@
                       "typeString": "uint256"
                     }
                   },
-                  "id": 1055,
+                  "id": 1037,
                   "nodeType": "ExpressionStatement",
                   "src": "2579:20:8"
                 }
               ]
             },
             "functionSelector": "2d0335ab",
-            "id": 1057,
+            "id": 1039,
             "implemented": true,
             "kind": "function",
             "modifiers": [],
@@ -9925,17 +9925,17 @@
             "nameLocation": "2510:8:8",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 1046,
+              "id": 1028,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 1045,
+                  "id": 1027,
                   "mutability": "mutable",
                   "name": "user",
                   "nameLocation": "2527:4:8",
                   "nodeType": "VariableDeclaration",
-                  "scope": 1057,
+                  "scope": 1039,
                   "src": "2519:12:8",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -9944,7 +9944,7 @@
                     "typeString": "address"
                   },
                   "typeName": {
-                    "id": 1044,
+                    "id": 1026,
                     "name": "address",
                     "nodeType": "ElementaryTypeName",
                     "src": "2519:7:8",
@@ -9960,17 +9960,17 @@
               "src": "2518:14:8"
             },
             "returnParameters": {
-              "id": 1049,
+              "id": 1031,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 1048,
+                  "id": 1030,
                   "mutability": "mutable",
                   "name": "nonce",
                   "nameLocation": "2562:5:8",
                   "nodeType": "VariableDeclaration",
-                  "scope": 1057,
+                  "scope": 1039,
                   "src": "2554:13:8",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -9979,7 +9979,7 @@
                     "typeString": "uint256"
                   },
                   "typeName": {
-                    "id": 1047,
+                    "id": 1029,
                     "name": "uint256",
                     "nodeType": "ElementaryTypeName",
                     "src": "2554:7:8",
@@ -9993,7 +9993,7 @@
               ],
               "src": "2553:15:8"
             },
-            "scope": 1098,
+            "scope": 1080,
             "src": "2501:105:8",
             "stateMutability": "view",
             "virtual": false,
@@ -10001,7 +10001,7 @@
           },
           {
             "body": {
-              "id": 1096,
+              "id": 1078,
               "nodeType": "Block",
               "src": "2790:292:8",
               "statements": [
@@ -10013,17 +10013,17 @@
                           "typeIdentifier": "t_address",
                           "typeString": "address"
                         },
-                        "id": 1079,
+                        "id": 1061,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": false,
                         "lValueRequested": false,
                         "leftExpression": {
-                          "id": 1074,
+                          "id": 1056,
                           "name": "signer",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 1059,
+                          "referencedDeclaration": 1041,
                           "src": "2808:6:8",
                           "typeDescriptions": {
                             "typeIdentifier": "t_address",
@@ -10036,7 +10036,7 @@
                           "arguments": [
                             {
                               "hexValue": "30",
-                              "id": 1077,
+                              "id": 1059,
                               "isConstant": false,
                               "isLValue": false,
                               "isPure": true,
@@ -10058,7 +10058,7 @@
                                 "typeString": "int_const 0"
                               }
                             ],
-                            "id": 1076,
+                            "id": 1058,
                             "isConstant": false,
                             "isLValue": false,
                             "isPure": true,
@@ -10070,14 +10070,14 @@
                               "typeString": "type(address)"
                             },
                             "typeName": {
-                              "id": 1075,
+                              "id": 1057,
                               "name": "address",
                               "nodeType": "ElementaryTypeName",
                               "src": "2818:7:8",
                               "typeDescriptions": {}
                             }
                           },
-                          "id": 1078,
+                          "id": 1060,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": true,
@@ -10101,7 +10101,7 @@
                       },
                       {
                         "hexValue": "4e61746976654d6574615472616e73616374696f6e3a20494e56414c49445f5349474e4552",
-                        "id": 1080,
+                        "id": 1062,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": true,
@@ -10127,7 +10127,7 @@
                           "typeString": "literal_string \"NativeMetaTransaction: INVALID_SIGNER\""
                         }
                       ],
-                      "id": 1073,
+                      "id": 1055,
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
@@ -10141,7 +10141,7 @@
                         "typeString": "function (bool,string memory) pure"
                       }
                     },
-                    "id": 1081,
+                    "id": 1063,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -10157,7 +10157,7 @@
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 1082,
+                  "id": 1064,
                   "nodeType": "ExpressionStatement",
                   "src": "2800:70:8"
                 },
@@ -10167,17 +10167,17 @@
                       "typeIdentifier": "t_address",
                       "typeString": "address"
                     },
-                    "id": 1094,
+                    "id": 1076,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
                     "lValueRequested": false,
                     "leftExpression": {
-                      "id": 1083,
+                      "id": 1065,
                       "name": "signer",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 1059,
+                      "referencedDeclaration": 1041,
                       "src": "2899:6:8",
                       "typeDescriptions": {
                         "typeIdentifier": "t_address",
@@ -10193,14 +10193,14 @@
                             {
                               "arguments": [
                                 {
-                                  "id": 1087,
+                                  "id": 1069,
                                   "name": "metaTx",
                                   "nodeType": "Identifier",
                                   "overloadedDeclarations": [],
-                                  "referencedDeclaration": 1062,
+                                  "referencedDeclaration": 1044,
                                   "src": "2987:6:8",
                                   "typeDescriptions": {
-                                    "typeIdentifier": "t_struct$_MetaTransaction_$937_memory_ptr",
+                                    "typeIdentifier": "t_struct$_MetaTransaction_$919_memory_ptr",
                                     "typeString": "struct NativeMetaTransaction.MetaTransaction memory"
                                   }
                                 }
@@ -10208,22 +10208,22 @@
                               "expression": {
                                 "argumentTypes": [
                                   {
-                                    "typeIdentifier": "t_struct$_MetaTransaction_$937_memory_ptr",
+                                    "typeIdentifier": "t_struct$_MetaTransaction_$919_memory_ptr",
                                     "typeString": "struct NativeMetaTransaction.MetaTransaction memory"
                                   }
                                 ],
-                                "id": 1086,
+                                "id": 1068,
                                 "name": "hashMetaTransaction",
                                 "nodeType": "Identifier",
                                 "overloadedDeclarations": [],
-                                "referencedDeclaration": 1043,
+                                "referencedDeclaration": 1025,
                                 "src": "2967:19:8",
                                 "typeDescriptions": {
-                                  "typeIdentifier": "t_function_internal_pure$_t_struct$_MetaTransaction_$937_memory_ptr_$returns$_t_bytes32_$",
+                                  "typeIdentifier": "t_function_internal_pure$_t_struct$_MetaTransaction_$919_memory_ptr_$returns$_t_bytes32_$",
                                   "typeString": "function (struct NativeMetaTransaction.MetaTransaction memory) pure returns (bytes32)"
                                 }
                               },
-                              "id": 1088,
+                              "id": 1070,
                               "isConstant": false,
                               "isLValue": false,
                               "isPure": false,
@@ -10247,18 +10247,18 @@
                                 "typeString": "bytes32"
                               }
                             ],
-                            "id": 1085,
+                            "id": 1067,
                             "name": "toTypedMessageHash",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 878,
+                            "referencedDeclaration": 860,
                             "src": "2948:18:8",
                             "typeDescriptions": {
                               "typeIdentifier": "t_function_internal_view$_t_bytes32_$returns$_t_bytes32_$",
                               "typeString": "function (bytes32) view returns (bytes32)"
                             }
                           },
-                          "id": 1089,
+                          "id": 1071,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": false,
@@ -10275,11 +10275,11 @@
                           }
                         },
                         {
-                          "id": 1090,
+                          "id": 1072,
                           "name": "sigV",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 1068,
+                          "referencedDeclaration": 1050,
                           "src": "3013:4:8",
                           "typeDescriptions": {
                             "typeIdentifier": "t_uint8",
@@ -10287,11 +10287,11 @@
                           }
                         },
                         {
-                          "id": 1091,
+                          "id": 1073,
                           "name": "sigR",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 1064,
+                          "referencedDeclaration": 1046,
                           "src": "3035:4:8",
                           "typeDescriptions": {
                             "typeIdentifier": "t_bytes32",
@@ -10299,11 +10299,11 @@
                           }
                         },
                         {
-                          "id": 1092,
+                          "id": 1074,
                           "name": "sigS",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 1066,
+                          "referencedDeclaration": 1048,
                           "src": "3057:4:8",
                           "typeDescriptions": {
                             "typeIdentifier": "t_bytes32",
@@ -10330,7 +10330,7 @@
                             "typeString": "bytes32"
                           }
                         ],
-                        "id": 1084,
+                        "id": 1066,
                         "name": "ecrecover",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
@@ -10341,7 +10341,7 @@
                           "typeString": "function (bytes32,uint8,bytes32,bytes32) pure returns (address)"
                         }
                       },
-                      "id": 1093,
+                      "id": 1075,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": false,
@@ -10363,14 +10363,14 @@
                       "typeString": "bool"
                     }
                   },
-                  "functionReturnParameters": 1072,
-                  "id": 1095,
+                  "functionReturnParameters": 1054,
+                  "id": 1077,
                   "nodeType": "Return",
                   "src": "2880:195:8"
                 }
               ]
             },
-            "id": 1097,
+            "id": 1079,
             "implemented": true,
             "kind": "function",
             "modifiers": [],
@@ -10378,17 +10378,17 @@
             "nameLocation": "2621:6:8",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 1069,
+              "id": 1051,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 1059,
+                  "id": 1041,
                   "mutability": "mutable",
                   "name": "signer",
                   "nameLocation": "2645:6:8",
                   "nodeType": "VariableDeclaration",
-                  "scope": 1097,
+                  "scope": 1079,
                   "src": "2637:14:8",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -10397,7 +10397,7 @@
                     "typeString": "address"
                   },
                   "typeName": {
-                    "id": 1058,
+                    "id": 1040,
                     "name": "address",
                     "nodeType": "ElementaryTypeName",
                     "src": "2637:7:8",
@@ -10411,36 +10411,36 @@
                 },
                 {
                   "constant": false,
-                  "id": 1062,
+                  "id": 1044,
                   "mutability": "mutable",
                   "name": "metaTx",
                   "nameLocation": "2684:6:8",
                   "nodeType": "VariableDeclaration",
-                  "scope": 1097,
+                  "scope": 1079,
                   "src": "2661:29:8",
                   "stateVariable": false,
                   "storageLocation": "memory",
                   "typeDescriptions": {
-                    "typeIdentifier": "t_struct$_MetaTransaction_$937_memory_ptr",
+                    "typeIdentifier": "t_struct$_MetaTransaction_$919_memory_ptr",
                     "typeString": "struct NativeMetaTransaction.MetaTransaction"
                   },
                   "typeName": {
-                    "id": 1061,
+                    "id": 1043,
                     "nodeType": "UserDefinedTypeName",
                     "pathNode": {
-                      "id": 1060,
+                      "id": 1042,
                       "name": "MetaTransaction",
                       "nameLocations": [
                         "2661:15:8"
                       ],
                       "nodeType": "IdentifierPath",
-                      "referencedDeclaration": 937,
+                      "referencedDeclaration": 919,
                       "src": "2661:15:8"
                     },
-                    "referencedDeclaration": 937,
+                    "referencedDeclaration": 919,
                     "src": "2661:15:8",
                     "typeDescriptions": {
-                      "typeIdentifier": "t_struct$_MetaTransaction_$937_storage_ptr",
+                      "typeIdentifier": "t_struct$_MetaTransaction_$919_storage_ptr",
                       "typeString": "struct NativeMetaTransaction.MetaTransaction"
                     }
                   },
@@ -10448,12 +10448,12 @@
                 },
                 {
                   "constant": false,
-                  "id": 1064,
+                  "id": 1046,
                   "mutability": "mutable",
                   "name": "sigR",
                   "nameLocation": "2708:4:8",
                   "nodeType": "VariableDeclaration",
-                  "scope": 1097,
+                  "scope": 1079,
                   "src": "2700:12:8",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -10462,7 +10462,7 @@
                     "typeString": "bytes32"
                   },
                   "typeName": {
-                    "id": 1063,
+                    "id": 1045,
                     "name": "bytes32",
                     "nodeType": "ElementaryTypeName",
                     "src": "2700:7:8",
@@ -10475,12 +10475,12 @@
                 },
                 {
                   "constant": false,
-                  "id": 1066,
+                  "id": 1048,
                   "mutability": "mutable",
                   "name": "sigS",
                   "nameLocation": "2730:4:8",
                   "nodeType": "VariableDeclaration",
-                  "scope": 1097,
+                  "scope": 1079,
                   "src": "2722:12:8",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -10489,7 +10489,7 @@
                     "typeString": "bytes32"
                   },
                   "typeName": {
-                    "id": 1065,
+                    "id": 1047,
                     "name": "bytes32",
                     "nodeType": "ElementaryTypeName",
                     "src": "2722:7:8",
@@ -10502,12 +10502,12 @@
                 },
                 {
                   "constant": false,
-                  "id": 1068,
+                  "id": 1050,
                   "mutability": "mutable",
                   "name": "sigV",
                   "nameLocation": "2750:4:8",
                   "nodeType": "VariableDeclaration",
-                  "scope": 1097,
+                  "scope": 1079,
                   "src": "2744:10:8",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -10516,7 +10516,7 @@
                     "typeString": "uint8"
                   },
                   "typeName": {
-                    "id": 1067,
+                    "id": 1049,
                     "name": "uint8",
                     "nodeType": "ElementaryTypeName",
                     "src": "2744:5:8",
@@ -10531,17 +10531,17 @@
               "src": "2627:133:8"
             },
             "returnParameters": {
-              "id": 1072,
+              "id": 1054,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 1071,
+                  "id": 1053,
                   "mutability": "mutable",
                   "name": "",
                   "nameLocation": "-1:-1:-1",
                   "nodeType": "VariableDeclaration",
-                  "scope": 1097,
+                  "scope": 1079,
                   "src": "2784:4:8",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -10550,7 +10550,7 @@
                     "typeString": "bool"
                   },
                   "typeName": {
-                    "id": 1070,
+                    "id": 1052,
                     "name": "bool",
                     "nodeType": "ElementaryTypeName",
                     "src": "2784:4:8",
@@ -10564,14 +10564,14 @@
               ],
               "src": "2783:6:8"
             },
-            "scope": 1098,
+            "scope": 1080,
             "src": "2612:470:8",
             "stateMutability": "view",
             "virtual": false,
             "visibility": "internal"
           }
         ],
-        "scope": 1099,
+        "scope": 1081,
         "src": "179:2905:8",
         "usedErrors": []
       }
@@ -10584,7 +10584,7 @@
   },
   "networks": {},
   "schemaVersion": "3.3.4",
-  "updatedAt": "2022-10-05T22:19:51.330Z",
+  "updatedAt": "2022-10-07T15:15:46.850Z",
   "devdoc": {
     "kind": "dev",
     "methods": {},

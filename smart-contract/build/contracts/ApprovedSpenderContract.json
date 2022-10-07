@@ -15,15 +15,15 @@
     "absolutePath": "/Users/cameronfaith/Documents/GitHub/nft-collection-pipeline/smart-contract/contracts/test/ApprovedSpenderContract.sol",
     "exportedSymbols": {
       "ApprovedSpenderContract": [
-        1101
+        1083
       ]
     },
-    "id": 1102,
+    "id": 1084,
     "license": "MIT",
     "nodeType": "SourceUnit",
     "nodes": [
       {
-        "id": 1100,
+        "id": 1082,
         "literals": [
           "solidity",
           "^",
@@ -40,15 +40,15 @@
         "contractDependencies": [],
         "contractKind": "contract",
         "fullyImplemented": true,
-        "id": 1101,
+        "id": 1083,
         "linearizedBaseContracts": [
-          1101
+          1083
         ],
         "name": "ApprovedSpenderContract",
         "nameLocation": "67:23:9",
         "nodeType": "ContractDefinition",
         "nodes": [],
-        "scope": 1102,
+        "scope": 1084,
         "src": "58:41:9",
         "usedErrors": []
       }
@@ -59,15 +59,15 @@
     "absolutePath": "/Users/cameronfaith/Documents/GitHub/nft-collection-pipeline/smart-contract/contracts/test/ApprovedSpenderContract.sol",
     "exportedSymbols": {
       "ApprovedSpenderContract": [
-        1101
+        1083
       ]
     },
-    "id": 1102,
+    "id": 1084,
     "license": "MIT",
     "nodeType": "SourceUnit",
     "nodes": [
       {
-        "id": 1100,
+        "id": 1082,
         "literals": [
           "solidity",
           "^",
@@ -84,15 +84,15 @@
         "contractDependencies": [],
         "contractKind": "contract",
         "fullyImplemented": true,
-        "id": 1101,
+        "id": 1083,
         "linearizedBaseContracts": [
-          1101
+          1083
         ],
         "name": "ApprovedSpenderContract",
         "nameLocation": "67:23:9",
         "nodeType": "ContractDefinition",
         "nodes": [],
-        "scope": 1102,
+        "scope": 1084,
         "src": "58:41:9",
         "usedErrors": []
       }
@@ -105,7 +105,7 @@
   },
   "networks": {},
   "schemaVersion": "3.3.4",
-  "updatedAt": "2022-10-05T22:19:51.333Z",
+  "updatedAt": "2022-10-07T15:15:46.853Z",
   "devdoc": {
     "kind": "dev",
     "methods": {},
