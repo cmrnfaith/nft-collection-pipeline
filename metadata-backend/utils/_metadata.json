@@ -6,27 +6,27 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "DesertWind"
+        "value": "DesertWind"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "BurntOrangeTailTwo"
+        "value": "BurntOrangeTailTwo"
       },
       {
         "trait_type": "Coats",
-        "file_name": "GreenSweater"
+        "value": "GreenSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Blue"
+        "value": "Blue"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Unibrow"
+        "value": "Unibrow"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "Shock"
+        "value": "Shock"
       }
     ]
   },
@@ -37,27 +37,27 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "Midnight"
+        "value": "Midnight"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "BurntOrangeTailTwo"
+        "value": "BurntOrangeTailTwo"
       },
       {
         "trait_type": "Coats",
-        "file_name": "GreenSweater"
+        "value": "GreenSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Fire"
+        "value": "Fire"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Inquisitive"
+        "value": "Inquisitive"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "Crying"
+        "value": "Crying"
       }
     ]
   },
@@ -68,27 +68,27 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "Fog"
+        "value": "Fog"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "BurntOrangeTailTwo"
+        "value": "BurntOrangeTailTwo"
       },
       {
         "trait_type": "Coats",
-        "file_name": "GreenSweater"
+        "value": "GreenSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Spruce"
+        "value": "Spruce"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Furious"
+        "value": "Furious"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "Shock"
+        "value": "Shock"
       }
     ]
   },
@@ -99,27 +99,27 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "Violet"
+        "value": "Violet"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "OakTailTwo"
+        "value": "OakTailTwo"
       },
       {
         "trait_type": "Coats",
-        "file_name": "GreenSweater"
+        "value": "GreenSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Blue"
+        "value": "Blue"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Furious"
+        "value": "Furious"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "Golden"
+        "value": "Golden"
       }
     ]
   },
@@ -130,27 +130,27 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "SkyBlue"
+        "value": "SkyBlue"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "BurntOrangeTailThree"
+        "value": "BurntOrangeTailThree"
       },
       {
         "trait_type": "Coats",
-        "file_name": "GreenSweater"
+        "value": "GreenSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Blue"
+        "value": "Blue"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Furious"
+        "value": "Furious"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "FullSmile"
+        "value": "FullSmile"
       }
     ]
   },
@@ -161,27 +161,27 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "BumbleBee"
+        "value": "BumbleBee"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "OakTailThree"
+        "value": "OakTailThree"
       },
       {
         "trait_type": "Coats",
-        "file_name": "GreenSweater"
+        "value": "GreenSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Blue"
+        "value": "Blue"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Bushy"
+        "value": "Bushy"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "Crying"
+        "value": "Crying"
       }
     ]
   },
@@ -192,27 +192,27 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "Emerald"
+        "value": "Emerald"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "OakTailOne"
+        "value": "OakTailOne"
       },
       {
         "trait_type": "Coats",
-        "file_name": "BlueSweater"
+        "value": "BlueSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Hazel"
+        "value": "Hazel"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Calm"
+        "value": "Calm"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "Shock"
+        "value": "Shock"
       }
     ]
   },
@@ -223,27 +223,27 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "BumbleBee"
+        "value": "BumbleBee"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "BurntOrangeTailOne"
+        "value": "BurntOrangeTailOne"
       },
       {
         "trait_type": "Coats",
-        "file_name": "BlueSweater"
+        "value": "BlueSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Hazel"
+        "value": "Hazel"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Calm"
+        "value": "Calm"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "Beard"
+        "value": "Beard"
       }
     ]
   },
@@ -254,27 +254,27 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "Heart"
+        "value": "Heart"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "BurntOrangeTailThree"
+        "value": "BurntOrangeTailThree"
       },
       {
         "trait_type": "Coats",
-        "file_name": "GreenSweater"
+        "value": "GreenSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Hazel"
+        "value": "Hazel"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Unibrow"
+        "value": "Unibrow"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "Golden"
+        "value": "Golden"
       }
     ]
   },
@@ -285,27 +285,27 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "DeepSea"
+        "value": "DeepSea"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "OakTailTwo"
+        "value": "OakTailTwo"
       },
       {
         "trait_type": "Coats",
-        "file_name": "GreenSweater"
+        "value": "GreenSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Blue"
+        "value": "Blue"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Shock"
+        "value": "Shock"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "Crying"
+        "value": "Crying"
       }
     ]
   },
@@ -316,27 +316,27 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "Emerald"
+        "value": "Emerald"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "OakTailTwo"
+        "value": "OakTailTwo"
       },
       {
         "trait_type": "Coats",
-        "file_name": "GreenSweater"
+        "value": "GreenSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Hazel"
+        "value": "Hazel"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Furious"
+        "value": "Furious"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "Meh"
+        "value": "Meh"
       }
     ]
   },
@@ -347,27 +347,27 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "BumbleBee"
+        "value": "BumbleBee"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "OakTailTwo"
+        "value": "OakTailTwo"
       },
       {
         "trait_type": "Coats",
-        "file_name": "BlueSweater"
+        "value": "BlueSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Blue"
+        "value": "Blue"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Inquisitive"
+        "value": "Inquisitive"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "Shock"
+        "value": "Shock"
       }
     ]
   },
@@ -378,27 +378,27 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "Violet"
+        "value": "Violet"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "BurntOrangeTailOne"
+        "value": "BurntOrangeTailOne"
       },
       {
         "trait_type": "Coats",
-        "file_name": "BlueSweater"
+        "value": "BlueSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Spruce"
+        "value": "Spruce"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Inquisitive"
+        "value": "Inquisitive"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "FullSmile"
+        "value": "FullSmile"
       }
     ]
   },
@@ -409,27 +409,27 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "DeepSea"
+        "value": "DeepSea"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "OakTailTwo"
+        "value": "OakTailTwo"
       },
       {
         "trait_type": "Coats",
-        "file_name": "GreenSweater"
+        "value": "GreenSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Blue"
+        "value": "Blue"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Bushy"
+        "value": "Bushy"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "Crying"
+        "value": "Crying"
       }
     ]
   },
@@ -440,27 +440,27 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "DesertWind"
+        "value": "DesertWind"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "BurntOrangeTailOne"
+        "value": "BurntOrangeTailOne"
       },
       {
         "trait_type": "Coats",
-        "file_name": "BlueSweater"
+        "value": "BlueSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Spruce"
+        "value": "Spruce"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Calm"
+        "value": "Calm"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "Hello"
+        "value": "Hello"
       }
     ]
   },
@@ -471,31 +471,31 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "Grass"
+        "value": "Grass"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "BurntOrangeTailThree"
+        "value": "BurntOrangeTailThree"
       },
       {
         "trait_type": "Coats",
-        "file_name": "AlvinSweater"
+        "value": "AlvinSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Spruce"
+        "value": "Spruce"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Curious"
+        "value": "Curious"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "Beard"
+        "value": "Beard"
       },
       {
         "trait_type": "Sunglasses",
-        "file_name": "NeonParty"
+        "value": "NeonParty"
       }
     ]
   },
@@ -506,31 +506,31 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "Emerald"
+        "value": "Emerald"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "OakTailThree"
+        "value": "OakTailThree"
       },
       {
         "trait_type": "Coats",
-        "file_name": "GreenSweater"
+        "value": "GreenSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Spruce"
+        "value": "Spruce"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Calm"
+        "value": "Calm"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "Meh"
+        "value": "Meh"
       },
       {
         "trait_type": "Sunglasses",
-        "file_name": "NeonParty"
+        "value": "NeonParty"
       }
     ]
   },
@@ -541,31 +541,31 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "Sunrise"
+        "value": "Sunrise"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "BurntOrangeTailThree"
+        "value": "BurntOrangeTailThree"
       },
       {
         "trait_type": "Coats",
-        "file_name": "BlueSweater"
+        "value": "BlueSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Fire"
+        "value": "Fire"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Curious"
+        "value": "Curious"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "Golden"
+        "value": "Golden"
       },
       {
         "trait_type": "Sunglasses",
-        "file_name": "Golden"
+        "value": "Golden"
       }
     ]
   },
@@ -576,31 +576,31 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "SkyBlue"
+        "value": "SkyBlue"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "OakTailTwo"
+        "value": "OakTailTwo"
       },
       {
         "trait_type": "Coats",
-        "file_name": "BlueSweater"
+        "value": "BlueSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Spruce"
+        "value": "Spruce"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Inquisitive"
+        "value": "Inquisitive"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "FullSmile"
+        "value": "FullSmile"
       },
       {
         "trait_type": "Sunglasses",
-        "file_name": "Golden"
+        "value": "Golden"
       }
     ]
   },
@@ -611,31 +611,31 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "BumbleBee"
+        "value": "BumbleBee"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "BurntOrangeTailTwo"
+        "value": "BurntOrangeTailTwo"
       },
       {
         "trait_type": "Coats",
-        "file_name": "GreenSweater"
+        "value": "GreenSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Hazel"
+        "value": "Hazel"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Shock"
+        "value": "Shock"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "Shock"
+        "value": "Shock"
       },
       {
         "trait_type": "Sunglasses",
-        "file_name": "HarryPotter"
+        "value": "HarryPotter"
       }
     ]
   },
@@ -646,31 +646,31 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "DeepSea"
+        "value": "DeepSea"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "BurntOrangeTailOne"
+        "value": "BurntOrangeTailOne"
       },
       {
         "trait_type": "Coats",
-        "file_name": "AlvinSweater"
+        "value": "AlvinSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Fire"
+        "value": "Fire"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Curious"
+        "value": "Curious"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "Beard"
+        "value": "Beard"
       },
       {
         "trait_type": "Sunglasses",
-        "file_name": "WhiteParty"
+        "value": "WhiteParty"
       }
     ]
   },
@@ -681,31 +681,31 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "DeepSea"
+        "value": "DeepSea"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "BurntOrangeTailThree"
+        "value": "BurntOrangeTailThree"
       },
       {
         "trait_type": "Coats",
-        "file_name": "AlvinSweater"
+        "value": "AlvinSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Hazel"
+        "value": "Hazel"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Furious"
+        "value": "Furious"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "Golden"
+        "value": "Golden"
       },
       {
         "trait_type": "Sunglasses",
-        "file_name": "NeonNoLense"
+        "value": "NeonNoLense"
       }
     ]
   },
@@ -716,31 +716,31 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "Midnight"
+        "value": "Midnight"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "OakTailThree"
+        "value": "OakTailThree"
       },
       {
         "trait_type": "Coats",
-        "file_name": "AlvinSweater"
+        "value": "AlvinSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Fire"
+        "value": "Fire"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Unibrow"
+        "value": "Unibrow"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "Crying"
+        "value": "Crying"
       },
       {
         "trait_type": "Sunglasses",
-        "file_name": "Golden"
+        "value": "Golden"
       }
     ]
   },
@@ -751,31 +751,31 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "Heart"
+        "value": "Heart"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "OakTailThree"
+        "value": "OakTailThree"
       },
       {
         "trait_type": "Coats",
-        "file_name": "GreenSweater"
+        "value": "GreenSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Hazel"
+        "value": "Hazel"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Shock"
+        "value": "Shock"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "Golden"
+        "value": "Golden"
       },
       {
         "trait_type": "Sunglasses",
-        "file_name": "WhiteParty"
+        "value": "WhiteParty"
       }
     ]
   },
@@ -786,31 +786,31 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "Grass"
+        "value": "Grass"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "BurntOrangeTailOne"
+        "value": "BurntOrangeTailOne"
       },
       {
         "trait_type": "Coats",
-        "file_name": "AlvinSweater"
+        "value": "AlvinSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Fire"
+        "value": "Fire"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Shock"
+        "value": "Shock"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "Golden"
+        "value": "Golden"
       },
       {
         "trait_type": "Sunglasses",
-        "file_name": "Golden"
+        "value": "Golden"
       }
     ]
   },
@@ -821,31 +821,31 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "Sunrise"
+        "value": "Sunrise"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "BurntOrangeTailThree"
+        "value": "BurntOrangeTailThree"
       },
       {
         "trait_type": "Coats",
-        "file_name": "GreenSweater"
+        "value": "GreenSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Hazel"
+        "value": "Hazel"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Furious"
+        "value": "Furious"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "Hello"
+        "value": "Hello"
       },
       {
         "trait_type": "Sunglasses",
-        "file_name": "NeonParty"
+        "value": "NeonParty"
       }
     ]
   },
@@ -856,31 +856,31 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "Heart"
+        "value": "Heart"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "OakTailTwo"
+        "value": "OakTailTwo"
       },
       {
         "trait_type": "Coats",
-        "file_name": "GreenSweater"
+        "value": "GreenSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Blue"
+        "value": "Blue"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Shock"
+        "value": "Shock"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "Hello"
+        "value": "Hello"
       },
       {
         "trait_type": "Sunglasses",
-        "file_name": "NeonParty"
+        "value": "NeonParty"
       }
     ]
   },
@@ -891,31 +891,31 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "Midnight"
+        "value": "Midnight"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "OakTailOne"
+        "value": "OakTailOne"
       },
       {
         "trait_type": "Coats",
-        "file_name": "BlueSweater"
+        "value": "BlueSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Fire"
+        "value": "Fire"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Bushy"
+        "value": "Bushy"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "FullSmile"
+        "value": "FullSmile"
       },
       {
         "trait_type": "Sunglasses",
-        "file_name": "NeonParty"
+        "value": "NeonParty"
       }
     ]
   },
@@ -926,31 +926,31 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "Turtle"
+        "value": "Turtle"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "BurntOrangeTailOne"
+        "value": "BurntOrangeTailOne"
       },
       {
         "trait_type": "Coats",
-        "file_name": "AlvinSweater"
+        "value": "AlvinSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Hazel"
+        "value": "Hazel"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Shock"
+        "value": "Shock"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "Shock"
+        "value": "Shock"
       },
       {
         "trait_type": "Sunglasses",
-        "file_name": "Golden"
+        "value": "Golden"
       }
     ]
   },
@@ -961,31 +961,31 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "SkyBlue"
+        "value": "SkyBlue"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "BurntOrangeTailThree"
+        "value": "BurntOrangeTailThree"
       },
       {
         "trait_type": "Coats",
-        "file_name": "AlvinSweater"
+        "value": "AlvinSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Spruce"
+        "value": "Spruce"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Shock"
+        "value": "Shock"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "Hello"
+        "value": "Hello"
       },
       {
         "trait_type": "Sunglasses",
-        "file_name": "WhiteParty"
+        "value": "WhiteParty"
       }
     ]
   },
@@ -996,31 +996,31 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "Mint"
+        "value": "Mint"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "BurntOrangeTailThree"
+        "value": "BurntOrangeTailThree"
       },
       {
         "trait_type": "Coats",
-        "file_name": "GreenSweater"
+        "value": "GreenSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Fire"
+        "value": "Fire"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Shock"
+        "value": "Shock"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "Golden"
+        "value": "Golden"
       },
       {
         "trait_type": "Hats",
-        "file_name": "Red"
+        "value": "Red"
       }
     ]
   },
@@ -1031,31 +1031,31 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "Fuchsia"
+        "value": "Fuchsia"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "BurntOrangeTailTwo"
+        "value": "BurntOrangeTailTwo"
       },
       {
         "trait_type": "Coats",
-        "file_name": "AlvinSweater"
+        "value": "AlvinSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Hazel"
+        "value": "Hazel"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Unibrow"
+        "value": "Unibrow"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "Meh"
+        "value": "Meh"
       },
       {
         "trait_type": "Hats",
-        "file_name": "Red"
+        "value": "Red"
       }
     ]
   },
@@ -1066,31 +1066,31 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "SkyBlue"
+        "value": "SkyBlue"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "BurntOrangeTailThree"
+        "value": "BurntOrangeTailThree"
       },
       {
         "trait_type": "Coats",
-        "file_name": "BlueSweater"
+        "value": "BlueSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Spruce"
+        "value": "Spruce"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Furious"
+        "value": "Furious"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "FullSmile"
+        "value": "FullSmile"
       },
       {
         "trait_type": "Hats",
-        "file_name": "Blue"
+        "value": "Blue"
       }
     ]
   },
@@ -1101,31 +1101,31 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "Sunrise"
+        "value": "Sunrise"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "BurntOrangeTailTwo"
+        "value": "BurntOrangeTailTwo"
       },
       {
         "trait_type": "Coats",
-        "file_name": "GreenSweater"
+        "value": "GreenSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Fire"
+        "value": "Fire"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Shock"
+        "value": "Shock"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "Golden"
+        "value": "Golden"
       },
       {
         "trait_type": "Hats",
-        "file_name": "Blue"
+        "value": "Blue"
       }
     ]
   },
@@ -1136,31 +1136,31 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "Fog"
+        "value": "Fog"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "BurntOrangeTailThree"
+        "value": "BurntOrangeTailThree"
       },
       {
         "trait_type": "Coats",
-        "file_name": "GreenSweater"
+        "value": "GreenSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Hazel"
+        "value": "Hazel"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Calm"
+        "value": "Calm"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "FullSmile"
+        "value": "FullSmile"
       },
       {
         "trait_type": "Hats",
-        "file_name": "Blue"
+        "value": "Blue"
       }
     ]
   },
@@ -1171,31 +1171,31 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "Fog"
+        "value": "Fog"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "BurntOrangeTailOne"
+        "value": "BurntOrangeTailOne"
       },
       {
         "trait_type": "Coats",
-        "file_name": "GreenSweater"
+        "value": "GreenSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Hazel"
+        "value": "Hazel"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Furious"
+        "value": "Furious"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "FullSmile"
+        "value": "FullSmile"
       },
       {
         "trait_type": "Sunglasses",
-        "file_name": "BlackShades"
+        "value": "BlackShades"
       }
     ]
   },
@@ -1206,31 +1206,31 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "BumbleBee"
+        "value": "BumbleBee"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "BurntOrangeTailTwo"
+        "value": "BurntOrangeTailTwo"
       },
       {
         "trait_type": "Coats",
-        "file_name": "BlueSweater"
+        "value": "BlueSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Fire"
+        "value": "Fire"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Inquisitive"
+        "value": "Inquisitive"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "Golden"
+        "value": "Golden"
       },
       {
         "trait_type": "Sunglasses",
-        "file_name": "WhiteShades"
+        "value": "WhiteShades"
       }
     ]
   },
@@ -1241,31 +1241,31 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "BumbleBee"
+        "value": "BumbleBee"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "OakTailThree"
+        "value": "OakTailThree"
       },
       {
         "trait_type": "Coats",
-        "file_name": "GreenSweater"
+        "value": "GreenSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Spruce"
+        "value": "Spruce"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Calm"
+        "value": "Calm"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "Shock"
+        "value": "Shock"
       },
       {
         "trait_type": "Sunglasses",
-        "file_name": "WhiteParty"
+        "value": "WhiteParty"
       }
     ]
   },
@@ -1276,31 +1276,31 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "Emerald"
+        "value": "Emerald"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "OakTailThree"
+        "value": "OakTailThree"
       },
       {
         "trait_type": "Coats",
-        "file_name": "BlueSweater"
+        "value": "BlueSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Fire"
+        "value": "Fire"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Curious"
+        "value": "Curious"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "Beard"
+        "value": "Beard"
       },
       {
         "trait_type": "Sunglasses",
-        "file_name": "HarryPotter"
+        "value": "HarryPotter"
       }
     ]
   },
@@ -1311,31 +1311,31 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "SkyBlue"
+        "value": "SkyBlue"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "BurntOrangeTailTwo"
+        "value": "BurntOrangeTailTwo"
       },
       {
         "trait_type": "Coats",
-        "file_name": "BlueSweater"
+        "value": "BlueSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Fire"
+        "value": "Fire"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Furious"
+        "value": "Furious"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "Crying"
+        "value": "Crying"
       },
       {
         "trait_type": "Sunglasses",
-        "file_name": "WhiteShades"
+        "value": "WhiteShades"
       }
     ]
   },
@@ -1346,35 +1346,35 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "Fog"
+        "value": "Fog"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "OakTailTwo"
+        "value": "OakTailTwo"
       },
       {
         "trait_type": "Coats",
-        "file_name": "AlvinSweater"
+        "value": "AlvinSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Blue"
+        "value": "Blue"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Inquisitive"
+        "value": "Inquisitive"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "Hello"
+        "value": "Hello"
       },
       {
         "trait_type": "Hats",
-        "file_name": "Red"
+        "value": "Red"
       },
       {
         "trait_type": "Sunglasses",
-        "file_name": "NeonNoLense"
+        "value": "NeonNoLense"
       }
     ]
   },
@@ -1385,35 +1385,35 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "Fog"
+        "value": "Fog"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "BurntOrangeTailThree"
+        "value": "BurntOrangeTailThree"
       },
       {
         "trait_type": "Coats",
-        "file_name": "AlvinSweater"
+        "value": "AlvinSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Fire"
+        "value": "Fire"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Furious"
+        "value": "Furious"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "FullSmile"
+        "value": "FullSmile"
       },
       {
         "trait_type": "Hats",
-        "file_name": "Blue"
+        "value": "Blue"
       },
       {
         "trait_type": "Sunglasses",
-        "file_name": "BlackShades"
+        "value": "BlackShades"
       }
     ]
   },
@@ -1424,35 +1424,35 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "DeepSea"
+        "value": "DeepSea"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "OakTailThree"
+        "value": "OakTailThree"
       },
       {
         "trait_type": "Coats",
-        "file_name": "GreenSweater"
+        "value": "GreenSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Blue"
+        "value": "Blue"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Furious"
+        "value": "Furious"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "Beard"
+        "value": "Beard"
       },
       {
         "trait_type": "Hats",
-        "file_name": "Red"
+        "value": "Red"
       },
       {
         "trait_type": "Sunglasses",
-        "file_name": "NeonNoLense"
+        "value": "NeonNoLense"
       }
     ]
   },
@@ -1463,35 +1463,35 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "Sunrise"
+        "value": "Sunrise"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "BurntOrangeTailThree"
+        "value": "BurntOrangeTailThree"
       },
       {
         "trait_type": "Coats",
-        "file_name": "BlueSweater"
+        "value": "BlueSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Spruce"
+        "value": "Spruce"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Bushy"
+        "value": "Bushy"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "Meh"
+        "value": "Meh"
       },
       {
         "trait_type": "Hats",
-        "file_name": "Twirly"
+        "value": "Twirly"
       },
       {
         "trait_type": "Sunglasses",
-        "file_name": "NeonNoLense"
+        "value": "NeonNoLense"
       }
     ]
   },
@@ -1502,35 +1502,35 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "Sunrise"
+        "value": "Sunrise"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "OakTailThree"
+        "value": "OakTailThree"
       },
       {
         "trait_type": "Coats",
-        "file_name": "BlueSweater"
+        "value": "BlueSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Fire"
+        "value": "Fire"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Inquisitive"
+        "value": "Inquisitive"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "FullSmile"
+        "value": "FullSmile"
       },
       {
         "trait_type": "Hats",
-        "file_name": "Red"
+        "value": "Red"
       },
       {
         "trait_type": "Sunglasses",
-        "file_name": "Golden"
+        "value": "Golden"
       }
     ]
   },
@@ -1541,35 +1541,35 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "Sunrise"
+        "value": "Sunrise"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "OakTailThree"
+        "value": "OakTailThree"
       },
       {
         "trait_type": "Coats",
-        "file_name": "AlvinSweater"
+        "value": "AlvinSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Hazel"
+        "value": "Hazel"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Inquisitive"
+        "value": "Inquisitive"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "FullSmile"
+        "value": "FullSmile"
       },
       {
         "trait_type": "Hats",
-        "file_name": "Blue"
+        "value": "Blue"
       },
       {
         "trait_type": "Sunglasses",
-        "file_name": "BlackShades"
+        "value": "BlackShades"
       }
     ]
   },
@@ -1580,35 +1580,35 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "Mint"
+        "value": "Mint"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "OakTailOne"
+        "value": "OakTailOne"
       },
       {
         "trait_type": "Coats",
-        "file_name": "AlvinSweater"
+        "value": "AlvinSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Fire"
+        "value": "Fire"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Inquisitive"
+        "value": "Inquisitive"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "Beard"
+        "value": "Beard"
       },
       {
         "trait_type": "Hats",
-        "file_name": "Red"
+        "value": "Red"
       },
       {
         "trait_type": "Sunglasses",
-        "file_name": "HarryPotter"
+        "value": "HarryPotter"
       }
     ]
   },
@@ -1619,35 +1619,35 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "Mint"
+        "value": "Mint"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "BurntOrangeTailTwo"
+        "value": "BurntOrangeTailTwo"
       },
       {
         "trait_type": "Coats",
-        "file_name": "BlueSweater"
+        "value": "BlueSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Blue"
+        "value": "Blue"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Calm"
+        "value": "Calm"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "FullSmile"
+        "value": "FullSmile"
       },
       {
         "trait_type": "Hats",
-        "file_name": "Red"
+        "value": "Red"
       },
       {
         "trait_type": "Sunglasses",
-        "file_name": "HarryPotter"
+        "value": "HarryPotter"
       }
     ]
   },
@@ -1658,35 +1658,35 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "Midnight"
+        "value": "Midnight"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "BurntOrangeTailTwo"
+        "value": "BurntOrangeTailTwo"
       },
       {
         "trait_type": "Coats",
-        "file_name": "GreenSweater"
+        "value": "GreenSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Blue"
+        "value": "Blue"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Bushy"
+        "value": "Bushy"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "Hello"
+        "value": "Hello"
       },
       {
         "trait_type": "Hats",
-        "file_name": "Blue"
+        "value": "Blue"
       },
       {
         "trait_type": "Sunglasses",
-        "file_name": "WhiteShades"
+        "value": "WhiteShades"
       }
     ]
   },
@@ -1697,35 +1697,35 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "Midnight"
+        "value": "Midnight"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "OakTailOne"
+        "value": "OakTailOne"
       },
       {
         "trait_type": "Coats",
-        "file_name": "BlueSweater"
+        "value": "BlueSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Spruce"
+        "value": "Spruce"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Inquisitive"
+        "value": "Inquisitive"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "Golden"
+        "value": "Golden"
       },
       {
         "trait_type": "Hats",
-        "file_name": "Blue"
+        "value": "Blue"
       },
       {
         "trait_type": "Sunglasses",
-        "file_name": "HarryPotter"
+        "value": "HarryPotter"
       }
     ]
   },
@@ -1736,35 +1736,35 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "SkyBlue"
+        "value": "SkyBlue"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "BurntOrangeTailOne"
+        "value": "BurntOrangeTailOne"
       },
       {
         "trait_type": "Coats",
-        "file_name": "GreenSweater"
+        "value": "GreenSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Spruce"
+        "value": "Spruce"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Shock"
+        "value": "Shock"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "FullSmile"
+        "value": "FullSmile"
       },
       {
         "trait_type": "Hats",
-        "file_name": "Twirly"
+        "value": "Twirly"
       },
       {
         "trait_type": "Sunglasses",
-        "file_name": "NeonShades"
+        "value": "NeonShades"
       }
     ]
   },
@@ -1775,35 +1775,35 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "Midnight"
+        "value": "Midnight"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "BurntOrangeTailTwo"
+        "value": "BurntOrangeTailTwo"
       },
       {
         "trait_type": "Coats",
-        "file_name": "GreenSweater"
+        "value": "GreenSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Spruce"
+        "value": "Spruce"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Furious"
+        "value": "Furious"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "Shock"
+        "value": "Shock"
       },
       {
         "trait_type": "Hats",
-        "file_name": "Twirly"
+        "value": "Twirly"
       },
       {
         "trait_type": "Sunglasses",
-        "file_name": "NeonParty"
+        "value": "NeonParty"
       }
     ]
   },
@@ -1814,35 +1814,35 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "Sunrise"
+        "value": "Sunrise"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "OakTailTwo"
+        "value": "OakTailTwo"
       },
       {
         "trait_type": "Coats",
-        "file_name": "GreenSweater"
+        "value": "GreenSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Hazel"
+        "value": "Hazel"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Furious"
+        "value": "Furious"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "FullSmile"
+        "value": "FullSmile"
       },
       {
         "trait_type": "Hats",
-        "file_name": "Twirly"
+        "value": "Twirly"
       },
       {
         "trait_type": "Sunglasses",
-        "file_name": "WhiteParty"
+        "value": "WhiteParty"
       }
     ]
   },
@@ -1853,35 +1853,35 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "Violet"
+        "value": "Violet"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "OakTailTwo"
+        "value": "OakTailTwo"
       },
       {
         "trait_type": "Coats",
-        "file_name": "GreenSweater"
+        "value": "GreenSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Hazel"
+        "value": "Hazel"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Curious"
+        "value": "Curious"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "Beard"
+        "value": "Beard"
       },
       {
         "trait_type": "Hats",
-        "file_name": "Twirly"
+        "value": "Twirly"
       },
       {
         "trait_type": "Sunglasses",
-        "file_name": "NeonShades"
+        "value": "NeonShades"
       }
     ]
   },
@@ -1892,35 +1892,35 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "Fuchsia"
+        "value": "Fuchsia"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "BurntOrangeTailOne"
+        "value": "BurntOrangeTailOne"
       },
       {
         "trait_type": "Coats",
-        "file_name": "BlueSweater"
+        "value": "BlueSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Blue"
+        "value": "Blue"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Bushy"
+        "value": "Bushy"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "Meh"
+        "value": "Meh"
       },
       {
         "trait_type": "Hats",
-        "file_name": "Red"
+        "value": "Red"
       },
       {
         "trait_type": "Sunglasses",
-        "file_name": "HarryPotter"
+        "value": "HarryPotter"
       }
     ]
   },
@@ -1931,35 +1931,35 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "Violet"
+        "value": "Violet"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "OakTailTwo"
+        "value": "OakTailTwo"
       },
       {
         "trait_type": "Coats",
-        "file_name": "AlvinSweater"
+        "value": "AlvinSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Blue"
+        "value": "Blue"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Unibrow"
+        "value": "Unibrow"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "Beard"
+        "value": "Beard"
       },
       {
         "trait_type": "FaceCoverings",
-        "file_name": "Stoned"
+        "value": "Stoned"
       },
       {
         "trait_type": "Hats",
-        "file_name": "Red"
+        "value": "Red"
       }
     ]
   },
@@ -1970,35 +1970,35 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "DesertWind"
+        "value": "DesertWind"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "BurntOrangeTailOne"
+        "value": "BurntOrangeTailOne"
       },
       {
         "trait_type": "Coats",
-        "file_name": "GreenSweater"
+        "value": "GreenSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Blue"
+        "value": "Blue"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Shock"
+        "value": "Shock"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "Crying"
+        "value": "Crying"
       },
       {
         "trait_type": "FaceCoverings",
-        "file_name": "Stoned"
+        "value": "Stoned"
       },
       {
         "trait_type": "Hats",
-        "file_name": "Red"
+        "value": "Red"
       }
     ]
   },
@@ -2009,35 +2009,35 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "Fog"
+        "value": "Fog"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "OakTailTwo"
+        "value": "OakTailTwo"
       },
       {
         "trait_type": "Coats",
-        "file_name": "BlueSweater"
+        "value": "BlueSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Hazel"
+        "value": "Hazel"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Unibrow"
+        "value": "Unibrow"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "Crying"
+        "value": "Crying"
       },
       {
         "trait_type": "FaceCoverings",
-        "file_name": "Stoned"
+        "value": "Stoned"
       },
       {
         "trait_type": "Hats",
-        "file_name": "Red"
+        "value": "Red"
       }
     ]
   },
@@ -2048,35 +2048,35 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "Mint"
+        "value": "Mint"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "OakTailOne"
+        "value": "OakTailOne"
       },
       {
         "trait_type": "Coats",
-        "file_name": "GreenSweater"
+        "value": "GreenSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Fire"
+        "value": "Fire"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Curious"
+        "value": "Curious"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "Shock"
+        "value": "Shock"
       },
       {
         "trait_type": "FaceCoverings",
-        "file_name": "Stoned"
+        "value": "Stoned"
       },
       {
         "trait_type": "Hats",
-        "file_name": "Twirly"
+        "value": "Twirly"
       }
     ]
   },
@@ -2087,35 +2087,35 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "DesertWind"
+        "value": "DesertWind"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "BurntOrangeTailThree"
+        "value": "BurntOrangeTailThree"
       },
       {
         "trait_type": "Coats",
-        "file_name": "BlueSweater"
+        "value": "BlueSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Spruce"
+        "value": "Spruce"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Curious"
+        "value": "Curious"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "Beard"
+        "value": "Beard"
       },
       {
         "trait_type": "FaceCoverings",
-        "file_name": "Stoned"
+        "value": "Stoned"
       },
       {
         "trait_type": "Hats",
-        "file_name": "Twirly"
+        "value": "Twirly"
       }
     ]
   },
@@ -2126,35 +2126,35 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "Heart"
+        "value": "Heart"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "OakTailTwo"
+        "value": "OakTailTwo"
       },
       {
         "trait_type": "Coats",
-        "file_name": "GreenSweater"
+        "value": "GreenSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Hazel"
+        "value": "Hazel"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Unibrow"
+        "value": "Unibrow"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "FullSmile"
+        "value": "FullSmile"
       },
       {
         "trait_type": "FaceCoverings",
-        "file_name": "Stoned"
+        "value": "Stoned"
       },
       {
         "trait_type": "Hats",
-        "file_name": "Blue"
+        "value": "Blue"
       }
     ]
   },
@@ -2165,35 +2165,35 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "Grass"
+        "value": "Grass"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "OakTailOne"
+        "value": "OakTailOne"
       },
       {
         "trait_type": "Coats",
-        "file_name": "GreenSweater"
+        "value": "GreenSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Spruce"
+        "value": "Spruce"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Calm"
+        "value": "Calm"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "Golden"
+        "value": "Golden"
       },
       {
         "trait_type": "FaceCoverings",
-        "file_name": "Covid19"
+        "value": "Covid19"
       },
       {
         "trait_type": "Hats",
-        "file_name": "Twirly"
+        "value": "Twirly"
       }
     ]
   },
@@ -2204,35 +2204,35 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "Emerald"
+        "value": "Emerald"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "OakTailTwo"
+        "value": "OakTailTwo"
       },
       {
         "trait_type": "Coats",
-        "file_name": "BlueSweater"
+        "value": "BlueSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Blue"
+        "value": "Blue"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Unibrow"
+        "value": "Unibrow"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "Shock"
+        "value": "Shock"
       },
       {
         "trait_type": "FaceCoverings",
-        "file_name": "Stoned"
+        "value": "Stoned"
       },
       {
         "trait_type": "Hats",
-        "file_name": "Twirly"
+        "value": "Twirly"
       }
     ]
   },
@@ -2243,35 +2243,35 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "Midnight"
+        "value": "Midnight"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "OakTailThree"
+        "value": "OakTailThree"
       },
       {
         "trait_type": "Coats",
-        "file_name": "BlueSweater"
+        "value": "BlueSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Blue"
+        "value": "Blue"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Curious"
+        "value": "Curious"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "Meh"
+        "value": "Meh"
       },
       {
         "trait_type": "FaceCoverings",
-        "file_name": "Covid19"
+        "value": "Covid19"
       },
       {
         "trait_type": "Hats",
-        "file_name": "Blue"
+        "value": "Blue"
       }
     ]
   },
@@ -2282,35 +2282,35 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "Heart"
+        "value": "Heart"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "BurntOrangeTailThree"
+        "value": "BurntOrangeTailThree"
       },
       {
         "trait_type": "Coats",
-        "file_name": "GreenSweater"
+        "value": "GreenSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Blue"
+        "value": "Blue"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Shock"
+        "value": "Shock"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "Hello"
+        "value": "Hello"
       },
       {
         "trait_type": "FaceCoverings",
-        "file_name": "Covid19"
+        "value": "Covid19"
       },
       {
         "trait_type": "Hats",
-        "file_name": "Red"
+        "value": "Red"
       }
     ]
   },
@@ -2321,39 +2321,39 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "Heart"
+        "value": "Heart"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "BurntOrangeTailTwo"
+        "value": "BurntOrangeTailTwo"
       },
       {
         "trait_type": "Coats",
-        "file_name": "BlueSweater"
+        "value": "BlueSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Blue"
+        "value": "Blue"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Calm"
+        "value": "Calm"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "Crying"
+        "value": "Crying"
       },
       {
         "trait_type": "FaceCoverings",
-        "file_name": "Stoned"
+        "value": "Stoned"
       },
       {
         "trait_type": "Sunglasses",
-        "file_name": "WhiteParty"
+        "value": "WhiteParty"
       },
       {
         "trait_type": "Hats",
-        "file_name": "Red"
+        "value": "Red"
       }
     ]
   },
@@ -2364,39 +2364,39 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "Mint"
+        "value": "Mint"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "BurntOrangeTailThree"
+        "value": "BurntOrangeTailThree"
       },
       {
         "trait_type": "Coats",
-        "file_name": "AlvinSweater"
+        "value": "AlvinSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Spruce"
+        "value": "Spruce"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Calm"
+        "value": "Calm"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "Shock"
+        "value": "Shock"
       },
       {
         "trait_type": "FaceCoverings",
-        "file_name": "Stoned"
+        "value": "Stoned"
       },
       {
         "trait_type": "Sunglasses",
-        "file_name": "BlackShades"
+        "value": "BlackShades"
       },
       {
         "trait_type": "Hats",
-        "file_name": "Twirly"
+        "value": "Twirly"
       }
     ]
   },
@@ -2407,39 +2407,39 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "BumbleBee"
+        "value": "BumbleBee"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "OakTailThree"
+        "value": "OakTailThree"
       },
       {
         "trait_type": "Coats",
-        "file_name": "GreenSweater"
+        "value": "GreenSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Blue"
+        "value": "Blue"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Furious"
+        "value": "Furious"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "FullSmile"
+        "value": "FullSmile"
       },
       {
         "trait_type": "FaceCoverings",
-        "file_name": "Covid19"
+        "value": "Covid19"
       },
       {
         "trait_type": "Sunglasses",
-        "file_name": "NeonNoLense"
+        "value": "NeonNoLense"
       },
       {
         "trait_type": "Hats",
-        "file_name": "Blue"
+        "value": "Blue"
       }
     ]
   },
@@ -2450,39 +2450,39 @@
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "file_name": "Turtle"
+        "value": "Turtle"
       },
       {
         "trait_type": "BodyAndTails",
-        "file_name": "BurntOrangeTailThree"
+        "value": "BurntOrangeTailThree"
       },
       {
         "trait_type": "Coats",
-        "file_name": "BlueSweater"
+        "value": "BlueSweater"
       },
       {
         "trait_type": "Eyes",
-        "file_name": "Blue"
+        "value": "Blue"
       },
       {
         "trait_type": "Eyebrows",
-        "file_name": "Curious"
+        "value": "Curious"
       },
       {
         "trait_type": "Mouths",
-        "file_name": "FullSmile"
+        "value": "FullSmile"
       },
       {
         "trait_type": "FaceCoverings",
-        "file_name": "Stoned"
+        "value": "Stoned"
       },
       {
         "trait_type": "Sunglasses",
-        "file_name": "NeonParty"
+        "value": "NeonParty"
       },
       {
         "trait_type": "Hats",
-        "file_name": "Twirly"
+        "value": "Twirly"
       }
     ]
   }
