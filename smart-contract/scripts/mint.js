@@ -9,7 +9,7 @@ const FACTORY_CONTRACT_ADDRESS = process.env.FACTORY_CONTRACT_ADDRESS;
 const NFT_CONTRACT_ADDRESS = process.env.NFT_CONTRACT_ADDRESS;
 const OWNER_ADDRESS = process.env.OWNER_ADDRESS;
 const NETWORK = process.env.NETWORK;
-const NUM_SQUIRRELS = 100;
+const NUM_SQUIRRELS = 69;
 const NUM_LOOTBOXES = 0;
 const DEFAULT_OPTION_ID = 0;
 const LOOTBOX_OPTION_ID = 2;
@@ -70,7 +70,9 @@ async function main() {
   );
   const web3Instance = new web3(provider);
 
-  if (FACTORY_CONTRACT_ADDRESS) {
+  var factory = false;
+
+  if (factory) {
     const factoryContract = new web3Instance.eth.Contract(
       FACTORY_ABI,
       FACTORY_CONTRACT_ADDRESS,

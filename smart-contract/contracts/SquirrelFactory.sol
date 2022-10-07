@@ -18,17 +18,17 @@ contract SquirrelFactory is FactoryERC721, Ownable {
 
     address public proxyRegistryAddress;
     address public nftAddress;
-    string public baseURI = "https://nuthouse.herokuapp.com/api/factory/";
+    string public baseURI = "https://nuthouse.herokuapp.com/api/token/";
 
     /*
-     * Enforce the existence of only 420 OpenSea squirrels.
+     * Enforce the existence of only 69 OpenSea squirrels.
      */
-    uint256 SQUIRREL_SUPPLY = 420;
+    uint256 SQUIRREL_SUPPLY = 69;
 
     /*
      * Three different options for minting Squirrels (basic, premium, and gold).
      */
-    uint256 NUM_OPTIONS = 3;
+    uint256 NUM_OPTIONS = 1;
     uint256 SINGLE_SQUIRREL_OPTION = 0;
     uint256 MULTIPLE_SQUIRREL_OPTION = 1;
     // uint256 LOOTBOX_OPTION = 2;
@@ -42,11 +42,11 @@ contract SquirrelFactory is FactoryERC721, Ownable {
     }
 
     function name() override external pure returns (string memory) {
-        return "OpenSeaSquirrel Item Sale";
+        return "Welcome to the Nuthouse";
     }
 
     function symbol() override external pure returns (string memory) {
-        return "CPF";
+        return "NUT";
     }
 
     function supportsFactoryInterface() override public pure returns (bool) {
@@ -99,13 +99,12 @@ contract SquirrelFactory is FactoryERC721, Ownable {
 
         Squirrel openSeaSquirrel = Squirrel(nftAddress);
         uint256 squirrelSupply = openSeaSquirrel.totalSupply();
-
-        uint256 numItemsAllocated = 0;
-        if (_optionId == SINGLE_SQUIRREL_OPTION) {
-            numItemsAllocated = 1;
-        } else if (_optionId == MULTIPLE_SQUIRREL_OPTION) {
-            numItemsAllocated = NUM_SQUIRRELS_IN_MULTIPLE_SQUIRREL_OPTION;
-        } 
+        /* 
+            Below you could create logic to select from various minting options
+            using the optionId flag.
+            For this basic example we will just use one per mint.
+        */ 
+        uint256 numItemsAllocated = 1;
         return squirrelSupply < (SQUIRREL_SUPPLY - numItemsAllocated);
     }
 
